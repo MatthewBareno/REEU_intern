@@ -19,6 +19,17 @@ To beging with these analyis, the student need to get familiarized with unix/lin
 2.3 Accessing data 
 
 
+**Today:**
+1. Access to the CQLS
+2. Create a directory to organize your github
+3. Create a repository for the poplar/septoria GWAS on GitHub
+3.1 Clone your repository to the CQLS cluster
+3.2 Create the folder structure following the book "Guide to reproducible code"
+3.3 Create the folders with `mkdir` and populate the directories witgh "mock" files and scripts (comment the files with your name). 
+4. Clone your gwas repository in your local git (on your ubuntu machine).
+
+
+
 ### Readings:
 Tutorials: 
 Linux: https://www.guru99.com/unix-linux-tutorial.html \
