@@ -29,7 +29,7 @@ To beging with these analyis, the student need to get familiarized with unix/lin
 4. Clone your gwas repository in your local git (on your ubuntu machine)
 
 **29 Jun**
-1. Install [`cutadapt`](https://cutadapt.readthedocs.io/en/stable/)
+1. Install [`cutadapt`](https://cutadapt.readthedocs.io/en/stable/) \
 1.1 Read the [manual](https://cutadapt.readthedocs.io/en/stable/guide.html) 
 2. Find the adapter 
 > Hint: is in one of your outputs from fastQC
