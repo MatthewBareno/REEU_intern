@@ -28,17 +28,19 @@ To beging with these analyis, the student need to get familiarized with unix/lin
 3.3 Create the folders with `mkdir` and populate the directories witgh "mock" files and scripts (comment the files with your name) \
 4. Clone your gwas repository in your local git (on your ubuntu machine)
 
-**Today**
+**29 Jun**
 1. Install [`cutadapt`](https://cutadapt.readthedocs.io/en/stable/)
 1.1 Read the [manual](https://cutadapt.readthedocs.io/en/stable/guide.html) 
 2. Find the adapter 
 > Hint: is in one of your outputs from fastQC
 3. Cut yor primers and filter by quality below 30 Phred score
+4. Put together a [`bash`](https://www.gnu.org/software/bash/) script to process ALL your samples with one script
 
 ### Readings:
 Tutorials: 
 Linux: https://www.guru99.com/unix-linux-tutorial.html \
 How to install linux: https://www.guru99.com/install-linux.html \
+BASH Sheetcheat: https://devhints.io/bash
 Reproducible code: https://www.britishecologicalsociety.org/wp-content/uploads/2017/12/guide-to-reproducible-code.pdf \
 GWAS: https://www.pnas.org/doi/10.1073/pnas.1804428115 \
       https://apsjournals.apsnet.org/doi/10.1094/MPMI-05-19-0131-R
