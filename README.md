@@ -19,7 +19,7 @@ To beging with these analyis, the student need to get familiarized with unix/lin
 2.3 Accessing data 
 
 
-**Today:**
+**28 Jun:**
 1. Access to the CQLS \
 2. Create a directory to organize your github \
 3. Create a repository for the poplar/septoria GWAS on GitHub \
@@ -28,7 +28,12 @@ To beging with these analyis, the student need to get familiarized with unix/lin
 3.3 Create the folders with `mkdir` and populate the directories witgh "mock" files and scripts (comment the files with your name) \
 4. Clone your gwas repository in your local git (on your ubuntu machine)
 
-
+**Today**
+1. Install [`cutadapt`](https://cutadapt.readthedocs.io/en/stable/)
+1.1 Read the [manual](https://cutadapt.readthedocs.io/en/stable/guide.html) 
+2. Find the adapter 
+> Hint: is in one of your outpits from fastQC
+3. Cut yor primers and filter by quality below 30 Phred score
 
 ### Readings:
 Tutorials: 
