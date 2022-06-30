@@ -36,7 +36,14 @@ To beging with these analyis, the student need to get familiarized with unix/lin
 4. Put together a [`bash`](https://www.gnu.org/software/bash/) script to process ALL your samples with one script
 > Hint: You can find the adapter in one of your outputs from fastQC
 
-** Today **
+**Today**
+1. Work with bash commands
+      - `sed`
+      - `cut`
+      - `awk`
+2. Practices loops for `bash`
+
+
 1. Retrive from NCBI or any other database the genomes of:
       - _Populus trichocarpa_
       - _Septoria musiva_ \
