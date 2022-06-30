@@ -36,6 +36,21 @@ To beging with these analyis, the student need to get familiarized with unix/lin
 3. Cut yor primers and filter by quality below 30 Phred score
 4. Put together a [`bash`](https://www.gnu.org/software/bash/) script to process ALL your samples with one script
 
+** Today **
+1. Retrive from NCBI or any other database the genomes of:
+      - _Populus trichocarpa_
+      - _Septoria musiva_ \
+      (Find the reference genomes information on the manuscripts)
+2. Understand the formats and concepts behing a genome assembly
+3. Summarize the genome data for _P. trichocarpa_ and _S. musiva_
+> Hints:
+Genome size: \
+No of contigs: \
+N50:\
+No. of genes: \ 
+and more! 
+
+
 ### Readings:
 Tutorials: 
 Linux: https://www.guru99.com/unix-linux-tutorial.html \
@@ -43,6 +58,6 @@ How to install linux: https://www.guru99.com/install-linux.html \
 BASH Sheetcheat: https://devhints.io/bash
 Reproducible code: https://www.britishecologicalsociety.org/wp-content/uploads/2017/12/guide-to-reproducible-code.pdf \
 GWAS: https://www.pnas.org/doi/10.1073/pnas.1804428115 \
-      https://apsjournals.apsnet.org/doi/10.1094/MPMI-05-19-0131-R
+PopGen: https://apsjournals.apsnet.org/doi/10.1094/MPMI-05-19-0131-R
       
       
