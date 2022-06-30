@@ -32,9 +32,9 @@ To beging with these analyis, the student need to get familiarized with unix/lin
 1. Install [`cutadapt`](https://cutadapt.readthedocs.io/en/stable/) \
 1.1 Read the [manual](https://cutadapt.readthedocs.io/en/stable/guide.html) 
 2. Find the adapter 
-> Hint: is in one of your outputs from fastQC
 3. Cut yor primers and filter by quality below 30 Phred score
 4. Put together a [`bash`](https://www.gnu.org/software/bash/) script to process ALL your samples with one script
+> Hint: You can find the adapter in one of your outputs from fastQC
 
 ** Today **
 1. Retrive from NCBI or any other database the genomes of:
