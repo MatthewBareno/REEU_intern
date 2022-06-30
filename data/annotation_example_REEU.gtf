@@ -1,0 +1,1036 @@
+NODE_1_length_537748_cov_127.728364	AUGUSTUS	stop_codon	321135	321137	.	-	0	transcript_id "file_1_file_1_g427.t1"; gene_id "file_1_file_1_g427";
+NODE_1_length_537748_cov_127.728364	AUGUSTUS	CDS	321135	321479	1	-	0	transcript_id "file_1_file_1_g427.t1"; gene_id "file_1_file_1_g427";
+NODE_1_length_537748_cov_127.728364	AUGUSTUS	exon	321135	321479	.	-	.	transcript_id "file_1_file_1_g427.t1"; gene_id "file_1_file_1_g427";
+NODE_1_length_537748_cov_127.728364	AUGUSTUS	intron	321480	321554	1	-	.	transcript_id "file_1_file_1_g427.t1"; gene_id "file_1_file_1_g427";
+NODE_1_length_537748_cov_127.728364	AUGUSTUS	CDS	321555	322073	1	-	0	transcript_id "file_1_file_1_g427.t1"; gene_id "file_1_file_1_g427";
+NODE_1_length_537748_cov_127.728364	AUGUSTUS	exon	321555	322073	.	-	.	transcript_id "file_1_file_1_g427.t1"; gene_id "file_1_file_1_g427";
+NODE_1_length_537748_cov_127.728364	AUGUSTUS	intron	322074	322161	1	-	.	transcript_id "file_1_file_1_g427.t1"; gene_id "file_1_file_1_g427";
+NODE_1_length_537748_cov_127.728364	AUGUSTUS	CDS	322162	322179	1	-	0	transcript_id "file_1_file_1_g427.t1"; gene_id "file_1_file_1_g427";
+NODE_1_length_537748_cov_127.728364	AUGUSTUS	exon	322162	322179	.	-	.	transcript_id "file_1_file_1_g427.t1"; gene_id "file_1_file_1_g427";
+NODE_1_length_537748_cov_127.728364	AUGUSTUS	intron	322180	322385	1	-	.	transcript_id "file_1_file_1_g427.t1"; gene_id "file_1_file_1_g427";
+NODE_1_length_537748_cov_127.728364	AUGUSTUS	CDS	322386	322448	1	-	0	transcript_id "file_1_file_1_g427.t1"; gene_id "file_1_file_1_g427";
+NODE_1_length_537748_cov_127.728364	AUGUSTUS	exon	322386	322448	.	-	.	transcript_id "file_1_file_1_g427.t1"; gene_id "file_1_file_1_g427";
+NODE_1_length_537748_cov_127.728364	AUGUSTUS	intron	322449	322500	1	-	.	transcript_id "file_1_file_1_g427.t1"; gene_id "file_1_file_1_g427";
+NODE_1_length_537748_cov_127.728364	AUGUSTUS	CDS	322501	322554	1	-	0	transcript_id "file_1_file_1_g427.t1"; gene_id "file_1_file_1_g427";
+NODE_1_length_537748_cov_127.728364	AUGUSTUS	exon	322501	322554	.	-	.	transcript_id "file_1_file_1_g427.t1"; gene_id "file_1_file_1_g427";
+NODE_1_length_537748_cov_127.728364	AUGUSTUS	intron	322555	322776	1	-	.	transcript_id "file_1_file_1_g427.t1"; gene_id "file_1_file_1_g427";
+NODE_1_length_537748_cov_127.728364	AUGUSTUS	CDS	322777	322827	1	-	0	transcript_id "file_1_file_1_g427.t1"; gene_id "file_1_file_1_g427";
+NODE_1_length_537748_cov_127.728364	AUGUSTUS	exon	322777	322827	.	-	.	transcript_id "file_1_file_1_g427.t1"; gene_id "file_1_file_1_g427";
+NODE_1_length_537748_cov_127.728364	AUGUSTUS	intron	322828	322887	1	-	.	transcript_id "file_1_file_1_g427.t1"; gene_id "file_1_file_1_g427";
+NODE_1_length_537748_cov_127.728364	AUGUSTUS	CDS	322888	322937	1	-	2	transcript_id "file_1_file_1_g427.t1"; gene_id "file_1_file_1_g427";
+NODE_1_length_537748_cov_127.728364	AUGUSTUS	exon	322888	322937	.	-	.	transcript_id "file_1_file_1_g427.t1"; gene_id "file_1_file_1_g427";
+NODE_1_length_537748_cov_127.728364	AUGUSTUS	intron	322938	323388	1	-	.	transcript_id "file_1_file_1_g427.t1"; gene_id "file_1_file_1_g427";
+NODE_1_length_537748_cov_127.728364	AUGUSTUS	CDS	323389	323522	1	-	1	transcript_id "file_1_file_1_g427.t1"; gene_id "file_1_file_1_g427";
+NODE_1_length_537748_cov_127.728364	AUGUSTUS	exon	323389	323522	.	-	.	transcript_id "file_1_file_1_g427.t1"; gene_id "file_1_file_1_g427";
+NODE_1_length_537748_cov_127.728364	AUGUSTUS	intron	323523	323826	1	-	.	transcript_id "file_1_file_1_g427.t1"; gene_id "file_1_file_1_g427";
+NODE_1_length_537748_cov_127.728364	AUGUSTUS	CDS	323827	323857	0.99	-	2	transcript_id "file_1_file_1_g427.t1"; gene_id "file_1_file_1_g427";
+NODE_1_length_537748_cov_127.728364	AUGUSTUS	exon	323827	323857	.	-	.	transcript_id "file_1_file_1_g427.t1"; gene_id "file_1_file_1_g427";
+NODE_1_length_537748_cov_127.728364	AUGUSTUS	intron	323858	324123	0.97	-	.	transcript_id "file_1_file_1_g427.t1"; gene_id "file_1_file_1_g427";
+NODE_1_length_537748_cov_127.728364	AUGUSTUS	CDS	324124	324141	0.99	-	2	transcript_id "file_1_file_1_g427.t1"; gene_id "file_1_file_1_g427";
+NODE_1_length_537748_cov_127.728364	AUGUSTUS	exon	324124	324141	.	-	.	transcript_id "file_1_file_1_g427.t1"; gene_id "file_1_file_1_g427";
+NODE_1_length_537748_cov_127.728364	AUGUSTUS	intron	324142	324200	1	-	.	transcript_id "file_1_file_1_g427.t1"; gene_id "file_1_file_1_g427";
+NODE_1_length_537748_cov_127.728364	AUGUSTUS	CDS	324201	324322	1	-	1	transcript_id "file_1_file_1_g427.t1"; gene_id "file_1_file_1_g427";
+NODE_1_length_537748_cov_127.728364	AUGUSTUS	exon	324201	324322	.	-	.	transcript_id "file_1_file_1_g427.t1"; gene_id "file_1_file_1_g427";
+NODE_1_length_537748_cov_127.728364	AUGUSTUS	intron	324323	324378	1	-	.	transcript_id "file_1_file_1_g427.t1"; gene_id "file_1_file_1_g427";
+NODE_1_length_537748_cov_127.728364	AUGUSTUS	CDS	324379	324397	1	-	2	transcript_id "file_1_file_1_g427.t1"; gene_id "file_1_file_1_g427";
+NODE_1_length_537748_cov_127.728364	AUGUSTUS	exon	324379	324397	.	-	.	transcript_id "file_1_file_1_g427.t1"; gene_id "file_1_file_1_g427";
+NODE_1_length_537748_cov_127.728364	AUGUSTUS	intron	324398	324452	1	-	.	transcript_id "file_1_file_1_g427.t1"; gene_id "file_1_file_1_g427";
+NODE_1_length_537748_cov_127.728364	AUGUSTUS	CDS	324453	324538	1	-	1	transcript_id "file_1_file_1_g427.t1"; gene_id "file_1_file_1_g427";
+NODE_1_length_537748_cov_127.728364	AUGUSTUS	exon	324453	324538	.	-	.	transcript_id "file_1_file_1_g427.t1"; gene_id "file_1_file_1_g427";
+NODE_1_length_537748_cov_127.728364	AUGUSTUS	intron	324539	324619	1	-	.	transcript_id "file_1_file_1_g427.t1"; gene_id "file_1_file_1_g427";
+NODE_1_length_537748_cov_127.728364	AUGUSTUS	CDS	324620	324782	1	-	2	transcript_id "file_1_file_1_g427.t1"; gene_id "file_1_file_1_g427";
+NODE_1_length_537748_cov_127.728364	AUGUSTUS	exon	324620	324782	.	-	.	transcript_id "file_1_file_1_g427.t1"; gene_id "file_1_file_1_g427";
+NODE_1_length_537748_cov_127.728364	AUGUSTUS	intron	324783	324871	1	-	.	transcript_id "file_1_file_1_g427.t1"; gene_id "file_1_file_1_g427";
+NODE_1_length_537748_cov_127.728364	AUGUSTUS	CDS	324872	324980	1	-	0	transcript_id "file_1_file_1_g427.t1"; gene_id "file_1_file_1_g427";
+NODE_1_length_537748_cov_127.728364	AUGUSTUS	gene	321135	324980	0.97	-	.	file_1_file_1_g427
+NODE_1_length_537748_cov_127.728364	AUGUSTUS	transcript	321135	324980	0.97	-	.	file_1_file_1_g427.t1
+NODE_1_length_537748_cov_127.728364	AUGUSTUS	exon	324872	324980	.	-	.	transcript_id "file_1_file_1_g427.t1"; gene_id "file_1_file_1_g427";
+NODE_1_length_537748_cov_127.728364	AUGUSTUS	start_codon	324978	324980	.	-	0	transcript_id "file_1_file_1_g427.t1"; gene_id "file_1_file_1_g427";
+NODE_124_length_69903_cov_120.761450	AUGUSTUS	start_codon	17983	17985	.	+	0	transcript_id "file_1_file_1_g10680.t1"; gene_id "file_1_file_1_g10680";
+NODE_124_length_69903_cov_120.761450	AUGUSTUS	CDS	17983	18151	1	+	0	transcript_id "file_1_file_1_g10680.t1"; gene_id "file_1_file_1_g10680";
+NODE_124_length_69903_cov_120.761450	AUGUSTUS	exon	17983	18151	.	+	.	transcript_id "file_1_file_1_g10680.t1"; gene_id "file_1_file_1_g10680";
+NODE_124_length_69903_cov_120.761450	AUGUSTUS	intron	18152	18206	1	+	.	transcript_id "file_1_file_1_g10680.t1"; gene_id "file_1_file_1_g10680";
+NODE_124_length_69903_cov_120.761450	AUGUSTUS	CDS	18207	18307	1	+	2	transcript_id "file_1_file_1_g10680.t1"; gene_id "file_1_file_1_g10680";
+NODE_124_length_69903_cov_120.761450	AUGUSTUS	exon	18207	18307	.	+	.	transcript_id "file_1_file_1_g10680.t1"; gene_id "file_1_file_1_g10680";
+NODE_124_length_69903_cov_120.761450	AUGUSTUS	intron	18308	18366	1	+	.	transcript_id "file_1_file_1_g10680.t1"; gene_id "file_1_file_1_g10680";
+NODE_124_length_69903_cov_120.761450	AUGUSTUS	CDS	18367	18451	1	+	0	transcript_id "file_1_file_1_g10680.t1"; gene_id "file_1_file_1_g10680";
+NODE_124_length_69903_cov_120.761450	AUGUSTUS	exon	18367	18451	.	+	.	transcript_id "file_1_file_1_g10680.t1"; gene_id "file_1_file_1_g10680";
+NODE_124_length_69903_cov_120.761450	AUGUSTUS	intron	18452	18513	1	+	.	transcript_id "file_1_file_1_g10680.t1"; gene_id "file_1_file_1_g10680";
+NODE_124_length_69903_cov_120.761450	AUGUSTUS	CDS	18514	18562	1	+	2	transcript_id "file_1_file_1_g10680.t1"; gene_id "file_1_file_1_g10680";
+NODE_124_length_69903_cov_120.761450	AUGUSTUS	exon	18514	18562	.	+	.	transcript_id "file_1_file_1_g10680.t1"; gene_id "file_1_file_1_g10680";
+NODE_124_length_69903_cov_120.761450	AUGUSTUS	intron	18563	18612	1	+	.	transcript_id "file_1_file_1_g10680.t1"; gene_id "file_1_file_1_g10680";
+NODE_124_length_69903_cov_120.761450	AUGUSTUS	CDS	18613	18644	1	+	1	transcript_id "file_1_file_1_g10680.t1"; gene_id "file_1_file_1_g10680";
+NODE_124_length_69903_cov_120.761450	AUGUSTUS	exon	18613	18644	.	+	.	transcript_id "file_1_file_1_g10680.t1"; gene_id "file_1_file_1_g10680";
+NODE_124_length_69903_cov_120.761450	AUGUSTUS	intron	18645	18697	1	+	.	transcript_id "file_1_file_1_g10680.t1"; gene_id "file_1_file_1_g10680";
+NODE_124_length_69903_cov_120.761450	AUGUSTUS	CDS	18698	18765	1	+	2	transcript_id "file_1_file_1_g10680.t1"; gene_id "file_1_file_1_g10680";
+NODE_124_length_69903_cov_120.761450	AUGUSTUS	exon	18698	18765	.	+	.	transcript_id "file_1_file_1_g10680.t1"; gene_id "file_1_file_1_g10680";
+NODE_124_length_69903_cov_120.761450	AUGUSTUS	intron	18766	18828	1	+	.	transcript_id "file_1_file_1_g10680.t1"; gene_id "file_1_file_1_g10680";
+NODE_124_length_69903_cov_120.761450	AUGUSTUS	CDS	18829	18990	1	+	0	transcript_id "file_1_file_1_g10680.t1"; gene_id "file_1_file_1_g10680";
+NODE_124_length_69903_cov_120.761450	AUGUSTUS	exon	18829	18990	.	+	.	transcript_id "file_1_file_1_g10680.t1"; gene_id "file_1_file_1_g10680";
+NODE_124_length_69903_cov_120.761450	AUGUSTUS	intron	18991	19041	1	+	.	transcript_id "file_1_file_1_g10680.t1"; gene_id "file_1_file_1_g10680";
+NODE_124_length_69903_cov_120.761450	AUGUSTUS	CDS	19042	19344	1	+	0	transcript_id "file_1_file_1_g10680.t1"; gene_id "file_1_file_1_g10680";
+NODE_124_length_69903_cov_120.761450	AUGUSTUS	exon	19042	19344	.	+	.	transcript_id "file_1_file_1_g10680.t1"; gene_id "file_1_file_1_g10680";
+NODE_124_length_69903_cov_120.761450	AUGUSTUS	intron	19345	19551	1	+	.	transcript_id "file_1_file_1_g10680.t1"; gene_id "file_1_file_1_g10680";
+NODE_124_length_69903_cov_120.761450	AUGUSTUS	CDS	19552	19743	1	+	0	transcript_id "file_1_file_1_g10680.t1"; gene_id "file_1_file_1_g10680";
+NODE_124_length_69903_cov_120.761450	AUGUSTUS	gene	17983	19743	1.94	+	.	file_1_file_1_g10680
+NODE_124_length_69903_cov_120.761450	AUGUSTUS	transcript	17983	19743	0.94	+	.	file_1_file_1_g10680.t2
+NODE_124_length_69903_cov_120.761450	AUGUSTUS	transcript	17983	19743	1	+	.	file_1_file_1_g10680.t1
+NODE_124_length_69903_cov_120.761450	AUGUSTUS	exon	19552	19743	.	+	.	transcript_id "file_1_file_1_g10680.t1"; gene_id "file_1_file_1_g10680";
+NODE_124_length_69903_cov_120.761450	AUGUSTUS	stop_codon	19741	19743	.	+	0	transcript_id "file_1_file_1_g10680.t1"; gene_id "file_1_file_1_g10680";
+NODE_324_length_31134_cov_120.955244	AUGUSTUS	start_codon	30382	30384	.	+	0	transcript_id "file_1_file_1_g8407.t1"; gene_id "file_1_file_1_g8407";
+NODE_324_length_31134_cov_120.955244	AUGUSTUS	CDS	30382	30611	1	+	0	transcript_id "file_1_file_1_g8407.t1"; gene_id "file_1_file_1_g8407";
+NODE_324_length_31134_cov_120.955244	AUGUSTUS	exon	30382	30611	.	+	.	transcript_id "file_1_file_1_g8407.t1"; gene_id "file_1_file_1_g8407";
+NODE_324_length_31134_cov_120.955244	AUGUSTUS	intron	30612	30689	1	+	.	transcript_id "file_1_file_1_g8407.t1"; gene_id "file_1_file_1_g8407";
+NODE_324_length_31134_cov_120.955244	AUGUSTUS	CDS	30690	30821	1	+	1	transcript_id "file_1_file_1_g8407.t1"; gene_id "file_1_file_1_g8407";
+NODE_324_length_31134_cov_120.955244	AUGUSTUS	exon	30690	30821	.	+	.	transcript_id "file_1_file_1_g8407.t1"; gene_id "file_1_file_1_g8407";
+NODE_324_length_31134_cov_120.955244	AUGUSTUS	intron	30822	30881	1	+	.	transcript_id "file_1_file_1_g8407.t1"; gene_id "file_1_file_1_g8407";
+NODE_324_length_31134_cov_120.955244	AUGUSTUS	CDS	30882	31134	1	+	1	transcript_id "file_1_file_1_g8407.t1"; gene_id "file_1_file_1_g8407";
+NODE_324_length_31134_cov_120.955244	AUGUSTUS	gene	30382	31134	1	+	.	file_1_file_1_g8407
+NODE_324_length_31134_cov_120.955244	AUGUSTUS	transcript	30382	31134	1	+	.	file_1_file_1_g8407.t1
+NODE_324_length_31134_cov_120.955244	AUGUSTUS	exon	30882	31134	.	+	.	transcript_id "file_1_file_1_g8407.t1"; gene_id "file_1_file_1_g8407";
+NODE_1436_length_3282_cov_19.734643	AUGUSTUS	stop_codon	467	469	.	-	0	transcript_id "file_1_file_1_g1136.t1"; gene_id "file_1_file_1_g1136";
+NODE_1436_length_3282_cov_19.734643	AUGUSTUS	CDS	467	2014	0.69	-	0	transcript_id "file_1_file_1_g1136.t1"; gene_id "file_1_file_1_g1136";
+NODE_1436_length_3282_cov_19.734643	AUGUSTUS	exon	467	2014	.	-	.	transcript_id "file_1_file_1_g1136.t1"; gene_id "file_1_file_1_g1136";
+NODE_1436_length_3282_cov_19.734643	AUGUSTUS	intron	2015	2068	0.62	-	.	transcript_id "file_1_file_1_g1136.t1"; gene_id "file_1_file_1_g1136";
+NODE_1436_length_3282_cov_19.734643	AUGUSTUS	CDS	2069	2131	0.58	-	0	transcript_id "file_1_file_1_g1136.t1"; gene_id "file_1_file_1_g1136";
+NODE_1436_length_3282_cov_19.734643	AUGUSTUS	gene	467	2131	0.58	-	.	file_1_file_1_g1136
+NODE_1436_length_3282_cov_19.734643	AUGUSTUS	transcript	467	2131	0.58	-	.	file_1_file_1_g1136.t1
+NODE_1436_length_3282_cov_19.734643	AUGUSTUS	exon	2069	2131	.	-	.	transcript_id "file_1_file_1_g1136.t1"; gene_id "file_1_file_1_g1136";
+NODE_1436_length_3282_cov_19.734643	AUGUSTUS	start_codon	2129	2131	.	-	0	transcript_id "file_1_file_1_g1136.t1"; gene_id "file_1_file_1_g1136";
+NODE_162_length_59868_cov_124.404392	AUGUSTUS	start_codon	37122	37124	.	+	0	transcript_id "file_1_file_1_g6490.t1"; gene_id "file_1_file_1_g6490";
+NODE_162_length_59868_cov_124.404392	AUGUSTUS	CDS	37122	37223	1	+	0	transcript_id "file_1_file_1_g6490.t1"; gene_id "file_1_file_1_g6490";
+NODE_162_length_59868_cov_124.404392	AUGUSTUS	exon	37122	37223	.	+	.	transcript_id "file_1_file_1_g6490.t1"; gene_id "file_1_file_1_g6490";
+NODE_162_length_59868_cov_124.404392	AUGUSTUS	intron	37224	37361	1	+	.	transcript_id "file_1_file_1_g6490.t1"; gene_id "file_1_file_1_g6490";
+NODE_162_length_59868_cov_124.404392	AUGUSTUS	CDS	37362	37610	1	+	0	transcript_id "file_1_file_1_g6490.t1"; gene_id "file_1_file_1_g6490";
+NODE_162_length_59868_cov_124.404392	AUGUSTUS	gene	37122	37610	1	+	.	file_1_file_1_g6490
+NODE_162_length_59868_cov_124.404392	AUGUSTUS	transcript	37122	37610	1	+	.	file_1_file_1_g6490.t1
+NODE_162_length_59868_cov_124.404392	AUGUSTUS	exon	37362	37610	.	+	.	transcript_id "file_1_file_1_g6490.t1"; gene_id "file_1_file_1_g6490";
+NODE_162_length_59868_cov_124.404392	AUGUSTUS	stop_codon	37608	37610	.	+	0	transcript_id "file_1_file_1_g6490.t1"; gene_id "file_1_file_1_g6490";
+NODE_25_length_159738_cov_122.041388	AUGUSTUS	stop_codon	51965	51967	.	-	0	transcript_id "file_1_file_1_g11452.t1"; gene_id "file_1_file_1_g11452";
+NODE_25_length_159738_cov_122.041388	AUGUSTUS	CDS	51965	51981	0.97	-	2	transcript_id "file_1_file_1_g11452.t1"; gene_id "file_1_file_1_g11452";
+NODE_25_length_159738_cov_122.041388	AUGUSTUS	exon	51965	51981	.	-	.	transcript_id "file_1_file_1_g11452.t1"; gene_id "file_1_file_1_g11452";
+NODE_25_length_159738_cov_122.041388	AUGUSTUS	intron	51982	52043	0.99	-	.	transcript_id "file_1_file_1_g11452.t1"; gene_id "file_1_file_1_g11452";
+NODE_25_length_159738_cov_122.041388	AUGUSTUS	CDS	52044	52064	1	-	2	transcript_id "file_1_file_1_g11452.t1"; gene_id "file_1_file_1_g11452";
+NODE_25_length_159738_cov_122.041388	AUGUSTUS	exon	52044	52064	.	-	.	transcript_id "file_1_file_1_g11452.t1"; gene_id "file_1_file_1_g11452";
+NODE_25_length_159738_cov_122.041388	AUGUSTUS	intron	52065	52125	1	-	.	transcript_id "file_1_file_1_g11452.t1"; gene_id "file_1_file_1_g11452";
+NODE_25_length_159738_cov_122.041388	AUGUSTUS	CDS	52126	52510	1	-	0	transcript_id "file_1_file_1_g11452.t1"; gene_id "file_1_file_1_g11452";
+NODE_25_length_159738_cov_122.041388	AUGUSTUS	exon	52126	52510	.	-	.	transcript_id "file_1_file_1_g11452.t1"; gene_id "file_1_file_1_g11452";
+NODE_25_length_159738_cov_122.041388	AUGUSTUS	intron	52511	52572	1	-	.	transcript_id "file_1_file_1_g11452.t1"; gene_id "file_1_file_1_g11452";
+NODE_25_length_159738_cov_122.041388	AUGUSTUS	CDS	52573	52631	1	-	2	transcript_id "file_1_file_1_g11452.t1"; gene_id "file_1_file_1_g11452";
+NODE_25_length_159738_cov_122.041388	AUGUSTUS	exon	52573	52631	.	-	.	transcript_id "file_1_file_1_g11452.t1"; gene_id "file_1_file_1_g11452";
+NODE_25_length_159738_cov_122.041388	AUGUSTUS	intron	52632	52689	1	-	.	transcript_id "file_1_file_1_g11452.t1"; gene_id "file_1_file_1_g11452";
+NODE_25_length_159738_cov_122.041388	AUGUSTUS	CDS	52690	53044	1	-	0	transcript_id "file_1_file_1_g11452.t1"; gene_id "file_1_file_1_g11452";
+NODE_25_length_159738_cov_122.041388	AUGUSTUS	exon	52690	53044	.	-	.	transcript_id "file_1_file_1_g11452.t1"; gene_id "file_1_file_1_g11452";
+NODE_25_length_159738_cov_122.041388	AUGUSTUS	intron	53045	53123	1	-	.	transcript_id "file_1_file_1_g11452.t1"; gene_id "file_1_file_1_g11452";
+NODE_25_length_159738_cov_122.041388	AUGUSTUS	CDS	53124	53186	1	-	0	transcript_id "file_1_file_1_g11452.t1"; gene_id "file_1_file_1_g11452";
+NODE_25_length_159738_cov_122.041388	AUGUSTUS	exon	53124	53186	.	-	.	transcript_id "file_1_file_1_g11452.t1"; gene_id "file_1_file_1_g11452";
+NODE_25_length_159738_cov_122.041388	AUGUSTUS	intron	53187	53266	1	-	.	transcript_id "file_1_file_1_g11452.t1"; gene_id "file_1_file_1_g11452";
+NODE_25_length_159738_cov_122.041388	AUGUSTUS	CDS	53267	53320	1	-	0	transcript_id "file_1_file_1_g11452.t1"; gene_id "file_1_file_1_g11452";
+NODE_25_length_159738_cov_122.041388	AUGUSTUS	exon	53267	53320	.	-	.	transcript_id "file_1_file_1_g11452.t1"; gene_id "file_1_file_1_g11452";
+NODE_25_length_159738_cov_122.041388	AUGUSTUS	intron	53321	53380	1	-	.	transcript_id "file_1_file_1_g11452.t1"; gene_id "file_1_file_1_g11452";
+NODE_25_length_159738_cov_122.041388	AUGUSTUS	CDS	53381	53500	1	-	0	transcript_id "file_1_file_1_g11452.t1"; gene_id "file_1_file_1_g11452";
+NODE_25_length_159738_cov_122.041388	AUGUSTUS	exon	53381	53500	.	-	.	transcript_id "file_1_file_1_g11452.t1"; gene_id "file_1_file_1_g11452";
+NODE_25_length_159738_cov_122.041388	AUGUSTUS	intron	53501	53554	1	-	.	transcript_id "file_1_file_1_g11452.t1"; gene_id "file_1_file_1_g11452";
+NODE_25_length_159738_cov_122.041388	AUGUSTUS	CDS	53555	53662	1	-	0	transcript_id "file_1_file_1_g11452.t1"; gene_id "file_1_file_1_g11452";
+NODE_25_length_159738_cov_122.041388	AUGUSTUS	gene	51965	53662	0.97	-	.	file_1_file_1_g11452
+NODE_25_length_159738_cov_122.041388	AUGUSTUS	transcript	51965	53662	0.97	-	.	file_1_file_1_g11452.t1
+NODE_25_length_159738_cov_122.041388	AUGUSTUS	exon	53555	53662	.	-	.	transcript_id "file_1_file_1_g11452.t1"; gene_id "file_1_file_1_g11452";
+NODE_25_length_159738_cov_122.041388	AUGUSTUS	start_codon	53660	53662	.	-	0	transcript_id "file_1_file_1_g11452.t1"; gene_id "file_1_file_1_g11452";
+NODE_272_length_38623_cov_130.368443	AUGUSTUS	start_codon	9365	9367	.	+	0	transcript_id "file_1_file_1_g3491.t2"; gene_id "file_1_file_1_g3491";
+NODE_272_length_38623_cov_130.368443	AUGUSTUS	CDS	9365	9634	1	+	0	transcript_id "file_1_file_1_g3491.t2"; gene_id "file_1_file_1_g3491";
+NODE_272_length_38623_cov_130.368443	AUGUSTUS	exon	9365	9634	.	+	.	transcript_id "file_1_file_1_g3491.t2"; gene_id "file_1_file_1_g3491";
+NODE_272_length_38623_cov_130.368443	AUGUSTUS	intron	9635	9843	1	+	.	transcript_id "file_1_file_1_g3491.t2"; gene_id "file_1_file_1_g3491";
+NODE_272_length_38623_cov_130.368443	AUGUSTUS	CDS	9844	10158	1	+	0	transcript_id "file_1_file_1_g3491.t2"; gene_id "file_1_file_1_g3491";
+NODE_272_length_38623_cov_130.368443	AUGUSTUS	exon	9844	10158	.	+	.	transcript_id "file_1_file_1_g3491.t2"; gene_id "file_1_file_1_g3491";
+NODE_272_length_38623_cov_130.368443	AUGUSTUS	intron	10159	10358	1	+	.	transcript_id "file_1_file_1_g3491.t2"; gene_id "file_1_file_1_g3491";
+NODE_272_length_38623_cov_130.368443	AUGUSTUS	CDS	10359	10650	1	+	0	transcript_id "file_1_file_1_g3491.t2"; gene_id "file_1_file_1_g3491";
+NODE_272_length_38623_cov_130.368443	AUGUSTUS	exon	10359	10650	.	+	.	transcript_id "file_1_file_1_g3491.t2"; gene_id "file_1_file_1_g3491";
+NODE_272_length_38623_cov_130.368443	AUGUSTUS	intron	10651	10701	1	+	.	transcript_id "file_1_file_1_g3491.t2"; gene_id "file_1_file_1_g3491";
+NODE_272_length_38623_cov_130.368443	AUGUSTUS	CDS	10702	10871	1	+	2	transcript_id "file_1_file_1_g3491.t2"; gene_id "file_1_file_1_g3491";
+NODE_272_length_38623_cov_130.368443	AUGUSTUS	exon	10702	10871	.	+	.	transcript_id "file_1_file_1_g3491.t2"; gene_id "file_1_file_1_g3491";
+NODE_272_length_38623_cov_130.368443	AUGUSTUS	stop_codon	10869	10871	.	+	0	transcript_id "file_1_file_1_g3491.t2"; gene_id "file_1_file_1_g3491";
+NODE_650_length_12293_cov_102.975933	AUGUSTUS	stop_codon	8677	8679	.	-	0	transcript_id "file_1_file_1_g13667.t3"; gene_id "file_1_file_1_g13667";
+NODE_650_length_12293_cov_102.975933	AUGUSTUS	CDS	8677	9279	1	-	0	transcript_id "file_1_file_1_g13667.t3"; gene_id "file_1_file_1_g13667";
+NODE_650_length_12293_cov_102.975933	AUGUSTUS	exon	8677	9279	.	-	.	transcript_id "file_1_file_1_g13667.t3"; gene_id "file_1_file_1_g13667";
+NODE_650_length_12293_cov_102.975933	AUGUSTUS	intron	9280	9358	1	-	.	transcript_id "file_1_file_1_g13667.t3"; gene_id "file_1_file_1_g13667";
+NODE_650_length_12293_cov_102.975933	AUGUSTUS	CDS	9359	9489	0.98	-	2	transcript_id "file_1_file_1_g13667.t3"; gene_id "file_1_file_1_g13667";
+NODE_650_length_12293_cov_102.975933	AUGUSTUS	exon	9359	9489	.	-	.	transcript_id "file_1_file_1_g13667.t3"; gene_id "file_1_file_1_g13667";
+NODE_650_length_12293_cov_102.975933	AUGUSTUS	intron	9490	9544	0.98	-	.	transcript_id "file_1_file_1_g13667.t3"; gene_id "file_1_file_1_g13667";
+NODE_650_length_12293_cov_102.975933	AUGUSTUS	CDS	9545	9992	0.42	-	0	transcript_id "file_1_file_1_g13667.t3"; gene_id "file_1_file_1_g13667";
+NODE_650_length_12293_cov_102.975933	AUGUSTUS	exon	9545	9992	.	-	.	transcript_id "file_1_file_1_g13667.t3"; gene_id "file_1_file_1_g13667";
+NODE_650_length_12293_cov_102.975933	AUGUSTUS	intron	9993	10064	0.38	-	.	transcript_id "file_1_file_1_g13667.t3"; gene_id "file_1_file_1_g13667";
+NODE_650_length_12293_cov_102.975933	AUGUSTUS	CDS	10065	10537	0.24	-	2	transcript_id "file_1_file_1_g13667.t3"; gene_id "file_1_file_1_g13667";
+NODE_650_length_12293_cov_102.975933	AUGUSTUS	exon	10065	10537	.	-	.	transcript_id "file_1_file_1_g13667.t3"; gene_id "file_1_file_1_g13667";
+NODE_650_length_12293_cov_102.975933	AUGUSTUS	intron	10538	10617	0.6	-	.	transcript_id "file_1_file_1_g13667.t3"; gene_id "file_1_file_1_g13667";
+NODE_650_length_12293_cov_102.975933	AUGUSTUS	CDS	10618	10966	0.95	-	0	transcript_id "file_1_file_1_g13667.t3"; gene_id "file_1_file_1_g13667";
+NODE_650_length_12293_cov_102.975933	AUGUSTUS	transcript	8677	10966	0.23	-	.	file_1_file_1_g13667.t3
+NODE_650_length_12293_cov_102.975933	AUGUSTUS	exon	10618	10966	.	-	.	transcript_id "file_1_file_1_g13667.t3"; gene_id "file_1_file_1_g13667";
+NODE_650_length_12293_cov_102.975933	AUGUSTUS	start_codon	10964	10966	.	-	0	transcript_id "file_1_file_1_g13667.t3"; gene_id "file_1_file_1_g13667";
+NODE_7_length_262190_cov_122.529283	AUGUSTUS	stop_codon	41322	41324	.	-	0	transcript_id "file_1_file_1_g7166.t1"; gene_id "file_1_file_1_g7166";
+NODE_7_length_262190_cov_122.529283	AUGUSTUS	CDS	41322	41388	1	-	1	transcript_id "file_1_file_1_g7166.t1"; gene_id "file_1_file_1_g7166";
+NODE_7_length_262190_cov_122.529283	AUGUSTUS	exon	41322	41388	.	-	.	transcript_id "file_1_file_1_g7166.t1"; gene_id "file_1_file_1_g7166";
+NODE_7_length_262190_cov_122.529283	AUGUSTUS	intron	41389	41442	1	-	.	transcript_id "file_1_file_1_g7166.t1"; gene_id "file_1_file_1_g7166";
+NODE_7_length_262190_cov_122.529283	AUGUSTUS	CDS	41443	41466	1	-	1	transcript_id "file_1_file_1_g7166.t1"; gene_id "file_1_file_1_g7166";
+NODE_7_length_262190_cov_122.529283	AUGUSTUS	exon	41443	41466	.	-	.	transcript_id "file_1_file_1_g7166.t1"; gene_id "file_1_file_1_g7166";
+NODE_7_length_262190_cov_122.529283	AUGUSTUS	intron	41467	41529	1	-	.	transcript_id "file_1_file_1_g7166.t1"; gene_id "file_1_file_1_g7166";
+NODE_7_length_262190_cov_122.529283	AUGUSTUS	CDS	41530	41562	1	-	1	transcript_id "file_1_file_1_g7166.t1"; gene_id "file_1_file_1_g7166";
+NODE_7_length_262190_cov_122.529283	AUGUSTUS	exon	41530	41562	.	-	.	transcript_id "file_1_file_1_g7166.t1"; gene_id "file_1_file_1_g7166";
+NODE_7_length_262190_cov_122.529283	AUGUSTUS	intron	41563	41612	1	-	.	transcript_id "file_1_file_1_g7166.t1"; gene_id "file_1_file_1_g7166";
+NODE_7_length_262190_cov_122.529283	AUGUSTUS	CDS	41613	41762	1	-	1	transcript_id "file_1_file_1_g7166.t1"; gene_id "file_1_file_1_g7166";
+NODE_7_length_262190_cov_122.529283	AUGUSTUS	exon	41613	41762	.	-	.	transcript_id "file_1_file_1_g7166.t1"; gene_id "file_1_file_1_g7166";
+NODE_7_length_262190_cov_122.529283	AUGUSTUS	intron	41763	41817	1	-	.	transcript_id "file_1_file_1_g7166.t1"; gene_id "file_1_file_1_g7166";
+NODE_7_length_262190_cov_122.529283	AUGUSTUS	CDS	41818	41849	1	-	0	transcript_id "file_1_file_1_g7166.t1"; gene_id "file_1_file_1_g7166";
+NODE_7_length_262190_cov_122.529283	AUGUSTUS	exon	41818	41849	.	-	.	transcript_id "file_1_file_1_g7166.t1"; gene_id "file_1_file_1_g7166";
+NODE_7_length_262190_cov_122.529283	AUGUSTUS	intron	41850	41899	1	-	.	transcript_id "file_1_file_1_g7166.t1"; gene_id "file_1_file_1_g7166";
+NODE_7_length_262190_cov_122.529283	AUGUSTUS	CDS	41900	41948	1	-	1	transcript_id "file_1_file_1_g7166.t1"; gene_id "file_1_file_1_g7166";
+NODE_7_length_262190_cov_122.529283	AUGUSTUS	exon	41900	41948	.	-	.	transcript_id "file_1_file_1_g7166.t1"; gene_id "file_1_file_1_g7166";
+NODE_7_length_262190_cov_122.529283	AUGUSTUS	intron	41949	42000	1	-	.	transcript_id "file_1_file_1_g7166.t1"; gene_id "file_1_file_1_g7166";
+NODE_7_length_262190_cov_122.529283	AUGUSTUS	CDS	42001	42131	1	-	0	transcript_id "file_1_file_1_g7166.t1"; gene_id "file_1_file_1_g7166";
+NODE_7_length_262190_cov_122.529283	AUGUSTUS	exon	42001	42131	.	-	.	transcript_id "file_1_file_1_g7166.t1"; gene_id "file_1_file_1_g7166";
+NODE_7_length_262190_cov_122.529283	AUGUSTUS	intron	42132	42196	1	-	.	transcript_id "file_1_file_1_g7166.t1"; gene_id "file_1_file_1_g7166";
+NODE_7_length_262190_cov_122.529283	AUGUSTUS	CDS	42197	42221	1	-	1	transcript_id "file_1_file_1_g7166.t1"; gene_id "file_1_file_1_g7166";
+NODE_7_length_262190_cov_122.529283	AUGUSTUS	exon	42197	42221	.	-	.	transcript_id "file_1_file_1_g7166.t1"; gene_id "file_1_file_1_g7166";
+NODE_7_length_262190_cov_122.529283	AUGUSTUS	intron	42222	42288	1	-	.	transcript_id "file_1_file_1_g7166.t1"; gene_id "file_1_file_1_g7166";
+NODE_7_length_262190_cov_122.529283	AUGUSTUS	CDS	42289	42295	1	-	2	transcript_id "file_1_file_1_g7166.t1"; gene_id "file_1_file_1_g7166";
+NODE_7_length_262190_cov_122.529283	AUGUSTUS	exon	42289	42295	.	-	.	transcript_id "file_1_file_1_g7166.t1"; gene_id "file_1_file_1_g7166";
+NODE_7_length_262190_cov_122.529283	AUGUSTUS	intron	42296	42353	1	-	.	transcript_id "file_1_file_1_g7166.t1"; gene_id "file_1_file_1_g7166";
+NODE_7_length_262190_cov_122.529283	AUGUSTUS	CDS	42354	42441	1	-	0	transcript_id "file_1_file_1_g7166.t1"; gene_id "file_1_file_1_g7166";
+NODE_7_length_262190_cov_122.529283	AUGUSTUS	exon	42354	42441	.	-	.	transcript_id "file_1_file_1_g7166.t1"; gene_id "file_1_file_1_g7166";
+NODE_7_length_262190_cov_122.529283	AUGUSTUS	intron	42442	42498	1	-	.	transcript_id "file_1_file_1_g7166.t1"; gene_id "file_1_file_1_g7166";
+NODE_7_length_262190_cov_122.529283	AUGUSTUS	CDS	42499	42519	1	-	0	transcript_id "file_1_file_1_g7166.t1"; gene_id "file_1_file_1_g7166";
+NODE_7_length_262190_cov_122.529283	AUGUSTUS	gene	41322	42519	1	-	.	file_1_file_1_g7166
+NODE_7_length_262190_cov_122.529283	AUGUSTUS	transcript	41322	42519	1	-	.	file_1_file_1_g7166.t1
+NODE_7_length_262190_cov_122.529283	AUGUSTUS	exon	42499	42519	.	-	.	transcript_id "file_1_file_1_g7166.t1"; gene_id "file_1_file_1_g7166";
+NODE_7_length_262190_cov_122.529283	AUGUSTUS	start_codon	42517	42519	.	-	0	transcript_id "file_1_file_1_g7166.t1"; gene_id "file_1_file_1_g7166";
+NODE_99_length_82438_cov_125.270492	AUGUSTUS	start_codon	53914	53916	.	+	0	transcript_id "file_1_file_1_g3472.t1"; gene_id "file_1_file_1_g3472";
+NODE_99_length_82438_cov_125.270492	AUGUSTUS	CDS	53914	54035	1	+	0	transcript_id "file_1_file_1_g3472.t1"; gene_id "file_1_file_1_g3472";
+NODE_99_length_82438_cov_125.270492	AUGUSTUS	exon	53914	54035	.	+	.	transcript_id "file_1_file_1_g3472.t1"; gene_id "file_1_file_1_g3472";
+NODE_99_length_82438_cov_125.270492	AUGUSTUS	intron	54036	54100	1	+	.	transcript_id "file_1_file_1_g3472.t1"; gene_id "file_1_file_1_g3472";
+NODE_99_length_82438_cov_125.270492	AUGUSTUS	CDS	54101	54144	1	+	1	transcript_id "file_1_file_1_g3472.t1"; gene_id "file_1_file_1_g3472";
+NODE_99_length_82438_cov_125.270492	AUGUSTUS	exon	54101	54144	.	+	.	transcript_id "file_1_file_1_g3472.t1"; gene_id "file_1_file_1_g3472";
+NODE_99_length_82438_cov_125.270492	AUGUSTUS	intron	54145	54211	1	+	.	transcript_id "file_1_file_1_g3472.t1"; gene_id "file_1_file_1_g3472";
+NODE_99_length_82438_cov_125.270492	AUGUSTUS	CDS	54212	54454	1	+	2	transcript_id "file_1_file_1_g3472.t1"; gene_id "file_1_file_1_g3472";
+NODE_99_length_82438_cov_125.270492	AUGUSTUS	exon	54212	54454	.	+	.	transcript_id "file_1_file_1_g3472.t1"; gene_id "file_1_file_1_g3472";
+NODE_99_length_82438_cov_125.270492	AUGUSTUS	intron	54455	54522	1	+	.	transcript_id "file_1_file_1_g3472.t1"; gene_id "file_1_file_1_g3472";
+NODE_99_length_82438_cov_125.270492	AUGUSTUS	CDS	54523	54586	1	+	2	transcript_id "file_1_file_1_g3472.t1"; gene_id "file_1_file_1_g3472";
+NODE_99_length_82438_cov_125.270492	AUGUSTUS	exon	54523	54586	.	+	.	transcript_id "file_1_file_1_g3472.t1"; gene_id "file_1_file_1_g3472";
+NODE_99_length_82438_cov_125.270492	AUGUSTUS	intron	54587	54645	1	+	.	transcript_id "file_1_file_1_g3472.t1"; gene_id "file_1_file_1_g3472";
+NODE_99_length_82438_cov_125.270492	AUGUSTUS	CDS	54646	54705	1	+	1	transcript_id "file_1_file_1_g3472.t1"; gene_id "file_1_file_1_g3472";
+NODE_99_length_82438_cov_125.270492	AUGUSTUS	exon	54646	54705	.	+	.	transcript_id "file_1_file_1_g3472.t1"; gene_id "file_1_file_1_g3472";
+NODE_99_length_82438_cov_125.270492	AUGUSTUS	intron	54706	54757	1	+	.	transcript_id "file_1_file_1_g3472.t1"; gene_id "file_1_file_1_g3472";
+NODE_99_length_82438_cov_125.270492	AUGUSTUS	CDS	54758	55132	1	+	1	transcript_id "file_1_file_1_g3472.t1"; gene_id "file_1_file_1_g3472";
+NODE_99_length_82438_cov_125.270492	AUGUSTUS	exon	54758	55132	.	+	.	transcript_id "file_1_file_1_g3472.t1"; gene_id "file_1_file_1_g3472";
+NODE_99_length_82438_cov_125.270492	AUGUSTUS	intron	55133	55194	1	+	.	transcript_id "file_1_file_1_g3472.t1"; gene_id "file_1_file_1_g3472";
+NODE_99_length_82438_cov_125.270492	AUGUSTUS	CDS	55195	55232	1	+	1	transcript_id "file_1_file_1_g3472.t1"; gene_id "file_1_file_1_g3472";
+NODE_99_length_82438_cov_125.270492	AUGUSTUS	exon	55195	55232	.	+	.	transcript_id "file_1_file_1_g3472.t1"; gene_id "file_1_file_1_g3472";
+NODE_99_length_82438_cov_125.270492	AUGUSTUS	intron	55233	55288	1	+	.	transcript_id "file_1_file_1_g3472.t1"; gene_id "file_1_file_1_g3472";
+NODE_99_length_82438_cov_125.270492	AUGUSTUS	CDS	55289	55513	1	+	2	transcript_id "file_1_file_1_g3472.t1"; gene_id "file_1_file_1_g3472";
+NODE_99_length_82438_cov_125.270492	AUGUSTUS	exon	55289	55513	.	+	.	transcript_id "file_1_file_1_g3472.t1"; gene_id "file_1_file_1_g3472";
+NODE_99_length_82438_cov_125.270492	AUGUSTUS	intron	55514	55585	1	+	.	transcript_id "file_1_file_1_g3472.t1"; gene_id "file_1_file_1_g3472";
+NODE_99_length_82438_cov_125.270492	AUGUSTUS	CDS	55586	55862	1	+	2	transcript_id "file_1_file_1_g3472.t1"; gene_id "file_1_file_1_g3472";
+NODE_99_length_82438_cov_125.270492	AUGUSTUS	exon	55586	55862	.	+	.	transcript_id "file_1_file_1_g3472.t1"; gene_id "file_1_file_1_g3472";
+NODE_99_length_82438_cov_125.270492	AUGUSTUS	intron	55863	55932	1	+	.	transcript_id "file_1_file_1_g3472.t1"; gene_id "file_1_file_1_g3472";
+NODE_99_length_82438_cov_125.270492	AUGUSTUS	CDS	55933	56107	1	+	1	transcript_id "file_1_file_1_g3472.t1"; gene_id "file_1_file_1_g3472";
+NODE_99_length_82438_cov_125.270492	AUGUSTUS	gene	53914	56107	1	+	.	file_1_file_1_g3472
+NODE_99_length_82438_cov_125.270492	AUGUSTUS	transcript	53914	56107	1	+	.	file_1_file_1_g3472.t1
+NODE_99_length_82438_cov_125.270492	AUGUSTUS	exon	55933	56107	.	+	.	transcript_id "file_1_file_1_g3472.t1"; gene_id "file_1_file_1_g3472";
+NODE_99_length_82438_cov_125.270492	AUGUSTUS	stop_codon	56105	56107	.	+	0	transcript_id "file_1_file_1_g3472.t1"; gene_id "file_1_file_1_g3472";
+NODE_115_length_74653_cov_126.007965	AUGUSTUS	stop_codon	9993	9995	.	-	0	transcript_id "file_1_file_1_g9414.t1"; gene_id "file_1_file_1_g9414";
+NODE_115_length_74653_cov_126.007965	AUGUSTUS	CDS	9993	10071	1	-	1	transcript_id "file_1_file_1_g9414.t1"; gene_id "file_1_file_1_g9414";
+NODE_115_length_74653_cov_126.007965	AUGUSTUS	exon	9993	10071	.	-	.	transcript_id "file_1_file_1_g9414.t1"; gene_id "file_1_file_1_g9414";
+NODE_115_length_74653_cov_126.007965	AUGUSTUS	intron	10072	10137	1	-	.	transcript_id "file_1_file_1_g9414.t1"; gene_id "file_1_file_1_g9414";
+NODE_115_length_74653_cov_126.007965	AUGUSTUS	CDS	10138	10287	0.49	-	1	transcript_id "file_1_file_1_g9414.t1"; gene_id "file_1_file_1_g9414";
+NODE_115_length_74653_cov_126.007965	AUGUSTUS	exon	10138	10287	.	-	.	transcript_id "file_1_file_1_g9414.t1"; gene_id "file_1_file_1_g9414";
+NODE_115_length_74653_cov_126.007965	AUGUSTUS	intron	10288	10334	0.49	-	.	transcript_id "file_1_file_1_g9414.t1"; gene_id "file_1_file_1_g9414";
+NODE_115_length_74653_cov_126.007965	AUGUSTUS	CDS	10335	10542	0.81	-	2	transcript_id "file_1_file_1_g9414.t1"; gene_id "file_1_file_1_g9414";
+NODE_115_length_74653_cov_126.007965	AUGUSTUS	exon	10335	10542	.	-	.	transcript_id "file_1_file_1_g9414.t1"; gene_id "file_1_file_1_g9414";
+NODE_115_length_74653_cov_126.007965	AUGUSTUS	intron	10543	10595	1	-	.	transcript_id "file_1_file_1_g9414.t1"; gene_id "file_1_file_1_g9414";
+NODE_115_length_74653_cov_126.007965	AUGUSTUS	CDS	10596	10739	1	-	2	transcript_id "file_1_file_1_g9414.t1"; gene_id "file_1_file_1_g9414";
+NODE_115_length_74653_cov_126.007965	AUGUSTUS	exon	10596	10739	.	-	.	transcript_id "file_1_file_1_g9414.t1"; gene_id "file_1_file_1_g9414";
+NODE_115_length_74653_cov_126.007965	AUGUSTUS	intron	10740	10799	1	-	.	transcript_id "file_1_file_1_g9414.t1"; gene_id "file_1_file_1_g9414";
+NODE_115_length_74653_cov_126.007965	AUGUSTUS	CDS	10800	10860	1	-	0	transcript_id "file_1_file_1_g9414.t1"; gene_id "file_1_file_1_g9414";
+NODE_115_length_74653_cov_126.007965	AUGUSTUS	gene	9993	10860	0.49	-	.	file_1_file_1_g9414
+NODE_115_length_74653_cov_126.007965	AUGUSTUS	transcript	9993	10860	0.49	-	.	file_1_file_1_g9414.t1
+NODE_115_length_74653_cov_126.007965	AUGUSTUS	exon	10800	10860	.	-	.	transcript_id "file_1_file_1_g9414.t1"; gene_id "file_1_file_1_g9414";
+NODE_115_length_74653_cov_126.007965	AUGUSTUS	start_codon	10858	10860	.	-	0	transcript_id "file_1_file_1_g9414.t1"; gene_id "file_1_file_1_g9414";
+NODE_1832_length_1967_cov_94.190476	AUGUSTUS	CDS	2	226	0.77	+	2	transcript_id "file_1_file_1_g11360.t1"; gene_id "file_1_file_1_g11360";
+NODE_1832_length_1967_cov_94.190476	AUGUSTUS	exon	2	226	.	+	.	transcript_id "file_1_file_1_g11360.t1"; gene_id "file_1_file_1_g11360";
+NODE_1832_length_1967_cov_94.190476	AUGUSTUS	intron	227	322	1	+	.	transcript_id "file_1_file_1_g11360.t1"; gene_id "file_1_file_1_g11360";
+NODE_1832_length_1967_cov_94.190476	AUGUSTUS	CDS	323	408	1	+	2	transcript_id "file_1_file_1_g11360.t1"; gene_id "file_1_file_1_g11360";
+NODE_1832_length_1967_cov_94.190476	AUGUSTUS	gene	2	408	0.77	+	.	file_1_file_1_g11360
+NODE_1832_length_1967_cov_94.190476	AUGUSTUS	transcript	2	408	0.77	+	.	file_1_file_1_g11360.t1
+NODE_1832_length_1967_cov_94.190476	AUGUSTUS	exon	323	408	.	+	.	transcript_id "file_1_file_1_g11360.t1"; gene_id "file_1_file_1_g11360";
+NODE_1832_length_1967_cov_94.190476	AUGUSTUS	stop_codon	406	408	.	+	0	transcript_id "file_1_file_1_g11360.t1"; gene_id "file_1_file_1_g11360";
+NODE_537_length_16383_cov_116.830001	AUGUSTUS	stop_codon	8757	8759	.	-	0	transcript_id "file_1_file_1_g12400.t1"; gene_id "file_1_file_1_g12400";
+NODE_537_length_16383_cov_116.830001	AUGUSTUS	CDS	8757	8814	0.62	-	1	transcript_id "file_1_file_1_g12400.t1"; gene_id "file_1_file_1_g12400";
+NODE_537_length_16383_cov_116.830001	AUGUSTUS	exon	8757	8814	.	-	.	transcript_id "file_1_file_1_g12400.t1"; gene_id "file_1_file_1_g12400";
+NODE_537_length_16383_cov_116.830001	AUGUSTUS	intron	8815	8878	1	-	.	transcript_id "file_1_file_1_g12400.t1"; gene_id "file_1_file_1_g12400";
+NODE_537_length_16383_cov_116.830001	AUGUSTUS	CDS	8879	8966	1	-	2	transcript_id "file_1_file_1_g12400.t1"; gene_id "file_1_file_1_g12400";
+NODE_537_length_16383_cov_116.830001	AUGUSTUS	exon	8879	8966	.	-	.	transcript_id "file_1_file_1_g12400.t1"; gene_id "file_1_file_1_g12400";
+NODE_537_length_16383_cov_116.830001	AUGUSTUS	intron	8967	9027	1	-	.	transcript_id "file_1_file_1_g12400.t1"; gene_id "file_1_file_1_g12400";
+NODE_537_length_16383_cov_116.830001	AUGUSTUS	CDS	9028	9047	1	-	1	transcript_id "file_1_file_1_g12400.t1"; gene_id "file_1_file_1_g12400";
+NODE_537_length_16383_cov_116.830001	AUGUSTUS	exon	9028	9047	.	-	.	transcript_id "file_1_file_1_g12400.t1"; gene_id "file_1_file_1_g12400";
+NODE_537_length_16383_cov_116.830001	AUGUSTUS	intron	9048	9118	1	-	.	transcript_id "file_1_file_1_g12400.t1"; gene_id "file_1_file_1_g12400";
+NODE_537_length_16383_cov_116.830001	AUGUSTUS	CDS	9119	9129	1	-	0	transcript_id "file_1_file_1_g12400.t1"; gene_id "file_1_file_1_g12400";
+NODE_537_length_16383_cov_116.830001	AUGUSTUS	exon	9119	9129	.	-	.	transcript_id "file_1_file_1_g12400.t1"; gene_id "file_1_file_1_g12400";
+NODE_537_length_16383_cov_116.830001	AUGUSTUS	intron	9130	9185	1	-	.	transcript_id "file_1_file_1_g12400.t1"; gene_id "file_1_file_1_g12400";
+NODE_537_length_16383_cov_116.830001	AUGUSTUS	CDS	9186	9224	1	-	0	transcript_id "file_1_file_1_g12400.t1"; gene_id "file_1_file_1_g12400";
+NODE_537_length_16383_cov_116.830001	AUGUSTUS	exon	9186	9224	.	-	.	transcript_id "file_1_file_1_g12400.t1"; gene_id "file_1_file_1_g12400";
+NODE_537_length_16383_cov_116.830001	AUGUSTUS	intron	9225	9277	1	-	.	transcript_id "file_1_file_1_g12400.t1"; gene_id "file_1_file_1_g12400";
+NODE_537_length_16383_cov_116.830001	AUGUSTUS	CDS	9278	9323	1	-	1	transcript_id "file_1_file_1_g12400.t1"; gene_id "file_1_file_1_g12400";
+NODE_537_length_16383_cov_116.830001	AUGUSTUS	exon	9278	9323	.	-	.	transcript_id "file_1_file_1_g12400.t1"; gene_id "file_1_file_1_g12400";
+NODE_537_length_16383_cov_116.830001	AUGUSTUS	intron	9324	9381	1	-	.	transcript_id "file_1_file_1_g12400.t1"; gene_id "file_1_file_1_g12400";
+NODE_537_length_16383_cov_116.830001	AUGUSTUS	CDS	9382	9423	1	-	1	transcript_id "file_1_file_1_g12400.t1"; gene_id "file_1_file_1_g12400";
+NODE_537_length_16383_cov_116.830001	AUGUSTUS	exon	9382	9423	.	-	.	transcript_id "file_1_file_1_g12400.t1"; gene_id "file_1_file_1_g12400";
+NODE_537_length_16383_cov_116.830001	AUGUSTUS	intron	9424	9533	1	-	.	transcript_id "file_1_file_1_g12400.t1"; gene_id "file_1_file_1_g12400";
+NODE_537_length_16383_cov_116.830001	AUGUSTUS	CDS	9534	9792	1	-	2	transcript_id "file_1_file_1_g12400.t1"; gene_id "file_1_file_1_g12400";
+NODE_537_length_16383_cov_116.830001	AUGUSTUS	exon	9534	9792	.	-	.	transcript_id "file_1_file_1_g12400.t1"; gene_id "file_1_file_1_g12400";
+NODE_537_length_16383_cov_116.830001	AUGUSTUS	intron	9793	9843	1	-	.	transcript_id "file_1_file_1_g12400.t1"; gene_id "file_1_file_1_g12400";
+NODE_537_length_16383_cov_116.830001	AUGUSTUS	CDS	9844	9932	1	-	1	transcript_id "file_1_file_1_g12400.t1"; gene_id "file_1_file_1_g12400";
+NODE_537_length_16383_cov_116.830001	AUGUSTUS	exon	9844	9932	.	-	.	transcript_id "file_1_file_1_g12400.t1"; gene_id "file_1_file_1_g12400";
+NODE_537_length_16383_cov_116.830001	AUGUSTUS	intron	9933	9991	1	-	.	transcript_id "file_1_file_1_g12400.t1"; gene_id "file_1_file_1_g12400";
+NODE_537_length_16383_cov_116.830001	AUGUSTUS	CDS	9992	10065	1	-	0	transcript_id "file_1_file_1_g12400.t1"; gene_id "file_1_file_1_g12400";
+NODE_537_length_16383_cov_116.830001	AUGUSTUS	exon	9992	10065	.	-	.	transcript_id "file_1_file_1_g12400.t1"; gene_id "file_1_file_1_g12400";
+NODE_537_length_16383_cov_116.830001	AUGUSTUS	intron	10066	10161	1	-	.	transcript_id "file_1_file_1_g12400.t1"; gene_id "file_1_file_1_g12400";
+NODE_537_length_16383_cov_116.830001	AUGUSTUS	CDS	10162	10245	1	-	0	transcript_id "file_1_file_1_g12400.t1"; gene_id "file_1_file_1_g12400";
+NODE_537_length_16383_cov_116.830001	AUGUSTUS	exon	10162	10245	.	-	.	transcript_id "file_1_file_1_g12400.t1"; gene_id "file_1_file_1_g12400";
+NODE_537_length_16383_cov_116.830001	AUGUSTUS	intron	10246	10300	1	-	.	transcript_id "file_1_file_1_g12400.t1"; gene_id "file_1_file_1_g12400";
+NODE_537_length_16383_cov_116.830001	AUGUSTUS	CDS	10301	10322	1	-	1	transcript_id "file_1_file_1_g12400.t1"; gene_id "file_1_file_1_g12400";
+NODE_537_length_16383_cov_116.830001	AUGUSTUS	exon	10301	10322	.	-	.	transcript_id "file_1_file_1_g12400.t1"; gene_id "file_1_file_1_g12400";
+NODE_537_length_16383_cov_116.830001	AUGUSTUS	intron	10323	10374	1	-	.	transcript_id "file_1_file_1_g12400.t1"; gene_id "file_1_file_1_g12400";
+NODE_537_length_16383_cov_116.830001	AUGUSTUS	CDS	10375	10401	1	-	1	transcript_id "file_1_file_1_g12400.t1"; gene_id "file_1_file_1_g12400";
+NODE_537_length_16383_cov_116.830001	AUGUSTUS	exon	10375	10401	.	-	.	transcript_id "file_1_file_1_g12400.t1"; gene_id "file_1_file_1_g12400";
+NODE_537_length_16383_cov_116.830001	AUGUSTUS	intron	10402	10462	1	-	.	transcript_id "file_1_file_1_g12400.t1"; gene_id "file_1_file_1_g12400";
+NODE_537_length_16383_cov_116.830001	AUGUSTUS	CDS	10463	10707	1	-	0	transcript_id "file_1_file_1_g12400.t1"; gene_id "file_1_file_1_g12400";
+NODE_537_length_16383_cov_116.830001	AUGUSTUS	gene	8757	10707	0.62	-	.	file_1_file_1_g12400
+NODE_537_length_16383_cov_116.830001	AUGUSTUS	transcript	8757	10707	0.62	-	.	file_1_file_1_g12400.t1
+NODE_537_length_16383_cov_116.830001	AUGUSTUS	exon	10463	10707	.	-	.	transcript_id "file_1_file_1_g12400.t1"; gene_id "file_1_file_1_g12400";
+NODE_537_length_16383_cov_116.830001	AUGUSTUS	start_codon	10705	10707	.	-	0	transcript_id "file_1_file_1_g12400.t1"; gene_id "file_1_file_1_g12400";
+NODE_46_length_122040_cov_125.715799	AUGUSTUS	start_codon	87024	87026	.	+	0	transcript_id "file_1_file_1_g9235.t1"; gene_id "file_1_file_1_g9235";
+NODE_46_length_122040_cov_125.715799	AUGUSTUS	CDS	87024	87215	1	+	0	transcript_id "file_1_file_1_g9235.t1"; gene_id "file_1_file_1_g9235";
+NODE_46_length_122040_cov_125.715799	AUGUSTUS	exon	87024	87215	.	+	.	transcript_id "file_1_file_1_g9235.t1"; gene_id "file_1_file_1_g9235";
+NODE_46_length_122040_cov_125.715799	AUGUSTUS	intron	87216	87317	1	+	.	transcript_id "file_1_file_1_g9235.t1"; gene_id "file_1_file_1_g9235";
+NODE_46_length_122040_cov_125.715799	AUGUSTUS	CDS	87318	87384	0.99	+	0	transcript_id "file_1_file_1_g9235.t1"; gene_id "file_1_file_1_g9235";
+NODE_46_length_122040_cov_125.715799	AUGUSTUS	exon	87318	87384	.	+	.	transcript_id "file_1_file_1_g9235.t1"; gene_id "file_1_file_1_g9235";
+NODE_46_length_122040_cov_125.715799	AUGUSTUS	intron	87385	87448	0.99	+	.	transcript_id "file_1_file_1_g9235.t1"; gene_id "file_1_file_1_g9235";
+NODE_46_length_122040_cov_125.715799	AUGUSTUS	CDS	87449	88368	1	+	2	transcript_id "file_1_file_1_g9235.t1"; gene_id "file_1_file_1_g9235";
+NODE_46_length_122040_cov_125.715799	AUGUSTUS	gene	87024	88368	0.99	+	.	file_1_file_1_g9235
+NODE_46_length_122040_cov_125.715799	AUGUSTUS	transcript	87024	88368	0.99	+	.	file_1_file_1_g9235.t1
+NODE_46_length_122040_cov_125.715799	AUGUSTUS	exon	87449	88368	.	+	.	transcript_id "file_1_file_1_g9235.t1"; gene_id "file_1_file_1_g9235";
+NODE_46_length_122040_cov_125.715799	AUGUSTUS	stop_codon	88366	88368	.	+	0	transcript_id "file_1_file_1_g9235.t1"; gene_id "file_1_file_1_g9235";
+NODE_130_length_68692_cov_123.230343	AUGUSTUS	stop_codon	11830	11832	.	-	0	transcript_id "file_1_file_1_g4464.t1"; gene_id "file_1_file_1_g4464";
+NODE_130_length_68692_cov_123.230343	AUGUSTUS	CDS	11830	11888	1	-	2	transcript_id "file_1_file_1_g4464.t1"; gene_id "file_1_file_1_g4464";
+NODE_130_length_68692_cov_123.230343	AUGUSTUS	exon	11830	11888	.	-	.	transcript_id "file_1_file_1_g4464.t1"; gene_id "file_1_file_1_g4464";
+NODE_130_length_68692_cov_123.230343	AUGUSTUS	intron	11889	11944	1	-	.	transcript_id "file_1_file_1_g4464.t1"; gene_id "file_1_file_1_g4464";
+NODE_130_length_68692_cov_123.230343	AUGUSTUS	CDS	11945	12001	1	-	2	transcript_id "file_1_file_1_g4464.t1"; gene_id "file_1_file_1_g4464";
+NODE_130_length_68692_cov_123.230343	AUGUSTUS	exon	11945	12001	.	-	.	transcript_id "file_1_file_1_g4464.t1"; gene_id "file_1_file_1_g4464";
+NODE_130_length_68692_cov_123.230343	AUGUSTUS	intron	12002	12059	1	-	.	transcript_id "file_1_file_1_g4464.t1"; gene_id "file_1_file_1_g4464";
+NODE_130_length_68692_cov_123.230343	AUGUSTUS	CDS	12060	12256	1	-	1	transcript_id "file_1_file_1_g4464.t1"; gene_id "file_1_file_1_g4464";
+NODE_130_length_68692_cov_123.230343	AUGUSTUS	exon	12060	12256	.	-	.	transcript_id "file_1_file_1_g4464.t1"; gene_id "file_1_file_1_g4464";
+NODE_130_length_68692_cov_123.230343	AUGUSTUS	intron	12257	12307	1	-	.	transcript_id "file_1_file_1_g4464.t1"; gene_id "file_1_file_1_g4464";
+NODE_130_length_68692_cov_123.230343	AUGUSTUS	CDS	12308	12363	1	-	0	transcript_id "file_1_file_1_g4464.t1"; gene_id "file_1_file_1_g4464";
+NODE_130_length_68692_cov_123.230343	AUGUSTUS	gene	11830	12363	1	-	.	file_1_file_1_g4464
+NODE_130_length_68692_cov_123.230343	AUGUSTUS	transcript	11830	12363	1	-	.	file_1_file_1_g4464.t1
+NODE_130_length_68692_cov_123.230343	AUGUSTUS	exon	12308	12363	.	-	.	transcript_id "file_1_file_1_g4464.t1"; gene_id "file_1_file_1_g4464";
+NODE_130_length_68692_cov_123.230343	AUGUSTUS	start_codon	12361	12363	.	-	0	transcript_id "file_1_file_1_g4464.t1"; gene_id "file_1_file_1_g4464";
+NODE_5_length_265764_cov_125.820191	AUGUSTUS	stop_codon	200331	200333	.	-	0	transcript_id "file_1_file_1_g10403.t1"; gene_id "file_1_file_1_g10403";
+NODE_5_length_265764_cov_125.820191	AUGUSTUS	CDS	200331	200380	1	-	2	transcript_id "file_1_file_1_g10403.t1"; gene_id "file_1_file_1_g10403";
+NODE_5_length_265764_cov_125.820191	AUGUSTUS	exon	200331	200380	.	-	.	transcript_id "file_1_file_1_g10403.t1"; gene_id "file_1_file_1_g10403";
+NODE_5_length_265764_cov_125.820191	AUGUSTUS	intron	200381	200432	1	-	.	transcript_id "file_1_file_1_g10403.t1"; gene_id "file_1_file_1_g10403";
+NODE_5_length_265764_cov_125.820191	AUGUSTUS	CDS	200433	200485	1	-	1	transcript_id "file_1_file_1_g10403.t1"; gene_id "file_1_file_1_g10403";
+NODE_5_length_265764_cov_125.820191	AUGUSTUS	exon	200433	200485	.	-	.	transcript_id "file_1_file_1_g10403.t1"; gene_id "file_1_file_1_g10403";
+NODE_5_length_265764_cov_125.820191	AUGUSTUS	intron	200486	200543	1	-	.	transcript_id "file_1_file_1_g10403.t1"; gene_id "file_1_file_1_g10403";
+NODE_5_length_265764_cov_125.820191	AUGUSTUS	CDS	200544	200645	1	-	1	transcript_id "file_1_file_1_g10403.t1"; gene_id "file_1_file_1_g10403";
+NODE_5_length_265764_cov_125.820191	AUGUSTUS	exon	200544	200645	.	-	.	transcript_id "file_1_file_1_g10403.t1"; gene_id "file_1_file_1_g10403";
+NODE_5_length_265764_cov_125.820191	AUGUSTUS	intron	200646	200706	1	-	.	transcript_id "file_1_file_1_g10403.t1"; gene_id "file_1_file_1_g10403";
+NODE_5_length_265764_cov_125.820191	AUGUSTUS	CDS	200707	200732	1	-	0	transcript_id "file_1_file_1_g10403.t1"; gene_id "file_1_file_1_g10403";
+NODE_5_length_265764_cov_125.820191	AUGUSTUS	exon	200707	200732	.	-	.	transcript_id "file_1_file_1_g10403.t1"; gene_id "file_1_file_1_g10403";
+NODE_5_length_265764_cov_125.820191	AUGUSTUS	intron	200733	200794	1	-	.	transcript_id "file_1_file_1_g10403.t1"; gene_id "file_1_file_1_g10403";
+NODE_5_length_265764_cov_125.820191	AUGUSTUS	CDS	200795	200843	0.96	-	1	transcript_id "file_1_file_1_g10403.t1"; gene_id "file_1_file_1_g10403";
+NODE_5_length_265764_cov_125.820191	AUGUSTUS	exon	200795	200843	.	-	.	transcript_id "file_1_file_1_g10403.t1"; gene_id "file_1_file_1_g10403";
+NODE_5_length_265764_cov_125.820191	AUGUSTUS	intron	200844	200984	0.96	-	.	transcript_id "file_1_file_1_g10403.t1"; gene_id "file_1_file_1_g10403";
+NODE_5_length_265764_cov_125.820191	AUGUSTUS	CDS	200985	201037	0.97	-	0	transcript_id "file_1_file_1_g10403.t1"; gene_id "file_1_file_1_g10403";
+NODE_5_length_265764_cov_125.820191	AUGUSTUS	exon	200985	201037	.	-	.	transcript_id "file_1_file_1_g10403.t1"; gene_id "file_1_file_1_g10403";
+NODE_5_length_265764_cov_125.820191	AUGUSTUS	intron	201038	201105	1	-	.	transcript_id "file_1_file_1_g10403.t1"; gene_id "file_1_file_1_g10403";
+NODE_5_length_265764_cov_125.820191	AUGUSTUS	CDS	201106	201338	0.93	-	2	transcript_id "file_1_file_1_g10403.t1"; gene_id "file_1_file_1_g10403";
+NODE_5_length_265764_cov_125.820191	AUGUSTUS	exon	201106	201338	.	-	.	transcript_id "file_1_file_1_g10403.t1"; gene_id "file_1_file_1_g10403";
+NODE_5_length_265764_cov_125.820191	AUGUSTUS	intron	201339	201396	0.93	-	.	transcript_id "file_1_file_1_g10403.t1"; gene_id "file_1_file_1_g10403";
+NODE_5_length_265764_cov_125.820191	AUGUSTUS	CDS	201397	201409	0.65	-	0	transcript_id "file_1_file_1_g10403.t1"; gene_id "file_1_file_1_g10403";
+NODE_5_length_265764_cov_125.820191	AUGUSTUS	gene	200331	201409	0.58	-	.	file_1_file_1_g10403
+NODE_5_length_265764_cov_125.820191	AUGUSTUS	transcript	200331	201409	0.58	-	.	file_1_file_1_g10403.t1
+NODE_5_length_265764_cov_125.820191	AUGUSTUS	exon	201397	201409	.	-	.	transcript_id "file_1_file_1_g10403.t1"; gene_id "file_1_file_1_g10403";
+NODE_5_length_265764_cov_125.820191	AUGUSTUS	start_codon	201407	201409	.	-	0	transcript_id "file_1_file_1_g10403.t1"; gene_id "file_1_file_1_g10403";
+NODE_619_length_13552_cov_132.780111	AUGUSTUS	start_codon	11060	11062	.	+	0	transcript_id "file_1_file_1_g773.t1"; gene_id "file_1_file_1_g773";
+NODE_619_length_13552_cov_132.780111	AUGUSTUS	CDS	11060	11929	0.69	+	0	transcript_id "file_1_file_1_g773.t1"; gene_id "file_1_file_1_g773";
+NODE_619_length_13552_cov_132.780111	AUGUSTUS	exon	11060	11929	.	+	.	transcript_id "file_1_file_1_g773.t1"; gene_id "file_1_file_1_g773";
+NODE_619_length_13552_cov_132.780111	AUGUSTUS	stop_codon	11927	11929	.	+	0	transcript_id "file_1_file_1_g773.t1"; gene_id "file_1_file_1_g773";
+NODE_619_length_13552_cov_132.780111	AUGUSTUS	gene	11060	11929	0.69	+	.	file_1_file_1_g773
+NODE_619_length_13552_cov_132.780111	AUGUSTUS	transcript	11060	11929	0.69	+	.	file_1_file_1_g773.t1
+NODE_2404_length_1202_cov_17.927111	AUGUSTUS	start_codon	151	153	.	+	0	transcript_id "file_1_file_1_g8975.t1"; gene_id "file_1_file_1_g8975";
+NODE_2404_length_1202_cov_17.927111	AUGUSTUS	CDS	151	765	1	+	0	transcript_id "file_1_file_1_g8975.t1"; gene_id "file_1_file_1_g8975";
+NODE_2404_length_1202_cov_17.927111	AUGUSTUS	exon	151	765	.	+	.	transcript_id "file_1_file_1_g8975.t1"; gene_id "file_1_file_1_g8975";
+NODE_2404_length_1202_cov_17.927111	AUGUSTUS	stop_codon	763	765	.	+	0	transcript_id "file_1_file_1_g8975.t1"; gene_id "file_1_file_1_g8975";
+NODE_2404_length_1202_cov_17.927111	AUGUSTUS	gene	151	765	1	+	.	file_1_file_1_g8975
+NODE_2404_length_1202_cov_17.927111	AUGUSTUS	transcript	151	765	1	+	.	file_1_file_1_g8975.t1
+NODE_2416_length_1195_cov_81.877460	AUGUSTUS	start_codon	108	110	.	+	0	transcript_id "file_1_file_1_g7782.t1"; gene_id "file_1_file_1_g7782";
+NODE_2416_length_1195_cov_81.877460	AUGUSTUS	CDS	108	665	0.32	+	0	transcript_id "file_1_file_1_g7782.t1"; gene_id "file_1_file_1_g7782";
+NODE_2416_length_1195_cov_81.877460	AUGUSTUS	exon	108	665	.	+	.	transcript_id "file_1_file_1_g7782.t1"; gene_id "file_1_file_1_g7782";
+NODE_2416_length_1195_cov_81.877460	AUGUSTUS	intron	666	717	0.72	+	.	transcript_id "file_1_file_1_g7782.t1"; gene_id "file_1_file_1_g7782";
+NODE_2416_length_1195_cov_81.877460	AUGUSTUS	CDS	718	1194	0.62	+	0	transcript_id "file_1_file_1_g7782.t1"; gene_id "file_1_file_1_g7782";
+NODE_2416_length_1195_cov_81.877460	AUGUSTUS	gene	108	1194	0.27	+	.	file_1_file_1_g7782
+NODE_2416_length_1195_cov_81.877460	AUGUSTUS	transcript	108	1194	0.27	+	.	file_1_file_1_g7782.t1
+NODE_2416_length_1195_cov_81.877460	AUGUSTUS	exon	718	1194	.	+	.	transcript_id "file_1_file_1_g7782.t1"; gene_id "file_1_file_1_g7782";
+NODE_2416_length_1195_cov_81.877460	AUGUSTUS	stop_codon	1192	1194	.	+	0	transcript_id "file_1_file_1_g7782.t1"; gene_id "file_1_file_1_g7782";
+NODE_370_length_27132_cov_143.009943	AUGUSTUS	start_codon	11911	11913	.	+	0	transcript_id "file_1_file_1_g6792.t1"; gene_id "file_1_file_1_g6792";
+NODE_370_length_27132_cov_143.009943	AUGUSTUS	CDS	11911	14166	1	+	0	transcript_id "file_1_file_1_g6792.t1"; gene_id "file_1_file_1_g6792";
+NODE_370_length_27132_cov_143.009943	AUGUSTUS	exon	11911	14166	.	+	.	transcript_id "file_1_file_1_g6792.t1"; gene_id "file_1_file_1_g6792";
+NODE_370_length_27132_cov_143.009943	AUGUSTUS	stop_codon	14164	14166	.	+	0	transcript_id "file_1_file_1_g6792.t1"; gene_id "file_1_file_1_g6792";
+NODE_370_length_27132_cov_143.009943	AUGUSTUS	gene	11911	14166	1	+	.	file_1_file_1_g6792
+NODE_370_length_27132_cov_143.009943	AUGUSTUS	transcript	11911	14166	1	+	.	file_1_file_1_g6792.t1
+NODE_20_length_164767_cov_122.921562	AUGUSTUS	start_codon	109740	109742	.	+	0	transcript_id "file_1_file_1_g11140.t1"; gene_id "file_1_file_1_g11140";
+NODE_20_length_164767_cov_122.921562	AUGUSTUS	CDS	109740	110045	1	+	0	transcript_id "file_1_file_1_g11140.t1"; gene_id "file_1_file_1_g11140";
+NODE_20_length_164767_cov_122.921562	AUGUSTUS	exon	109740	110045	.	+	.	transcript_id "file_1_file_1_g11140.t1"; gene_id "file_1_file_1_g11140";
+NODE_20_length_164767_cov_122.921562	AUGUSTUS	intron	110046	110108	1	+	.	transcript_id "file_1_file_1_g11140.t1"; gene_id "file_1_file_1_g11140";
+NODE_20_length_164767_cov_122.921562	AUGUSTUS	CDS	110109	110222	1	+	0	transcript_id "file_1_file_1_g11140.t1"; gene_id "file_1_file_1_g11140";
+NODE_20_length_164767_cov_122.921562	AUGUSTUS	exon	110109	110222	.	+	.	transcript_id "file_1_file_1_g11140.t1"; gene_id "file_1_file_1_g11140";
+NODE_20_length_164767_cov_122.921562	AUGUSTUS	intron	110223	110299	1	+	.	transcript_id "file_1_file_1_g11140.t1"; gene_id "file_1_file_1_g11140";
+NODE_20_length_164767_cov_122.921562	AUGUSTUS	CDS	110300	111043	1	+	0	transcript_id "file_1_file_1_g11140.t1"; gene_id "file_1_file_1_g11140";
+NODE_20_length_164767_cov_122.921562	AUGUSTUS	exon	110300	111043	.	+	.	transcript_id "file_1_file_1_g11140.t1"; gene_id "file_1_file_1_g11140";
+NODE_20_length_164767_cov_122.921562	AUGUSTUS	intron	111044	111102	1	+	.	transcript_id "file_1_file_1_g11140.t1"; gene_id "file_1_file_1_g11140";
+NODE_20_length_164767_cov_122.921562	AUGUSTUS	CDS	111103	111662	1	+	0	transcript_id "file_1_file_1_g11140.t1"; gene_id "file_1_file_1_g11140";
+NODE_20_length_164767_cov_122.921562	AUGUSTUS	exon	111103	111662	.	+	.	transcript_id "file_1_file_1_g11140.t1"; gene_id "file_1_file_1_g11140";
+NODE_20_length_164767_cov_122.921562	AUGUSTUS	intron	111663	111720	1	+	.	transcript_id "file_1_file_1_g11140.t1"; gene_id "file_1_file_1_g11140";
+NODE_20_length_164767_cov_122.921562	AUGUSTUS	CDS	111721	111974	1	+	1	transcript_id "file_1_file_1_g11140.t1"; gene_id "file_1_file_1_g11140";
+NODE_20_length_164767_cov_122.921562	AUGUSTUS	exon	111721	111974	.	+	.	transcript_id "file_1_file_1_g11140.t1"; gene_id "file_1_file_1_g11140";
+NODE_20_length_164767_cov_122.921562	AUGUSTUS	intron	111975	112038	1	+	.	transcript_id "file_1_file_1_g11140.t1"; gene_id "file_1_file_1_g11140";
+NODE_20_length_164767_cov_122.921562	AUGUSTUS	CDS	112039	112352	1	+	2	transcript_id "file_1_file_1_g11140.t1"; gene_id "file_1_file_1_g11140";
+NODE_20_length_164767_cov_122.921562	AUGUSTUS	gene	109740	112352	1	+	.	file_1_file_1_g11140
+NODE_20_length_164767_cov_122.921562	AUGUSTUS	transcript	109740	112352	1	+	.	file_1_file_1_g11140.t1
+NODE_20_length_164767_cov_122.921562	AUGUSTUS	exon	112039	112352	.	+	.	transcript_id "file_1_file_1_g11140.t1"; gene_id "file_1_file_1_g11140";
+NODE_20_length_164767_cov_122.921562	AUGUSTUS	stop_codon	112350	112352	.	+	0	transcript_id "file_1_file_1_g11140.t1"; gene_id "file_1_file_1_g11140";
+NODE_986_length_6336_cov_115.840550	AUGUSTUS	stop_codon	620	622	.	-	0	transcript_id "file_1_file_1_g7652.t1"; gene_id "file_1_file_1_g7652";
+NODE_986_length_6336_cov_115.840550	AUGUSTUS	CDS	620	1780	0.75	-	0	transcript_id "file_1_file_1_g7652.t1"; gene_id "file_1_file_1_g7652";
+NODE_986_length_6336_cov_115.840550	AUGUSTUS	exon	620	1780	.	-	.	transcript_id "file_1_file_1_g7652.t1"; gene_id "file_1_file_1_g7652";
+NODE_986_length_6336_cov_115.840550	AUGUSTUS	start_codon	1778	1780	.	-	0	transcript_id "file_1_file_1_g7652.t1"; gene_id "file_1_file_1_g7652";
+NODE_986_length_6336_cov_115.840550	AUGUSTUS	gene	620	1780	0.75	-	.	file_1_file_1_g7652
+NODE_986_length_6336_cov_115.840550	AUGUSTUS	transcript	620	1780	0.75	-	.	file_1_file_1_g7652.t1
+NODE_1980_length_1676_cov_176.277048	AUGUSTUS	intron	1	930	0.53	+	.	transcript_id "file_1_file_1_g6935.t1"; gene_id "file_1_file_1_g6935";
+NODE_1980_length_1676_cov_176.277048	AUGUSTUS	CDS	931	998	0.54	+	2	transcript_id "file_1_file_1_g6935.t1"; gene_id "file_1_file_1_g6935";
+NODE_1980_length_1676_cov_176.277048	AUGUSTUS	exon	931	998	.	+	.	transcript_id "file_1_file_1_g6935.t1"; gene_id "file_1_file_1_g6935";
+NODE_1980_length_1676_cov_176.277048	AUGUSTUS	intron	999	1049	0.8	+	.	transcript_id "file_1_file_1_g6935.t1"; gene_id "file_1_file_1_g6935";
+NODE_1980_length_1676_cov_176.277048	AUGUSTUS	CDS	1050	1376	0.98	+	0	transcript_id "file_1_file_1_g6935.t1"; gene_id "file_1_file_1_g6935";
+NODE_1980_length_1676_cov_176.277048	AUGUSTUS	gene	1	1376	0.53	+	.	file_1_file_1_g6935
+NODE_1980_length_1676_cov_176.277048	AUGUSTUS	transcript	1	1376	0.53	+	.	file_1_file_1_g6935.t1
+NODE_1980_length_1676_cov_176.277048	AUGUSTUS	exon	1050	1376	.	+	.	transcript_id "file_1_file_1_g6935.t1"; gene_id "file_1_file_1_g6935";
+NODE_1980_length_1676_cov_176.277048	AUGUSTUS	stop_codon	1374	1376	.	+	0	transcript_id "file_1_file_1_g6935.t1"; gene_id "file_1_file_1_g6935";
+NODE_545_length_15890_cov_123.561500	AUGUSTUS	stop_codon	7286	7288	.	-	0	transcript_id "file_1_file_1_g12538.t1"; gene_id "file_1_file_1_g12538";
+NODE_545_length_15890_cov_123.561500	AUGUSTUS	CDS	7286	7388	1	-	1	transcript_id "file_1_file_1_g12538.t1"; gene_id "file_1_file_1_g12538";
+NODE_545_length_15890_cov_123.561500	AUGUSTUS	exon	7286	7388	.	-	.	transcript_id "file_1_file_1_g12538.t1"; gene_id "file_1_file_1_g12538";
+NODE_545_length_15890_cov_123.561500	AUGUSTUS	intron	7389	7444	1	-	.	transcript_id "file_1_file_1_g12538.t1"; gene_id "file_1_file_1_g12538";
+NODE_545_length_15890_cov_123.561500	AUGUSTUS	CDS	7445	8114	1	-	2	transcript_id "file_1_file_1_g12538.t1"; gene_id "file_1_file_1_g12538";
+NODE_545_length_15890_cov_123.561500	AUGUSTUS	exon	7445	8114	.	-	.	transcript_id "file_1_file_1_g12538.t1"; gene_id "file_1_file_1_g12538";
+NODE_545_length_15890_cov_123.561500	AUGUSTUS	intron	8115	8178	1	-	.	transcript_id "file_1_file_1_g12538.t1"; gene_id "file_1_file_1_g12538";
+NODE_545_length_15890_cov_123.561500	AUGUSTUS	CDS	8179	8345	1	-	1	transcript_id "file_1_file_1_g12538.t1"; gene_id "file_1_file_1_g12538";
+NODE_545_length_15890_cov_123.561500	AUGUSTUS	exon	8179	8345	.	-	.	transcript_id "file_1_file_1_g12538.t1"; gene_id "file_1_file_1_g12538";
+NODE_545_length_15890_cov_123.561500	AUGUSTUS	intron	8346	8398	1	-	.	transcript_id "file_1_file_1_g12538.t1"; gene_id "file_1_file_1_g12538";
+NODE_545_length_15890_cov_123.561500	AUGUSTUS	CDS	8399	8463	1	-	0	transcript_id "file_1_file_1_g12538.t1"; gene_id "file_1_file_1_g12538";
+NODE_545_length_15890_cov_123.561500	AUGUSTUS	exon	8399	8463	.	-	.	transcript_id "file_1_file_1_g12538.t1"; gene_id "file_1_file_1_g12538";
+NODE_545_length_15890_cov_123.561500	AUGUSTUS	intron	8464	8515	1	-	.	transcript_id "file_1_file_1_g12538.t1"; gene_id "file_1_file_1_g12538";
+NODE_545_length_15890_cov_123.561500	AUGUSTUS	CDS	8516	8605	1	-	0	transcript_id "file_1_file_1_g12538.t1"; gene_id "file_1_file_1_g12538";
+NODE_545_length_15890_cov_123.561500	AUGUSTUS	exon	8516	8605	.	-	.	transcript_id "file_1_file_1_g12538.t1"; gene_id "file_1_file_1_g12538";
+NODE_545_length_15890_cov_123.561500	AUGUSTUS	intron	8606	8661	1	-	.	transcript_id "file_1_file_1_g12538.t1"; gene_id "file_1_file_1_g12538";
+NODE_545_length_15890_cov_123.561500	AUGUSTUS	CDS	8662	8685	1	-	0	transcript_id "file_1_file_1_g12538.t1"; gene_id "file_1_file_1_g12538";
+NODE_545_length_15890_cov_123.561500	AUGUSTUS	exon	8662	8685	.	-	.	transcript_id "file_1_file_1_g12538.t1"; gene_id "file_1_file_1_g12538";
+NODE_545_length_15890_cov_123.561500	AUGUSTUS	intron	8686	8739	1	-	.	transcript_id "file_1_file_1_g12538.t1"; gene_id "file_1_file_1_g12538";
+NODE_545_length_15890_cov_123.561500	AUGUSTUS	CDS	8740	9189	1	-	0	transcript_id "file_1_file_1_g12538.t1"; gene_id "file_1_file_1_g12538";
+NODE_545_length_15890_cov_123.561500	AUGUSTUS	exon	8740	9189	.	-	.	transcript_id "file_1_file_1_g12538.t1"; gene_id "file_1_file_1_g12538";
+NODE_545_length_15890_cov_123.561500	AUGUSTUS	intron	9190	9239	1	-	.	transcript_id "file_1_file_1_g12538.t1"; gene_id "file_1_file_1_g12538";
+NODE_545_length_15890_cov_123.561500	AUGUSTUS	CDS	9240	9362	1	-	0	transcript_id "file_1_file_1_g12538.t1"; gene_id "file_1_file_1_g12538";
+NODE_545_length_15890_cov_123.561500	AUGUSTUS	exon	9240	9362	.	-	.	transcript_id "file_1_file_1_g12538.t1"; gene_id "file_1_file_1_g12538";
+NODE_545_length_15890_cov_123.561500	AUGUSTUS	intron	9363	9416	1	-	.	transcript_id "file_1_file_1_g12538.t1"; gene_id "file_1_file_1_g12538";
+NODE_545_length_15890_cov_123.561500	AUGUSTUS	CDS	9417	9636	1	-	1	transcript_id "file_1_file_1_g12538.t1"; gene_id "file_1_file_1_g12538";
+NODE_545_length_15890_cov_123.561500	AUGUSTUS	exon	9417	9636	.	-	.	transcript_id "file_1_file_1_g12538.t1"; gene_id "file_1_file_1_g12538";
+NODE_545_length_15890_cov_123.561500	AUGUSTUS	intron	9637	9688	1	-	.	transcript_id "file_1_file_1_g12538.t1"; gene_id "file_1_file_1_g12538";
+NODE_545_length_15890_cov_123.561500	AUGUSTUS	CDS	9689	10043	1	-	2	transcript_id "file_1_file_1_g12538.t1"; gene_id "file_1_file_1_g12538";
+NODE_545_length_15890_cov_123.561500	AUGUSTUS	exon	9689	10043	.	-	.	transcript_id "file_1_file_1_g12538.t1"; gene_id "file_1_file_1_g12538";
+NODE_545_length_15890_cov_123.561500	AUGUSTUS	intron	10044	10112	1	-	.	transcript_id "file_1_file_1_g12538.t1"; gene_id "file_1_file_1_g12538";
+NODE_545_length_15890_cov_123.561500	AUGUSTUS	CDS	10113	10438	1	-	1	transcript_id "file_1_file_1_g12538.t1"; gene_id "file_1_file_1_g12538";
+NODE_545_length_15890_cov_123.561500	AUGUSTUS	exon	10113	10438	.	-	.	transcript_id "file_1_file_1_g12538.t1"; gene_id "file_1_file_1_g12538";
+NODE_545_length_15890_cov_123.561500	AUGUSTUS	intron	10439	10493	1	-	.	transcript_id "file_1_file_1_g12538.t1"; gene_id "file_1_file_1_g12538";
+NODE_545_length_15890_cov_123.561500	AUGUSTUS	CDS	10494	13535	1	-	1	transcript_id "file_1_file_1_g12538.t1"; gene_id "file_1_file_1_g12538";
+NODE_545_length_15890_cov_123.561500	AUGUSTUS	exon	10494	13535	.	-	.	transcript_id "file_1_file_1_g12538.t1"; gene_id "file_1_file_1_g12538";
+NODE_545_length_15890_cov_123.561500	AUGUSTUS	intron	13536	13587	1	-	.	transcript_id "file_1_file_1_g12538.t1"; gene_id "file_1_file_1_g12538";
+NODE_545_length_15890_cov_123.561500	AUGUSTUS	CDS	13588	13949	1	-	0	transcript_id "file_1_file_1_g12538.t1"; gene_id "file_1_file_1_g12538";
+NODE_545_length_15890_cov_123.561500	AUGUSTUS	gene	7286	13949	1	-	.	file_1_file_1_g12538
+NODE_545_length_15890_cov_123.561500	AUGUSTUS	transcript	7286	13949	1	-	.	file_1_file_1_g12538.t1
+NODE_545_length_15890_cov_123.561500	AUGUSTUS	exon	13588	13949	.	-	.	transcript_id "file_1_file_1_g12538.t1"; gene_id "file_1_file_1_g12538";
+NODE_545_length_15890_cov_123.561500	AUGUSTUS	start_codon	13947	13949	.	-	0	transcript_id "file_1_file_1_g12538.t1"; gene_id "file_1_file_1_g12538";
+NODE_237_length_43070_cov_118.619194	AUGUSTUS	start_codon	276	278	.	+	0	transcript_id "file_1_file_1_g2805.t1"; gene_id "file_1_file_1_g2805";
+NODE_237_length_43070_cov_118.619194	AUGUSTUS	CDS	276	2253	0.97	+	0	transcript_id "file_1_file_1_g2805.t1"; gene_id "file_1_file_1_g2805";
+NODE_237_length_43070_cov_118.619194	AUGUSTUS	exon	276	2253	.	+	.	transcript_id "file_1_file_1_g2805.t1"; gene_id "file_1_file_1_g2805";
+NODE_237_length_43070_cov_118.619194	AUGUSTUS	intron	2254	2309	1	+	.	transcript_id "file_1_file_1_g2805.t1"; gene_id "file_1_file_1_g2805";
+NODE_237_length_43070_cov_118.619194	AUGUSTUS	CDS	2310	2938	1	+	2	transcript_id "file_1_file_1_g2805.t1"; gene_id "file_1_file_1_g2805";
+NODE_237_length_43070_cov_118.619194	AUGUSTUS	gene	276	2938	0.97	+	.	file_1_file_1_g2805
+NODE_237_length_43070_cov_118.619194	AUGUSTUS	transcript	276	2938	0.97	+	.	file_1_file_1_g2805.t1
+NODE_237_length_43070_cov_118.619194	AUGUSTUS	exon	2310	2938	.	+	.	transcript_id "file_1_file_1_g2805.t1"; gene_id "file_1_file_1_g2805";
+NODE_237_length_43070_cov_118.619194	AUGUSTUS	stop_codon	2936	2938	.	+	0	transcript_id "file_1_file_1_g2805.t1"; gene_id "file_1_file_1_g2805";
+NODE_38_length_133514_cov_131.151412	AUGUSTUS	stop_codon	81154	81156	.	-	0	transcript_id "file_1_file_1_g11538.t1"; gene_id "file_1_file_1_g11538";
+NODE_38_length_133514_cov_131.151412	AUGUSTUS	CDS	81154	81882	0.69	-	0	transcript_id "file_1_file_1_g11538.t1"; gene_id "file_1_file_1_g11538";
+NODE_38_length_133514_cov_131.151412	AUGUSTUS	exon	81154	81882	.	-	.	transcript_id "file_1_file_1_g11538.t1"; gene_id "file_1_file_1_g11538";
+NODE_38_length_133514_cov_131.151412	AUGUSTUS	start_codon	81880	81882	.	-	0	transcript_id "file_1_file_1_g11538.t1"; gene_id "file_1_file_1_g11538";
+NODE_38_length_133514_cov_131.151412	AUGUSTUS	gene	81154	81882	0.69	-	.	file_1_file_1_g11538
+NODE_38_length_133514_cov_131.151412	AUGUSTUS	transcript	81154	81882	0.69	-	.	file_1_file_1_g11538.t1
+NODE_53_length_113307_cov_124.024110	AUGUSTUS	start_codon	110984	110986	.	+	0	transcript_id "file_1_file_1_g8099.t1"; gene_id "file_1_file_1_g8099";
+NODE_53_length_113307_cov_124.024110	AUGUSTUS	CDS	110984	111118	0.99	+	0	transcript_id "file_1_file_1_g8099.t1"; gene_id "file_1_file_1_g8099";
+NODE_53_length_113307_cov_124.024110	AUGUSTUS	exon	110984	111118	.	+	.	transcript_id "file_1_file_1_g8099.t1"; gene_id "file_1_file_1_g8099";
+NODE_53_length_113307_cov_124.024110	AUGUSTUS	intron	111119	111171	1	+	.	transcript_id "file_1_file_1_g8099.t1"; gene_id "file_1_file_1_g8099";
+NODE_53_length_113307_cov_124.024110	AUGUSTUS	CDS	111172	111429	1	+	0	transcript_id "file_1_file_1_g8099.t1"; gene_id "file_1_file_1_g8099";
+NODE_53_length_113307_cov_124.024110	AUGUSTUS	exon	111172	111429	.	+	.	transcript_id "file_1_file_1_g8099.t1"; gene_id "file_1_file_1_g8099";
+NODE_53_length_113307_cov_124.024110	AUGUSTUS	intron	111430	111500	1	+	.	transcript_id "file_1_file_1_g8099.t1"; gene_id "file_1_file_1_g8099";
+NODE_53_length_113307_cov_124.024110	AUGUSTUS	CDS	111501	111558	1	+	0	transcript_id "file_1_file_1_g8099.t1"; gene_id "file_1_file_1_g8099";
+NODE_53_length_113307_cov_124.024110	AUGUSTUS	exon	111501	111558	.	+	.	transcript_id "file_1_file_1_g8099.t1"; gene_id "file_1_file_1_g8099";
+NODE_53_length_113307_cov_124.024110	AUGUSTUS	intron	111559	111614	1	+	.	transcript_id "file_1_file_1_g8099.t1"; gene_id "file_1_file_1_g8099";
+NODE_53_length_113307_cov_124.024110	AUGUSTUS	CDS	111615	111829	1	+	2	transcript_id "file_1_file_1_g8099.t1"; gene_id "file_1_file_1_g8099";
+NODE_53_length_113307_cov_124.024110	AUGUSTUS	exon	111615	111829	.	+	.	transcript_id "file_1_file_1_g8099.t1"; gene_id "file_1_file_1_g8099";
+NODE_53_length_113307_cov_124.024110	AUGUSTUS	intron	111830	111888	1	+	.	transcript_id "file_1_file_1_g8099.t1"; gene_id "file_1_file_1_g8099";
+NODE_53_length_113307_cov_124.024110	AUGUSTUS	CDS	111889	112710	0.99	+	0	transcript_id "file_1_file_1_g8099.t1"; gene_id "file_1_file_1_g8099";
+NODE_53_length_113307_cov_124.024110	AUGUSTUS	gene	110162	112710	1.28	+	.	file_1_file_1_g8099
+NODE_53_length_113307_cov_124.024110	AUGUSTUS	transcript	110162	112710	0.3	+	.	file_1_file_1_g8099.t2
+NODE_53_length_113307_cov_124.024110	AUGUSTUS	transcript	110984	112710	0.98	+	.	file_1_file_1_g8099.t1
+NODE_53_length_113307_cov_124.024110	AUGUSTUS	exon	111889	112710	.	+	.	transcript_id "file_1_file_1_g8099.t1"; gene_id "file_1_file_1_g8099";
+NODE_53_length_113307_cov_124.024110	AUGUSTUS	stop_codon	112708	112710	.	+	0	transcript_id "file_1_file_1_g8099.t1"; gene_id "file_1_file_1_g8099";
+NODE_153_length_61532_cov_128.265658	AUGUSTUS	start_codon	22465	22467	.	+	0	transcript_id "file_1_file_1_g10754.t1"; gene_id "file_1_file_1_g10754";
+NODE_153_length_61532_cov_128.265658	AUGUSTUS	CDS	22465	22699	1	+	0	transcript_id "file_1_file_1_g10754.t1"; gene_id "file_1_file_1_g10754";
+NODE_153_length_61532_cov_128.265658	AUGUSTUS	exon	22465	22699	.	+	.	transcript_id "file_1_file_1_g10754.t1"; gene_id "file_1_file_1_g10754";
+NODE_153_length_61532_cov_128.265658	AUGUSTUS	intron	22700	22764	1	+	.	transcript_id "file_1_file_1_g10754.t1"; gene_id "file_1_file_1_g10754";
+NODE_153_length_61532_cov_128.265658	AUGUSTUS	CDS	22765	23243	1	+	2	transcript_id "file_1_file_1_g10754.t1"; gene_id "file_1_file_1_g10754";
+NODE_153_length_61532_cov_128.265658	AUGUSTUS	exon	22765	23243	.	+	.	transcript_id "file_1_file_1_g10754.t1"; gene_id "file_1_file_1_g10754";
+NODE_153_length_61532_cov_128.265658	AUGUSTUS	intron	23244	23292	1	+	.	transcript_id "file_1_file_1_g10754.t1"; gene_id "file_1_file_1_g10754";
+NODE_153_length_61532_cov_128.265658	AUGUSTUS	CDS	23293	23472	1	+	0	transcript_id "file_1_file_1_g10754.t1"; gene_id "file_1_file_1_g10754";
+NODE_153_length_61532_cov_128.265658	AUGUSTUS	exon	23293	23472	.	+	.	transcript_id "file_1_file_1_g10754.t1"; gene_id "file_1_file_1_g10754";
+NODE_153_length_61532_cov_128.265658	AUGUSTUS	intron	23473	23524	1	+	.	transcript_id "file_1_file_1_g10754.t1"; gene_id "file_1_file_1_g10754";
+NODE_153_length_61532_cov_128.265658	AUGUSTUS	CDS	23525	23591	1	+	0	transcript_id "file_1_file_1_g10754.t1"; gene_id "file_1_file_1_g10754";
+NODE_153_length_61532_cov_128.265658	AUGUSTUS	exon	23525	23591	.	+	.	transcript_id "file_1_file_1_g10754.t1"; gene_id "file_1_file_1_g10754";
+NODE_153_length_61532_cov_128.265658	AUGUSTUS	intron	23592	23641	1	+	.	transcript_id "file_1_file_1_g10754.t1"; gene_id "file_1_file_1_g10754";
+NODE_153_length_61532_cov_128.265658	AUGUSTUS	CDS	23642	23939	1	+	2	transcript_id "file_1_file_1_g10754.t1"; gene_id "file_1_file_1_g10754";
+NODE_153_length_61532_cov_128.265658	AUGUSTUS	exon	23642	23939	.	+	.	transcript_id "file_1_file_1_g10754.t1"; gene_id "file_1_file_1_g10754";
+NODE_153_length_61532_cov_128.265658	AUGUSTUS	intron	23940	23999	1	+	.	transcript_id "file_1_file_1_g10754.t1"; gene_id "file_1_file_1_g10754";
+NODE_153_length_61532_cov_128.265658	AUGUSTUS	CDS	24000	24116	1	+	1	transcript_id "file_1_file_1_g10754.t1"; gene_id "file_1_file_1_g10754";
+NODE_153_length_61532_cov_128.265658	AUGUSTUS	exon	24000	24116	.	+	.	transcript_id "file_1_file_1_g10754.t1"; gene_id "file_1_file_1_g10754";
+NODE_153_length_61532_cov_128.265658	AUGUSTUS	intron	24117	24169	1	+	.	transcript_id "file_1_file_1_g10754.t1"; gene_id "file_1_file_1_g10754";
+NODE_153_length_61532_cov_128.265658	AUGUSTUS	CDS	24170	24384	1	+	1	transcript_id "file_1_file_1_g10754.t1"; gene_id "file_1_file_1_g10754";
+NODE_153_length_61532_cov_128.265658	AUGUSTUS	exon	24170	24384	.	+	.	transcript_id "file_1_file_1_g10754.t1"; gene_id "file_1_file_1_g10754";
+NODE_153_length_61532_cov_128.265658	AUGUSTUS	intron	24385	24442	1	+	.	transcript_id "file_1_file_1_g10754.t1"; gene_id "file_1_file_1_g10754";
+NODE_153_length_61532_cov_128.265658	AUGUSTUS	CDS	24443	24534	1	+	2	transcript_id "file_1_file_1_g10754.t1"; gene_id "file_1_file_1_g10754";
+NODE_153_length_61532_cov_128.265658	AUGUSTUS	exon	24443	24534	.	+	.	transcript_id "file_1_file_1_g10754.t1"; gene_id "file_1_file_1_g10754";
+NODE_153_length_61532_cov_128.265658	AUGUSTUS	intron	24535	24589	1	+	.	transcript_id "file_1_file_1_g10754.t1"; gene_id "file_1_file_1_g10754";
+NODE_153_length_61532_cov_128.265658	AUGUSTUS	CDS	24590	24666	1	+	0	transcript_id "file_1_file_1_g10754.t1"; gene_id "file_1_file_1_g10754";
+NODE_153_length_61532_cov_128.265658	AUGUSTUS	exon	24590	24666	.	+	.	transcript_id "file_1_file_1_g10754.t1"; gene_id "file_1_file_1_g10754";
+NODE_153_length_61532_cov_128.265658	AUGUSTUS	intron	24667	24717	1	+	.	transcript_id "file_1_file_1_g10754.t1"; gene_id "file_1_file_1_g10754";
+NODE_153_length_61532_cov_128.265658	AUGUSTUS	CDS	24718	24784	1	+	1	transcript_id "file_1_file_1_g10754.t1"; gene_id "file_1_file_1_g10754";
+NODE_153_length_61532_cov_128.265658	AUGUSTUS	exon	24718	24784	.	+	.	transcript_id "file_1_file_1_g10754.t1"; gene_id "file_1_file_1_g10754";
+NODE_153_length_61532_cov_128.265658	AUGUSTUS	intron	24785	24843	1	+	.	transcript_id "file_1_file_1_g10754.t1"; gene_id "file_1_file_1_g10754";
+NODE_153_length_61532_cov_128.265658	AUGUSTUS	CDS	24844	24886	0.91	+	0	transcript_id "file_1_file_1_g10754.t1"; gene_id "file_1_file_1_g10754";
+NODE_153_length_61532_cov_128.265658	AUGUSTUS	exon	24844	24886	.	+	.	transcript_id "file_1_file_1_g10754.t1"; gene_id "file_1_file_1_g10754";
+NODE_153_length_61532_cov_128.265658	AUGUSTUS	intron	24887	24938	0.91	+	.	transcript_id "file_1_file_1_g10754.t1"; gene_id "file_1_file_1_g10754";
+NODE_153_length_61532_cov_128.265658	AUGUSTUS	CDS	24939	24952	0.91	+	2	transcript_id "file_1_file_1_g10754.t1"; gene_id "file_1_file_1_g10754";
+NODE_153_length_61532_cov_128.265658	AUGUSTUS	gene	22465	24952	0.91	+	.	file_1_file_1_g10754
+NODE_153_length_61532_cov_128.265658	AUGUSTUS	transcript	22465	24952	0.91	+	.	file_1_file_1_g10754.t1
+NODE_153_length_61532_cov_128.265658	AUGUSTUS	exon	24939	24952	.	+	.	transcript_id "file_1_file_1_g10754.t1"; gene_id "file_1_file_1_g10754";
+NODE_153_length_61532_cov_128.265658	AUGUSTUS	stop_codon	24950	24952	.	+	0	transcript_id "file_1_file_1_g10754.t1"; gene_id "file_1_file_1_g10754";
+NODE_3_length_298974_cov_129.435327	AUGUSTUS	start_codon	164863	164865	.	+	0	transcript_id "file_1_file_1_g10168.t1"; gene_id "file_1_file_1_g10168";
+NODE_3_length_298974_cov_129.435327	AUGUSTUS	CDS	164863	165129	1	+	0	transcript_id "file_1_file_1_g10168.t1"; gene_id "file_1_file_1_g10168";
+NODE_3_length_298974_cov_129.435327	AUGUSTUS	exon	164863	165129	.	+	.	transcript_id "file_1_file_1_g10168.t1"; gene_id "file_1_file_1_g10168";
+NODE_3_length_298974_cov_129.435327	AUGUSTUS	intron	165130	165188	1	+	.	transcript_id "file_1_file_1_g10168.t1"; gene_id "file_1_file_1_g10168";
+NODE_3_length_298974_cov_129.435327	AUGUSTUS	CDS	165189	165348	1	+	0	transcript_id "file_1_file_1_g10168.t1"; gene_id "file_1_file_1_g10168";
+NODE_3_length_298974_cov_129.435327	AUGUSTUS	exon	165189	165348	.	+	.	transcript_id "file_1_file_1_g10168.t1"; gene_id "file_1_file_1_g10168";
+NODE_3_length_298974_cov_129.435327	AUGUSTUS	intron	165349	165400	1	+	.	transcript_id "file_1_file_1_g10168.t1"; gene_id "file_1_file_1_g10168";
+NODE_3_length_298974_cov_129.435327	AUGUSTUS	CDS	165401	165513	1	+	2	transcript_id "file_1_file_1_g10168.t1"; gene_id "file_1_file_1_g10168";
+NODE_3_length_298974_cov_129.435327	AUGUSTUS	exon	165401	165513	.	+	.	transcript_id "file_1_file_1_g10168.t1"; gene_id "file_1_file_1_g10168";
+NODE_3_length_298974_cov_129.435327	AUGUSTUS	intron	165514	165561	1	+	.	transcript_id "file_1_file_1_g10168.t1"; gene_id "file_1_file_1_g10168";
+NODE_3_length_298974_cov_129.435327	AUGUSTUS	CDS	165562	165704	1	+	0	transcript_id "file_1_file_1_g10168.t1"; gene_id "file_1_file_1_g10168";
+NODE_3_length_298974_cov_129.435327	AUGUSTUS	exon	165562	165704	.	+	.	transcript_id "file_1_file_1_g10168.t1"; gene_id "file_1_file_1_g10168";
+NODE_3_length_298974_cov_129.435327	AUGUSTUS	intron	165705	165763	1	+	.	transcript_id "file_1_file_1_g10168.t1"; gene_id "file_1_file_1_g10168";
+NODE_3_length_298974_cov_129.435327	AUGUSTUS	CDS	165764	166158	1	+	1	transcript_id "file_1_file_1_g10168.t1"; gene_id "file_1_file_1_g10168";
+NODE_3_length_298974_cov_129.435327	AUGUSTUS	exon	165764	166158	.	+	.	transcript_id "file_1_file_1_g10168.t1"; gene_id "file_1_file_1_g10168";
+NODE_3_length_298974_cov_129.435327	AUGUSTUS	intron	166159	166199	1	+	.	transcript_id "file_1_file_1_g10168.t1"; gene_id "file_1_file_1_g10168";
+NODE_3_length_298974_cov_129.435327	AUGUSTUS	CDS	166200	166252	1	+	2	transcript_id "file_1_file_1_g10168.t1"; gene_id "file_1_file_1_g10168";
+NODE_3_length_298974_cov_129.435327	AUGUSTUS	exon	166200	166252	.	+	.	transcript_id "file_1_file_1_g10168.t1"; gene_id "file_1_file_1_g10168";
+NODE_3_length_298974_cov_129.435327	AUGUSTUS	intron	166253	166322	1	+	.	transcript_id "file_1_file_1_g10168.t1"; gene_id "file_1_file_1_g10168";
+NODE_3_length_298974_cov_129.435327	AUGUSTUS	CDS	166323	166621	1	+	0	transcript_id "file_1_file_1_g10168.t1"; gene_id "file_1_file_1_g10168";
+NODE_3_length_298974_cov_129.435327	AUGUSTUS	exon	166323	166621	.	+	.	transcript_id "file_1_file_1_g10168.t1"; gene_id "file_1_file_1_g10168";
+NODE_3_length_298974_cov_129.435327	AUGUSTUS	intron	166622	166672	1	+	.	transcript_id "file_1_file_1_g10168.t1"; gene_id "file_1_file_1_g10168";
+NODE_3_length_298974_cov_129.435327	AUGUSTUS	CDS	166673	166815	1	+	1	transcript_id "file_1_file_1_g10168.t1"; gene_id "file_1_file_1_g10168";
+NODE_3_length_298974_cov_129.435327	AUGUSTUS	exon	166673	166815	.	+	.	transcript_id "file_1_file_1_g10168.t1"; gene_id "file_1_file_1_g10168";
+NODE_3_length_298974_cov_129.435327	AUGUSTUS	intron	166816	166866	1	+	.	transcript_id "file_1_file_1_g10168.t1"; gene_id "file_1_file_1_g10168";
+NODE_3_length_298974_cov_129.435327	AUGUSTUS	CDS	166867	166994	1	+	2	transcript_id "file_1_file_1_g10168.t1"; gene_id "file_1_file_1_g10168";
+NODE_3_length_298974_cov_129.435327	AUGUSTUS	gene	164863	166994	1	+	.	file_1_file_1_g10168
+NODE_3_length_298974_cov_129.435327	AUGUSTUS	transcript	164863	166994	1	+	.	file_1_file_1_g10168.t1
+NODE_3_length_298974_cov_129.435327	AUGUSTUS	exon	166867	166994	.	+	.	transcript_id "file_1_file_1_g10168.t1"; gene_id "file_1_file_1_g10168";
+NODE_3_length_298974_cov_129.435327	AUGUSTUS	stop_codon	166992	166994	.	+	0	transcript_id "file_1_file_1_g10168.t1"; gene_id "file_1_file_1_g10168";
+NODE_410_length_23699_cov_120.428245	AUGUSTUS	start_codon	11483	11485	.	+	0	transcript_id "file_1_file_1_g3927.t1"; gene_id "file_1_file_1_g3927";
+NODE_410_length_23699_cov_120.428245	AUGUSTUS	CDS	11483	11651	0.98	+	0	transcript_id "file_1_file_1_g3927.t1"; gene_id "file_1_file_1_g3927";
+NODE_410_length_23699_cov_120.428245	AUGUSTUS	exon	11483	11651	.	+	.	transcript_id "file_1_file_1_g3927.t1"; gene_id "file_1_file_1_g3927";
+NODE_410_length_23699_cov_120.428245	AUGUSTUS	intron	11652	11720	0.98	+	.	transcript_id "file_1_file_1_g3927.t1"; gene_id "file_1_file_1_g3927";
+NODE_410_length_23699_cov_120.428245	AUGUSTUS	CDS	11721	11857	0.98	+	2	transcript_id "file_1_file_1_g3927.t1"; gene_id "file_1_file_1_g3927";
+NODE_410_length_23699_cov_120.428245	AUGUSTUS	exon	11721	11857	.	+	.	transcript_id "file_1_file_1_g3927.t1"; gene_id "file_1_file_1_g3927";
+NODE_410_length_23699_cov_120.428245	AUGUSTUS	intron	11858	11934	0.98	+	.	transcript_id "file_1_file_1_g3927.t1"; gene_id "file_1_file_1_g3927";
+NODE_410_length_23699_cov_120.428245	AUGUSTUS	CDS	11935	12528	0.93	+	0	transcript_id "file_1_file_1_g3927.t1"; gene_id "file_1_file_1_g3927";
+NODE_410_length_23699_cov_120.428245	AUGUSTUS	transcript	11887	12528	0.95	+	.	file_1_file_1_g3927.t2
+NODE_410_length_23699_cov_120.428245	AUGUSTUS	exon	11935	12528	.	+	.	transcript_id "file_1_file_1_g3927.t1"; gene_id "file_1_file_1_g3927";
+NODE_410_length_23699_cov_120.428245	AUGUSTUS	stop_codon	12526	12528	.	+	0	transcript_id "file_1_file_1_g3927.t1"; gene_id "file_1_file_1_g3927";
+NODE_499_length_17572_cov_115.052586	AUGUSTUS	stop_codon	11884	11886	.	-	0	transcript_id "file_1_file_1_g942.t1"; gene_id "file_1_file_1_g942";
+NODE_499_length_17572_cov_115.052586	AUGUSTUS	CDS	11884	13155	1	-	0	transcript_id "file_1_file_1_g942.t1"; gene_id "file_1_file_1_g942";
+NODE_499_length_17572_cov_115.052586	AUGUSTUS	exon	11884	13155	.	-	.	transcript_id "file_1_file_1_g942.t1"; gene_id "file_1_file_1_g942";
+NODE_499_length_17572_cov_115.052586	AUGUSTUS	intron	13156	13230	1	-	.	transcript_id "file_1_file_1_g942.t1"; gene_id "file_1_file_1_g942";
+NODE_499_length_17572_cov_115.052586	AUGUSTUS	CDS	13231	13461	0.99	-	0	transcript_id "file_1_file_1_g942.t1"; gene_id "file_1_file_1_g942";
+NODE_499_length_17572_cov_115.052586	AUGUSTUS	gene	11884	13461	0.99	-	.	file_1_file_1_g942
+NODE_499_length_17572_cov_115.052586	AUGUSTUS	transcript	11884	13461	0.99	-	.	file_1_file_1_g942.t1
+NODE_499_length_17572_cov_115.052586	AUGUSTUS	exon	13231	13461	.	-	.	transcript_id "file_1_file_1_g942.t1"; gene_id "file_1_file_1_g942";
+NODE_499_length_17572_cov_115.052586	AUGUSTUS	start_codon	13459	13461	.	-	0	transcript_id "file_1_file_1_g942.t1"; gene_id "file_1_file_1_g942";
+NODE_234_length_43743_cov_117.658338	AUGUSTUS	stop_codon	27614	27616	.	-	0	transcript_id "file_1_file_1_g5728.t1"; gene_id "file_1_file_1_g5728";
+NODE_234_length_43743_cov_117.658338	AUGUSTUS	CDS	27614	27807	0.24	-	2	transcript_id "file_1_file_1_g5728.t1"; gene_id "file_1_file_1_g5728";
+NODE_234_length_43743_cov_117.658338	AUGUSTUS	exon	27614	27807	.	-	.	transcript_id "file_1_file_1_g5728.t1"; gene_id "file_1_file_1_g5728";
+NODE_234_length_43743_cov_117.658338	AUGUSTUS	intron	27808	27951	0.4	-	.	transcript_id "file_1_file_1_g5728.t1"; gene_id "file_1_file_1_g5728";
+NODE_234_length_43743_cov_117.658338	AUGUSTUS	CDS	27952	28209	0.65	-	2	transcript_id "file_1_file_1_g5728.t1"; gene_id "file_1_file_1_g5728";
+NODE_234_length_43743_cov_117.658338	AUGUSTUS	exon	27952	28209	.	-	.	transcript_id "file_1_file_1_g5728.t1"; gene_id "file_1_file_1_g5728";
+NODE_234_length_43743_cov_117.658338	AUGUSTUS	intron	28210	28268	0.85	-	.	transcript_id "file_1_file_1_g5728.t1"; gene_id "file_1_file_1_g5728";
+NODE_234_length_43743_cov_117.658338	AUGUSTUS	CDS	28269	28391	0.69	-	2	transcript_id "file_1_file_1_g5728.t1"; gene_id "file_1_file_1_g5728";
+NODE_234_length_43743_cov_117.658338	AUGUSTUS	exon	28269	28391	.	-	.	transcript_id "file_1_file_1_g5728.t1"; gene_id "file_1_file_1_g5728";
+NODE_234_length_43743_cov_117.658338	AUGUSTUS	intron	28392	29159	0.24	-	.	transcript_id "file_1_file_1_g5728.t1"; gene_id "file_1_file_1_g5728";
+NODE_234_length_43743_cov_117.658338	AUGUSTUS	CDS	29160	29169	0.27	-	0	transcript_id "file_1_file_1_g5728.t1"; gene_id "file_1_file_1_g5728";
+NODE_234_length_43743_cov_117.658338	AUGUSTUS	exon	29160	29169	.	-	.	transcript_id "file_1_file_1_g5728.t1"; gene_id "file_1_file_1_g5728";
+NODE_234_length_43743_cov_117.658338	AUGUSTUS	intron	29170	29228	0.48	-	.	transcript_id "file_1_file_1_g5728.t1"; gene_id "file_1_file_1_g5728";
+NODE_234_length_43743_cov_117.658338	AUGUSTUS	CDS	29229	29525	0.69	-	0	transcript_id "file_1_file_1_g5728.t1"; gene_id "file_1_file_1_g5728";
+NODE_234_length_43743_cov_117.658338	AUGUSTUS	gene	27614	29525	0.06	-	.	file_1_file_1_g5728
+NODE_234_length_43743_cov_117.658338	AUGUSTUS	transcript	27614	29525	0.06	-	.	file_1_file_1_g5728.t1
+NODE_234_length_43743_cov_117.658338	AUGUSTUS	exon	29229	29525	.	-	.	transcript_id "file_1_file_1_g5728.t1"; gene_id "file_1_file_1_g5728";
+NODE_234_length_43743_cov_117.658338	AUGUSTUS	start_codon	29523	29525	.	-	0	transcript_id "file_1_file_1_g5728.t1"; gene_id "file_1_file_1_g5728";
+NODE_581_length_14617_cov_87.877648	AUGUSTUS	stop_codon	12017	12019	.	-	0	transcript_id "file_1_file_1_g3505.t1"; gene_id "file_1_file_1_g3505";
+NODE_581_length_14617_cov_87.877648	AUGUSTUS	CDS	12017	12614	0.99	-	1	transcript_id "file_1_file_1_g3505.t1"; gene_id "file_1_file_1_g3505";
+NODE_581_length_14617_cov_87.877648	AUGUSTUS	exon	12017	12614	.	-	.	transcript_id "file_1_file_1_g3505.t1"; gene_id "file_1_file_1_g3505";
+NODE_581_length_14617_cov_87.877648	AUGUSTUS	intron	12615	12734	0.49	-	.	transcript_id "file_1_file_1_g3505.t1"; gene_id "file_1_file_1_g3505";
+NODE_581_length_14617_cov_87.877648	AUGUSTUS	CDS	12735	13153	0.42	-	0	transcript_id "file_1_file_1_g3505.t1"; gene_id "file_1_file_1_g3505";
+NODE_581_length_14617_cov_87.877648	AUGUSTUS	gene	12017	13153	0.42	-	.	file_1_file_1_g3505
+NODE_581_length_14617_cov_87.877648	AUGUSTUS	transcript	12017	13153	0.42	-	.	file_1_file_1_g3505.t1
+NODE_581_length_14617_cov_87.877648	AUGUSTUS	exon	12735	13153	.	-	.	transcript_id "file_1_file_1_g3505.t1"; gene_id "file_1_file_1_g3505";
+NODE_581_length_14617_cov_87.877648	AUGUSTUS	start_codon	13151	13153	.	-	0	transcript_id "file_1_file_1_g3505.t1"; gene_id "file_1_file_1_g3505";
+NODE_73_length_95737_cov_131.253314	AUGUSTUS	start_codon	71545	71547	.	+	0	transcript_id "file_1_file_1_g873.t1"; gene_id "file_1_file_1_g873";
+NODE_73_length_95737_cov_131.253314	AUGUSTUS	CDS	71545	71685	0.66	+	0	transcript_id "file_1_file_1_g873.t1"; gene_id "file_1_file_1_g873";
+NODE_73_length_95737_cov_131.253314	AUGUSTUS	exon	71545	71685	.	+	.	transcript_id "file_1_file_1_g873.t1"; gene_id "file_1_file_1_g873";
+NODE_73_length_95737_cov_131.253314	AUGUSTUS	intron	71686	71744	1	+	.	transcript_id "file_1_file_1_g873.t1"; gene_id "file_1_file_1_g873";
+NODE_73_length_95737_cov_131.253314	AUGUSTUS	CDS	71745	73064	1	+	0	transcript_id "file_1_file_1_g873.t1"; gene_id "file_1_file_1_g873";
+NODE_73_length_95737_cov_131.253314	AUGUSTUS	exon	71745	73064	.	+	.	transcript_id "file_1_file_1_g873.t1"; gene_id "file_1_file_1_g873";
+NODE_73_length_95737_cov_131.253314	AUGUSTUS	intron	73065	73125	1	+	.	transcript_id "file_1_file_1_g873.t1"; gene_id "file_1_file_1_g873";
+NODE_73_length_95737_cov_131.253314	AUGUSTUS	CDS	73126	73242	1	+	0	transcript_id "file_1_file_1_g873.t1"; gene_id "file_1_file_1_g873";
+NODE_73_length_95737_cov_131.253314	AUGUSTUS	exon	73126	73242	.	+	.	transcript_id "file_1_file_1_g873.t1"; gene_id "file_1_file_1_g873";
+NODE_73_length_95737_cov_131.253314	AUGUSTUS	intron	73243	73302	1	+	.	transcript_id "file_1_file_1_g873.t1"; gene_id "file_1_file_1_g873";
+NODE_73_length_95737_cov_131.253314	AUGUSTUS	CDS	73303	73680	1	+	0	transcript_id "file_1_file_1_g873.t1"; gene_id "file_1_file_1_g873";
+NODE_73_length_95737_cov_131.253314	AUGUSTUS	exon	73303	73680	.	+	.	transcript_id "file_1_file_1_g873.t1"; gene_id "file_1_file_1_g873";
+NODE_73_length_95737_cov_131.253314	AUGUSTUS	intron	73681	73744	1	+	.	transcript_id "file_1_file_1_g873.t1"; gene_id "file_1_file_1_g873";
+NODE_73_length_95737_cov_131.253314	AUGUSTUS	CDS	73745	74095	1	+	0	transcript_id "file_1_file_1_g873.t1"; gene_id "file_1_file_1_g873";
+NODE_73_length_95737_cov_131.253314	AUGUSTUS	exon	73745	74095	.	+	.	transcript_id "file_1_file_1_g873.t1"; gene_id "file_1_file_1_g873";
+NODE_73_length_95737_cov_131.253314	AUGUSTUS	intron	74096	74149	1	+	.	transcript_id "file_1_file_1_g873.t1"; gene_id "file_1_file_1_g873";
+NODE_73_length_95737_cov_131.253314	AUGUSTUS	CDS	74150	74305	1	+	0	transcript_id "file_1_file_1_g873.t1"; gene_id "file_1_file_1_g873";
+NODE_73_length_95737_cov_131.253314	AUGUSTUS	gene	71545	74305	1.11	+	.	file_1_file_1_g873
+NODE_73_length_95737_cov_131.253314	AUGUSTUS	transcript	71545	74305	0.45	+	.	file_1_file_1_g873.t2
+NODE_73_length_95737_cov_131.253314	AUGUSTUS	transcript	71545	74305	0.66	+	.	file_1_file_1_g873.t1
+NODE_73_length_95737_cov_131.253314	AUGUSTUS	exon	74150	74305	.	+	.	transcript_id "file_1_file_1_g873.t1"; gene_id "file_1_file_1_g873";
+NODE_73_length_95737_cov_131.253314	AUGUSTUS	stop_codon	74303	74305	.	+	0	transcript_id "file_1_file_1_g873.t1"; gene_id "file_1_file_1_g873";
+NODE_32_length_138564_cov_120.984706	AUGUSTUS	stop_codon	69542	69544	.	-	0	transcript_id "file_1_file_1_g12316.t1"; gene_id "file_1_file_1_g12316";
+NODE_32_length_138564_cov_120.984706	AUGUSTUS	CDS	69542	69581	1	-	1	transcript_id "file_1_file_1_g12316.t1"; gene_id "file_1_file_1_g12316";
+NODE_32_length_138564_cov_120.984706	AUGUSTUS	exon	69542	69581	.	-	.	transcript_id "file_1_file_1_g12316.t1"; gene_id "file_1_file_1_g12316";
+NODE_32_length_138564_cov_120.984706	AUGUSTUS	intron	69582	69648	1	-	.	transcript_id "file_1_file_1_g12316.t1"; gene_id "file_1_file_1_g12316";
+NODE_32_length_138564_cov_120.984706	AUGUSTUS	CDS	69649	69715	1	-	2	transcript_id "file_1_file_1_g12316.t1"; gene_id "file_1_file_1_g12316";
+NODE_32_length_138564_cov_120.984706	AUGUSTUS	exon	69649	69715	.	-	.	transcript_id "file_1_file_1_g12316.t1"; gene_id "file_1_file_1_g12316";
+NODE_32_length_138564_cov_120.984706	AUGUSTUS	intron	69716	69783	1	-	.	transcript_id "file_1_file_1_g12316.t1"; gene_id "file_1_file_1_g12316";
+NODE_32_length_138564_cov_120.984706	AUGUSTUS	CDS	69784	69931	1	-	0	transcript_id "file_1_file_1_g12316.t1"; gene_id "file_1_file_1_g12316";
+NODE_32_length_138564_cov_120.984706	AUGUSTUS	exon	69784	69931	.	-	.	transcript_id "file_1_file_1_g12316.t1"; gene_id "file_1_file_1_g12316";
+NODE_32_length_138564_cov_120.984706	AUGUSTUS	intron	69932	69992	1	-	.	transcript_id "file_1_file_1_g12316.t1"; gene_id "file_1_file_1_g12316";
+NODE_32_length_138564_cov_120.984706	AUGUSTUS	CDS	69993	70167	1	-	1	transcript_id "file_1_file_1_g12316.t1"; gene_id "file_1_file_1_g12316";
+NODE_32_length_138564_cov_120.984706	AUGUSTUS	exon	69993	70167	.	-	.	transcript_id "file_1_file_1_g12316.t1"; gene_id "file_1_file_1_g12316";
+NODE_32_length_138564_cov_120.984706	AUGUSTUS	intron	70168	70218	1	-	.	transcript_id "file_1_file_1_g12316.t1"; gene_id "file_1_file_1_g12316";
+NODE_32_length_138564_cov_120.984706	AUGUSTUS	CDS	70219	70367	1	-	0	transcript_id "file_1_file_1_g12316.t1"; gene_id "file_1_file_1_g12316";
+NODE_32_length_138564_cov_120.984706	AUGUSTUS	exon	70219	70367	.	-	.	transcript_id "file_1_file_1_g12316.t1"; gene_id "file_1_file_1_g12316";
+NODE_32_length_138564_cov_120.984706	AUGUSTUS	intron	70368	70424	1	-	.	transcript_id "file_1_file_1_g12316.t1"; gene_id "file_1_file_1_g12316";
+NODE_32_length_138564_cov_120.984706	AUGUSTUS	CDS	70425	70625	1	-	0	transcript_id "file_1_file_1_g12316.t1"; gene_id "file_1_file_1_g12316";
+NODE_32_length_138564_cov_120.984706	AUGUSTUS	exon	70425	70625	.	-	.	transcript_id "file_1_file_1_g12316.t1"; gene_id "file_1_file_1_g12316";
+NODE_32_length_138564_cov_120.984706	AUGUSTUS	intron	70626	70685	1	-	.	transcript_id "file_1_file_1_g12316.t1"; gene_id "file_1_file_1_g12316";
+NODE_32_length_138564_cov_120.984706	AUGUSTUS	CDS	70686	70841	1	-	0	transcript_id "file_1_file_1_g12316.t1"; gene_id "file_1_file_1_g12316";
+NODE_32_length_138564_cov_120.984706	AUGUSTUS	exon	70686	70841	.	-	.	transcript_id "file_1_file_1_g12316.t1"; gene_id "file_1_file_1_g12316";
+NODE_32_length_138564_cov_120.984706	AUGUSTUS	intron	70842	70909	1	-	.	transcript_id "file_1_file_1_g12316.t1"; gene_id "file_1_file_1_g12316";
+NODE_32_length_138564_cov_120.984706	AUGUSTUS	CDS	70910	71011	1	-	0	transcript_id "file_1_file_1_g12316.t1"; gene_id "file_1_file_1_g12316";
+NODE_32_length_138564_cov_120.984706	AUGUSTUS	exon	70910	71011	.	-	.	transcript_id "file_1_file_1_g12316.t1"; gene_id "file_1_file_1_g12316";
+NODE_32_length_138564_cov_120.984706	AUGUSTUS	intron	71012	71071	1	-	.	transcript_id "file_1_file_1_g12316.t1"; gene_id "file_1_file_1_g12316";
+NODE_32_length_138564_cov_120.984706	AUGUSTUS	CDS	71072	71446	1	-	0	transcript_id "file_1_file_1_g12316.t1"; gene_id "file_1_file_1_g12316";
+NODE_32_length_138564_cov_120.984706	AUGUSTUS	exon	71072	71446	.	-	.	transcript_id "file_1_file_1_g12316.t1"; gene_id "file_1_file_1_g12316";
+NODE_32_length_138564_cov_120.984706	AUGUSTUS	intron	71447	71504	1	-	.	transcript_id "file_1_file_1_g12316.t1"; gene_id "file_1_file_1_g12316";
+NODE_32_length_138564_cov_120.984706	AUGUSTUS	CDS	71505	71572	1	-	2	transcript_id "file_1_file_1_g12316.t1"; gene_id "file_1_file_1_g12316";
+NODE_32_length_138564_cov_120.984706	AUGUSTUS	exon	71505	71572	.	-	.	transcript_id "file_1_file_1_g12316.t1"; gene_id "file_1_file_1_g12316";
+NODE_32_length_138564_cov_120.984706	AUGUSTUS	intron	71573	71629	1	-	.	transcript_id "file_1_file_1_g12316.t1"; gene_id "file_1_file_1_g12316";
+NODE_32_length_138564_cov_120.984706	AUGUSTUS	CDS	71630	71933	1	-	0	transcript_id "file_1_file_1_g12316.t1"; gene_id "file_1_file_1_g12316";
+NODE_32_length_138564_cov_120.984706	AUGUSTUS	gene	69542	71933	1.68	-	.	file_1_file_1_g12316
+NODE_32_length_138564_cov_120.984706	AUGUSTUS	transcript	69542	71933	0.68	-	.	file_1_file_1_g12316.t2
+NODE_32_length_138564_cov_120.984706	AUGUSTUS	transcript	69542	71933	1	-	.	file_1_file_1_g12316.t1
+NODE_32_length_138564_cov_120.984706	AUGUSTUS	exon	71630	71933	.	-	.	transcript_id "file_1_file_1_g12316.t1"; gene_id "file_1_file_1_g12316";
+NODE_32_length_138564_cov_120.984706	AUGUSTUS	start_codon	71931	71933	.	-	0	transcript_id "file_1_file_1_g12316.t1"; gene_id "file_1_file_1_g12316";
+NODE_39_length_131378_cov_125.858333	AUGUSTUS	stop_codon	3096	3098	.	-	0	transcript_id "file_1_file_1_g7869.t1"; gene_id "file_1_file_1_g7869";
+NODE_39_length_131378_cov_125.858333	AUGUSTUS	CDS	3096	3185	0.94	-	0	transcript_id "file_1_file_1_g7869.t1"; gene_id "file_1_file_1_g7869";
+NODE_39_length_131378_cov_125.858333	AUGUSTUS	exon	3096	3185	.	-	.	transcript_id "file_1_file_1_g7869.t1"; gene_id "file_1_file_1_g7869";
+NODE_39_length_131378_cov_125.858333	AUGUSTUS	intron	3186	3243	1	-	.	transcript_id "file_1_file_1_g7869.t1"; gene_id "file_1_file_1_g7869";
+NODE_39_length_131378_cov_125.858333	AUGUSTUS	CDS	3244	3307	1	-	1	transcript_id "file_1_file_1_g7869.t1"; gene_id "file_1_file_1_g7869";
+NODE_39_length_131378_cov_125.858333	AUGUSTUS	exon	3244	3307	.	-	.	transcript_id "file_1_file_1_g7869.t1"; gene_id "file_1_file_1_g7869";
+NODE_39_length_131378_cov_125.858333	AUGUSTUS	intron	3308	3374	1	-	.	transcript_id "file_1_file_1_g7869.t1"; gene_id "file_1_file_1_g7869";
+NODE_39_length_131378_cov_125.858333	AUGUSTUS	CDS	3375	3445	1	-	0	transcript_id "file_1_file_1_g7869.t1"; gene_id "file_1_file_1_g7869";
+NODE_39_length_131378_cov_125.858333	AUGUSTUS	exon	3375	3445	.	-	.	transcript_id "file_1_file_1_g7869.t1"; gene_id "file_1_file_1_g7869";
+NODE_39_length_131378_cov_125.858333	AUGUSTUS	intron	3446	3509	1	-	.	transcript_id "file_1_file_1_g7869.t1"; gene_id "file_1_file_1_g7869";
+NODE_39_length_131378_cov_125.858333	AUGUSTUS	CDS	3510	3632	1	-	0	transcript_id "file_1_file_1_g7869.t1"; gene_id "file_1_file_1_g7869";
+NODE_39_length_131378_cov_125.858333	AUGUSTUS	exon	3510	3632	.	-	.	transcript_id "file_1_file_1_g7869.t1"; gene_id "file_1_file_1_g7869";
+NODE_39_length_131378_cov_125.858333	AUGUSTUS	intron	3633	3703	1	-	.	transcript_id "file_1_file_1_g7869.t1"; gene_id "file_1_file_1_g7869";
+NODE_39_length_131378_cov_125.858333	AUGUSTUS	CDS	3704	3865	1	-	0	transcript_id "file_1_file_1_g7869.t1"; gene_id "file_1_file_1_g7869";
+NODE_39_length_131378_cov_125.858333	AUGUSTUS	gene	3096	3865	0.94	-	.	file_1_file_1_g7869
+NODE_39_length_131378_cov_125.858333	AUGUSTUS	transcript	3096	3865	0.94	-	.	file_1_file_1_g7869.t1
+NODE_39_length_131378_cov_125.858333	AUGUSTUS	exon	3704	3865	.	-	.	transcript_id "file_1_file_1_g7869.t1"; gene_id "file_1_file_1_g7869";
+NODE_39_length_131378_cov_125.858333	AUGUSTUS	start_codon	3863	3865	.	-	0	transcript_id "file_1_file_1_g7869.t1"; gene_id "file_1_file_1_g7869";
+NODE_598_length_14155_cov_121.334991	AUGUSTUS	start_codon	5553	5555	.	+	0	transcript_id "file_1_file_1_g982.t1"; gene_id "file_1_file_1_g982";
+NODE_598_length_14155_cov_121.334991	AUGUSTUS	CDS	5553	5653	1	+	0	transcript_id "file_1_file_1_g982.t1"; gene_id "file_1_file_1_g982";
+NODE_598_length_14155_cov_121.334991	AUGUSTUS	exon	5553	5653	.	+	.	transcript_id "file_1_file_1_g982.t1"; gene_id "file_1_file_1_g982";
+NODE_598_length_14155_cov_121.334991	AUGUSTUS	intron	5654	5739	0.98	+	.	transcript_id "file_1_file_1_g982.t1"; gene_id "file_1_file_1_g982";
+NODE_598_length_14155_cov_121.334991	AUGUSTUS	CDS	5740	5871	0.98	+	1	transcript_id "file_1_file_1_g982.t1"; gene_id "file_1_file_1_g982";
+NODE_598_length_14155_cov_121.334991	AUGUSTUS	exon	5740	5871	.	+	.	transcript_id "file_1_file_1_g982.t1"; gene_id "file_1_file_1_g982";
+NODE_598_length_14155_cov_121.334991	AUGUSTUS	intron	5872	5941	1	+	.	transcript_id "file_1_file_1_g982.t1"; gene_id "file_1_file_1_g982";
+NODE_598_length_14155_cov_121.334991	AUGUSTUS	CDS	5942	6032	1	+	1	transcript_id "file_1_file_1_g982.t1"; gene_id "file_1_file_1_g982";
+NODE_598_length_14155_cov_121.334991	AUGUSTUS	exon	5942	6032	.	+	.	transcript_id "file_1_file_1_g982.t1"; gene_id "file_1_file_1_g982";
+NODE_598_length_14155_cov_121.334991	AUGUSTUS	intron	6033	6092	1	+	.	transcript_id "file_1_file_1_g982.t1"; gene_id "file_1_file_1_g982";
+NODE_598_length_14155_cov_121.334991	AUGUSTUS	CDS	6093	6113	1	+	0	transcript_id "file_1_file_1_g982.t1"; gene_id "file_1_file_1_g982";
+NODE_598_length_14155_cov_121.334991	AUGUSTUS	exon	6093	6113	.	+	.	transcript_id "file_1_file_1_g982.t1"; gene_id "file_1_file_1_g982";
+NODE_598_length_14155_cov_121.334991	AUGUSTUS	intron	6114	6171	1	+	.	transcript_id "file_1_file_1_g982.t1"; gene_id "file_1_file_1_g982";
+NODE_598_length_14155_cov_121.334991	AUGUSTUS	CDS	6172	6257	1	+	0	transcript_id "file_1_file_1_g982.t1"; gene_id "file_1_file_1_g982";
+NODE_598_length_14155_cov_121.334991	AUGUSTUS	exon	6172	6257	.	+	.	transcript_id "file_1_file_1_g982.t1"; gene_id "file_1_file_1_g982";
+NODE_598_length_14155_cov_121.334991	AUGUSTUS	intron	6258	6319	1	+	.	transcript_id "file_1_file_1_g982.t1"; gene_id "file_1_file_1_g982";
+NODE_598_length_14155_cov_121.334991	AUGUSTUS	CDS	6320	6353	1	+	1	transcript_id "file_1_file_1_g982.t1"; gene_id "file_1_file_1_g982";
+NODE_598_length_14155_cov_121.334991	AUGUSTUS	exon	6320	6353	.	+	.	transcript_id "file_1_file_1_g982.t1"; gene_id "file_1_file_1_g982";
+NODE_598_length_14155_cov_121.334991	AUGUSTUS	intron	6354	6404	1	+	.	transcript_id "file_1_file_1_g982.t1"; gene_id "file_1_file_1_g982";
+NODE_598_length_14155_cov_121.334991	AUGUSTUS	CDS	6405	6631	1	+	0	transcript_id "file_1_file_1_g982.t1"; gene_id "file_1_file_1_g982";
+NODE_598_length_14155_cov_121.334991	AUGUSTUS	exon	6405	6631	.	+	.	transcript_id "file_1_file_1_g982.t1"; gene_id "file_1_file_1_g982";
+NODE_598_length_14155_cov_121.334991	AUGUSTUS	intron	6632	6686	1	+	.	transcript_id "file_1_file_1_g982.t1"; gene_id "file_1_file_1_g982";
+NODE_598_length_14155_cov_121.334991	AUGUSTUS	CDS	6687	6921	1	+	1	transcript_id "file_1_file_1_g982.t1"; gene_id "file_1_file_1_g982";
+NODE_598_length_14155_cov_121.334991	AUGUSTUS	gene	5553	6921	0.98	+	.	file_1_file_1_g982
+NODE_598_length_14155_cov_121.334991	AUGUSTUS	transcript	5553	6921	0.98	+	.	file_1_file_1_g982.t1
+NODE_598_length_14155_cov_121.334991	AUGUSTUS	exon	6687	6921	.	+	.	transcript_id "file_1_file_1_g982.t1"; gene_id "file_1_file_1_g982";
+NODE_598_length_14155_cov_121.334991	AUGUSTUS	stop_codon	6919	6921	.	+	0	transcript_id "file_1_file_1_g982.t1"; gene_id "file_1_file_1_g982";
+NODE_97_length_82990_cov_120.929673	AUGUSTUS	start_codon	63763	63765	.	+	0	transcript_id "file_1_file_1_g8904.t1"; gene_id "file_1_file_1_g8904";
+NODE_97_length_82990_cov_120.929673	AUGUSTUS	CDS	63763	65328	1	+	0	transcript_id "file_1_file_1_g8904.t1"; gene_id "file_1_file_1_g8904";
+NODE_97_length_82990_cov_120.929673	AUGUSTUS	exon	63763	65328	.	+	.	transcript_id "file_1_file_1_g8904.t1"; gene_id "file_1_file_1_g8904";
+NODE_97_length_82990_cov_120.929673	AUGUSTUS	stop_codon	65326	65328	.	+	0	transcript_id "file_1_file_1_g8904.t1"; gene_id "file_1_file_1_g8904";
+NODE_97_length_82990_cov_120.929673	AUGUSTUS	gene	63763	65328	1	+	.	file_1_file_1_g8904
+NODE_97_length_82990_cov_120.929673	AUGUSTUS	transcript	63763	65328	1	+	.	file_1_file_1_g8904.t1
+NODE_511_length_17011_cov_120.062537	AUGUSTUS	start_codon	3687	3689	.	+	0	transcript_id "file_1_file_1_g5953.t1"; gene_id "file_1_file_1_g5953";
+NODE_511_length_17011_cov_120.062537	AUGUSTUS	CDS	3687	3819	1	+	0	transcript_id "file_1_file_1_g5953.t1"; gene_id "file_1_file_1_g5953";
+NODE_511_length_17011_cov_120.062537	AUGUSTUS	exon	3687	3819	.	+	.	transcript_id "file_1_file_1_g5953.t1"; gene_id "file_1_file_1_g5953";
+NODE_511_length_17011_cov_120.062537	AUGUSTUS	intron	3820	3875	1	+	.	transcript_id "file_1_file_1_g5953.t1"; gene_id "file_1_file_1_g5953";
+NODE_511_length_17011_cov_120.062537	AUGUSTUS	CDS	3876	3973	1	+	2	transcript_id "file_1_file_1_g5953.t1"; gene_id "file_1_file_1_g5953";
+NODE_511_length_17011_cov_120.062537	AUGUSTUS	exon	3876	3973	.	+	.	transcript_id "file_1_file_1_g5953.t1"; gene_id "file_1_file_1_g5953";
+NODE_511_length_17011_cov_120.062537	AUGUSTUS	intron	3974	4024	1	+	.	transcript_id "file_1_file_1_g5953.t1"; gene_id "file_1_file_1_g5953";
+NODE_511_length_17011_cov_120.062537	AUGUSTUS	CDS	4025	4116	1	+	0	transcript_id "file_1_file_1_g5953.t1"; gene_id "file_1_file_1_g5953";
+NODE_511_length_17011_cov_120.062537	AUGUSTUS	exon	4025	4116	.	+	.	transcript_id "file_1_file_1_g5953.t1"; gene_id "file_1_file_1_g5953";
+NODE_511_length_17011_cov_120.062537	AUGUSTUS	intron	4117	4176	1	+	.	transcript_id "file_1_file_1_g5953.t1"; gene_id "file_1_file_1_g5953";
+NODE_511_length_17011_cov_120.062537	AUGUSTUS	CDS	4177	4220	1	+	1	transcript_id "file_1_file_1_g5953.t1"; gene_id "file_1_file_1_g5953";
+NODE_511_length_17011_cov_120.062537	AUGUSTUS	exon	4177	4220	.	+	.	transcript_id "file_1_file_1_g5953.t1"; gene_id "file_1_file_1_g5953";
+NODE_511_length_17011_cov_120.062537	AUGUSTUS	intron	4221	4287	1	+	.	transcript_id "file_1_file_1_g5953.t1"; gene_id "file_1_file_1_g5953";
+NODE_511_length_17011_cov_120.062537	AUGUSTUS	CDS	4288	4385	1	+	2	transcript_id "file_1_file_1_g5953.t1"; gene_id "file_1_file_1_g5953";
+NODE_511_length_17011_cov_120.062537	AUGUSTUS	exon	4288	4385	.	+	.	transcript_id "file_1_file_1_g5953.t1"; gene_id "file_1_file_1_g5953";
+NODE_511_length_17011_cov_120.062537	AUGUSTUS	intron	4386	4448	1	+	.	transcript_id "file_1_file_1_g5953.t1"; gene_id "file_1_file_1_g5953";
+NODE_511_length_17011_cov_120.062537	AUGUSTUS	CDS	4449	4624	1	+	0	transcript_id "file_1_file_1_g5953.t1"; gene_id "file_1_file_1_g5953";
+NODE_511_length_17011_cov_120.062537	AUGUSTUS	exon	4449	4624	.	+	.	transcript_id "file_1_file_1_g5953.t1"; gene_id "file_1_file_1_g5953";
+NODE_511_length_17011_cov_120.062537	AUGUSTUS	intron	4625	4721	1	+	.	transcript_id "file_1_file_1_g5953.t1"; gene_id "file_1_file_1_g5953";
+NODE_511_length_17011_cov_120.062537	AUGUSTUS	CDS	4722	4972	1	+	1	transcript_id "file_1_file_1_g5953.t1"; gene_id "file_1_file_1_g5953";
+NODE_511_length_17011_cov_120.062537	AUGUSTUS	exon	4722	4972	.	+	.	transcript_id "file_1_file_1_g5953.t1"; gene_id "file_1_file_1_g5953";
+NODE_511_length_17011_cov_120.062537	AUGUSTUS	intron	4973	5027	1	+	.	transcript_id "file_1_file_1_g5953.t1"; gene_id "file_1_file_1_g5953";
+NODE_511_length_17011_cov_120.062537	AUGUSTUS	CDS	5028	5082	1	+	2	transcript_id "file_1_file_1_g5953.t1"; gene_id "file_1_file_1_g5953";
+NODE_511_length_17011_cov_120.062537	AUGUSTUS	exon	5028	5082	.	+	.	transcript_id "file_1_file_1_g5953.t1"; gene_id "file_1_file_1_g5953";
+NODE_511_length_17011_cov_120.062537	AUGUSTUS	intron	5083	5148	1	+	.	transcript_id "file_1_file_1_g5953.t1"; gene_id "file_1_file_1_g5953";
+NODE_511_length_17011_cov_120.062537	AUGUSTUS	CDS	5149	5376	1	+	1	transcript_id "file_1_file_1_g5953.t1"; gene_id "file_1_file_1_g5953";
+NODE_511_length_17011_cov_120.062537	AUGUSTUS	exon	5149	5376	.	+	.	transcript_id "file_1_file_1_g5953.t1"; gene_id "file_1_file_1_g5953";
+NODE_511_length_17011_cov_120.062537	AUGUSTUS	intron	5377	5429	1	+	.	transcript_id "file_1_file_1_g5953.t1"; gene_id "file_1_file_1_g5953";
+NODE_511_length_17011_cov_120.062537	AUGUSTUS	CDS	5430	5666	1	+	1	transcript_id "file_1_file_1_g5953.t1"; gene_id "file_1_file_1_g5953";
+NODE_511_length_17011_cov_120.062537	AUGUSTUS	exon	5430	5666	.	+	.	transcript_id "file_1_file_1_g5953.t1"; gene_id "file_1_file_1_g5953";
+NODE_511_length_17011_cov_120.062537	AUGUSTUS	intron	5667	5756	1	+	.	transcript_id "file_1_file_1_g5953.t1"; gene_id "file_1_file_1_g5953";
+NODE_511_length_17011_cov_120.062537	AUGUSTUS	CDS	5757	5789	1	+	1	transcript_id "file_1_file_1_g5953.t1"; gene_id "file_1_file_1_g5953";
+NODE_511_length_17011_cov_120.062537	AUGUSTUS	exon	5757	5789	.	+	.	transcript_id "file_1_file_1_g5953.t1"; gene_id "file_1_file_1_g5953";
+NODE_511_length_17011_cov_120.062537	AUGUSTUS	intron	5790	5839	1	+	.	transcript_id "file_1_file_1_g5953.t1"; gene_id "file_1_file_1_g5953";
+NODE_511_length_17011_cov_120.062537	AUGUSTUS	CDS	5840	5868	1	+	1	transcript_id "file_1_file_1_g5953.t1"; gene_id "file_1_file_1_g5953";
+NODE_511_length_17011_cov_120.062537	AUGUSTUS	exon	5840	5868	.	+	.	transcript_id "file_1_file_1_g5953.t1"; gene_id "file_1_file_1_g5953";
+NODE_511_length_17011_cov_120.062537	AUGUSTUS	intron	5869	5926	1	+	.	transcript_id "file_1_file_1_g5953.t1"; gene_id "file_1_file_1_g5953";
+NODE_511_length_17011_cov_120.062537	AUGUSTUS	CDS	5927	6078	1	+	2	transcript_id "file_1_file_1_g5953.t1"; gene_id "file_1_file_1_g5953";
+NODE_511_length_17011_cov_120.062537	AUGUSTUS	gene	3687	6078	1	+	.	file_1_file_1_g5953
+NODE_511_length_17011_cov_120.062537	AUGUSTUS	transcript	3687	6078	1	+	.	file_1_file_1_g5953.t1
+NODE_511_length_17011_cov_120.062537	AUGUSTUS	exon	5927	6078	.	+	.	transcript_id "file_1_file_1_g5953.t1"; gene_id "file_1_file_1_g5953";
+NODE_511_length_17011_cov_120.062537	AUGUSTUS	stop_codon	6076	6078	.	+	0	transcript_id "file_1_file_1_g5953.t1"; gene_id "file_1_file_1_g5953";
+NODE_1407_length_3406_cov_126.802944	AUGUSTUS	start_codon	2202	2204	.	+	0	transcript_id "file_1_file_1_g7785.t1"; gene_id "file_1_file_1_g7785";
+NODE_1407_length_3406_cov_126.802944	AUGUSTUS	CDS	2202	2336	1	+	0	transcript_id "file_1_file_1_g7785.t1"; gene_id "file_1_file_1_g7785";
+NODE_1407_length_3406_cov_126.802944	AUGUSTUS	exon	2202	2336	.	+	.	transcript_id "file_1_file_1_g7785.t1"; gene_id "file_1_file_1_g7785";
+NODE_1407_length_3406_cov_126.802944	AUGUSTUS	intron	2337	2388	1	+	.	transcript_id "file_1_file_1_g7785.t1"; gene_id "file_1_file_1_g7785";
+NODE_1407_length_3406_cov_126.802944	AUGUSTUS	CDS	2389	2819	1	+	0	transcript_id "file_1_file_1_g7785.t1"; gene_id "file_1_file_1_g7785";
+NODE_1407_length_3406_cov_126.802944	AUGUSTUS	exon	2389	2819	.	+	.	transcript_id "file_1_file_1_g7785.t1"; gene_id "file_1_file_1_g7785";
+NODE_1407_length_3406_cov_126.802944	AUGUSTUS	intron	2820	2874	0.97	+	.	transcript_id "file_1_file_1_g7785.t1"; gene_id "file_1_file_1_g7785";
+NODE_1407_length_3406_cov_126.802944	AUGUSTUS	CDS	2875	3085	0.97	+	1	transcript_id "file_1_file_1_g7785.t1"; gene_id "file_1_file_1_g7785";
+NODE_1407_length_3406_cov_126.802944	AUGUSTUS	exon	2875	3085	.	+	.	transcript_id "file_1_file_1_g7785.t1"; gene_id "file_1_file_1_g7785";
+NODE_1407_length_3406_cov_126.802944	AUGUSTUS	intron	3086	3135	0.99	+	.	transcript_id "file_1_file_1_g7785.t1"; gene_id "file_1_file_1_g7785";
+NODE_1407_length_3406_cov_126.802944	AUGUSTUS	CDS	3136	3406	0.99	+	0	transcript_id "file_1_file_1_g7785.t1"; gene_id "file_1_file_1_g7785";
+NODE_1407_length_3406_cov_126.802944	AUGUSTUS	gene	2202	3406	0.96	+	.	file_1_file_1_g7785
+NODE_1407_length_3406_cov_126.802944	AUGUSTUS	transcript	2202	3406	0.96	+	.	file_1_file_1_g7785.t1
+NODE_1407_length_3406_cov_126.802944	AUGUSTUS	exon	3136	3406	.	+	.	transcript_id "file_1_file_1_g7785.t1"; gene_id "file_1_file_1_g7785";
+NODE_105_length_80276_cov_129.990686	AUGUSTUS	start_codon	55364	55366	.	+	0	transcript_id "file_1_file_1_g11206.t1"; gene_id "file_1_file_1_g11206";
+NODE_105_length_80276_cov_129.990686	AUGUSTUS	CDS	55364	55624	1	+	0	transcript_id "file_1_file_1_g11206.t1"; gene_id "file_1_file_1_g11206";
+NODE_105_length_80276_cov_129.990686	AUGUSTUS	exon	55364	55624	.	+	.	transcript_id "file_1_file_1_g11206.t1"; gene_id "file_1_file_1_g11206";
+NODE_105_length_80276_cov_129.990686	AUGUSTUS	intron	55625	55681	1	+	.	transcript_id "file_1_file_1_g11206.t1"; gene_id "file_1_file_1_g11206";
+NODE_105_length_80276_cov_129.990686	AUGUSTUS	CDS	55682	55764	1	+	0	transcript_id "file_1_file_1_g11206.t1"; gene_id "file_1_file_1_g11206";
+NODE_105_length_80276_cov_129.990686	AUGUSTUS	exon	55682	55764	.	+	.	transcript_id "file_1_file_1_g11206.t1"; gene_id "file_1_file_1_g11206";
+NODE_105_length_80276_cov_129.990686	AUGUSTUS	intron	55765	55818	1	+	.	transcript_id "file_1_file_1_g11206.t1"; gene_id "file_1_file_1_g11206";
+NODE_105_length_80276_cov_129.990686	AUGUSTUS	CDS	55819	56014	1	+	1	transcript_id "file_1_file_1_g11206.t1"; gene_id "file_1_file_1_g11206";
+NODE_105_length_80276_cov_129.990686	AUGUSTUS	exon	55819	56014	.	+	.	transcript_id "file_1_file_1_g11206.t1"; gene_id "file_1_file_1_g11206";
+NODE_105_length_80276_cov_129.990686	AUGUSTUS	intron	56015	56070	1	+	.	transcript_id "file_1_file_1_g11206.t1"; gene_id "file_1_file_1_g11206";
+NODE_105_length_80276_cov_129.990686	AUGUSTUS	CDS	56071	56137	1	+	0	transcript_id "file_1_file_1_g11206.t1"; gene_id "file_1_file_1_g11206";
+NODE_105_length_80276_cov_129.990686	AUGUSTUS	exon	56071	56137	.	+	.	transcript_id "file_1_file_1_g11206.t1"; gene_id "file_1_file_1_g11206";
+NODE_105_length_80276_cov_129.990686	AUGUSTUS	intron	56138	56203	1	+	.	transcript_id "file_1_file_1_g11206.t1"; gene_id "file_1_file_1_g11206";
+NODE_105_length_80276_cov_129.990686	AUGUSTUS	CDS	56204	56300	1	+	2	transcript_id "file_1_file_1_g11206.t1"; gene_id "file_1_file_1_g11206";
+NODE_105_length_80276_cov_129.990686	AUGUSTUS	exon	56204	56300	.	+	.	transcript_id "file_1_file_1_g11206.t1"; gene_id "file_1_file_1_g11206";
+NODE_105_length_80276_cov_129.990686	AUGUSTUS	intron	56301	56399	1	+	.	transcript_id "file_1_file_1_g11206.t1"; gene_id "file_1_file_1_g11206";
+NODE_105_length_80276_cov_129.990686	AUGUSTUS	CDS	56400	56466	1	+	1	transcript_id "file_1_file_1_g11206.t1"; gene_id "file_1_file_1_g11206";
+NODE_105_length_80276_cov_129.990686	AUGUSTUS	gene	55364	56466	1	+	.	file_1_file_1_g11206
+NODE_105_length_80276_cov_129.990686	AUGUSTUS	transcript	55364	56466	1	+	.	file_1_file_1_g11206.t1
+NODE_105_length_80276_cov_129.990686	AUGUSTUS	exon	56400	56466	.	+	.	transcript_id "file_1_file_1_g11206.t1"; gene_id "file_1_file_1_g11206";
+NODE_105_length_80276_cov_129.990686	AUGUSTUS	stop_codon	56464	56466	.	+	0	transcript_id "file_1_file_1_g11206.t1"; gene_id "file_1_file_1_g11206";
+NODE_12_length_217600_cov_162.883217	AUGUSTUS	start_codon	25440	25442	.	+	0	transcript_id "file_1_file_1_g12098.t1"; gene_id "file_1_file_1_g12098";
+NODE_12_length_217600_cov_162.883217	AUGUSTUS	CDS	25440	25758	1	+	0	transcript_id "file_1_file_1_g12098.t1"; gene_id "file_1_file_1_g12098";
+NODE_12_length_217600_cov_162.883217	AUGUSTUS	exon	25440	25758	.	+	.	transcript_id "file_1_file_1_g12098.t1"; gene_id "file_1_file_1_g12098";
+NODE_12_length_217600_cov_162.883217	AUGUSTUS	intron	25759	25811	1	+	.	transcript_id "file_1_file_1_g12098.t1"; gene_id "file_1_file_1_g12098";
+NODE_12_length_217600_cov_162.883217	AUGUSTUS	CDS	25812	26041	1	+	2	transcript_id "file_1_file_1_g12098.t1"; gene_id "file_1_file_1_g12098";
+NODE_12_length_217600_cov_162.883217	AUGUSTUS	exon	25812	26041	.	+	.	transcript_id "file_1_file_1_g12098.t1"; gene_id "file_1_file_1_g12098";
+NODE_12_length_217600_cov_162.883217	AUGUSTUS	intron	26042	26097	1	+	.	transcript_id "file_1_file_1_g12098.t1"; gene_id "file_1_file_1_g12098";
+NODE_12_length_217600_cov_162.883217	AUGUSTUS	CDS	26098	26784	1	+	0	transcript_id "file_1_file_1_g12098.t1"; gene_id "file_1_file_1_g12098";
+NODE_12_length_217600_cov_162.883217	AUGUSTUS	gene	25440	26784	1	+	.	file_1_file_1_g12098
+NODE_12_length_217600_cov_162.883217	AUGUSTUS	transcript	25440	26784	1	+	.	file_1_file_1_g12098.t1
+NODE_12_length_217600_cov_162.883217	AUGUSTUS	exon	26098	26784	.	+	.	transcript_id "file_1_file_1_g12098.t1"; gene_id "file_1_file_1_g12098";
+NODE_12_length_217600_cov_162.883217	AUGUSTUS	stop_codon	26782	26784	.	+	0	transcript_id "file_1_file_1_g12098.t1"; gene_id "file_1_file_1_g12098";
+NODE_2101_length_1516_cov_18.648367	AUGUSTUS	start_codon	757	759	.	+	0	transcript_id "file_1_file_1_g9292.t1"; gene_id "file_1_file_1_g9292";
+NODE_2101_length_1516_cov_18.648367	AUGUSTUS	CDS	757	1296	0.97	+	0	transcript_id "file_1_file_1_g9292.t1"; gene_id "file_1_file_1_g9292";
+NODE_2101_length_1516_cov_18.648367	AUGUSTUS	exon	757	1296	.	+	.	transcript_id "file_1_file_1_g9292.t1"; gene_id "file_1_file_1_g9292";
+NODE_2101_length_1516_cov_18.648367	AUGUSTUS	stop_codon	1294	1296	.	+	0	transcript_id "file_1_file_1_g9292.t1"; gene_id "file_1_file_1_g9292";
+NODE_2101_length_1516_cov_18.648367	AUGUSTUS	gene	757	1296	0.97	+	.	file_1_file_1_g9292
+NODE_2101_length_1516_cov_18.648367	AUGUSTUS	transcript	757	1296	0.97	+	.	file_1_file_1_g9292.t1
+NODE_53_length_113307_cov_124.024110	AUGUSTUS	stop_codon	101907	101909	.	-	0	transcript_id "file_1_file_1_g8096.t1"; gene_id "file_1_file_1_g8096";
+NODE_53_length_113307_cov_124.024110	AUGUSTUS	CDS	101907	102742	1	-	2	transcript_id "file_1_file_1_g8096.t1"; gene_id "file_1_file_1_g8096";
+NODE_53_length_113307_cov_124.024110	AUGUSTUS	exon	101907	102742	.	-	.	transcript_id "file_1_file_1_g8096.t1"; gene_id "file_1_file_1_g8096";
+NODE_53_length_113307_cov_124.024110	AUGUSTUS	intron	102743	102796	1	-	.	transcript_id "file_1_file_1_g8096.t1"; gene_id "file_1_file_1_g8096";
+NODE_53_length_113307_cov_124.024110	AUGUSTUS	CDS	102797	102895	1	-	2	transcript_id "file_1_file_1_g8096.t1"; gene_id "file_1_file_1_g8096";
+NODE_53_length_113307_cov_124.024110	AUGUSTUS	exon	102797	102895	.	-	.	transcript_id "file_1_file_1_g8096.t1"; gene_id "file_1_file_1_g8096";
+NODE_53_length_113307_cov_124.024110	AUGUSTUS	intron	102896	102955	1	-	.	transcript_id "file_1_file_1_g8096.t1"; gene_id "file_1_file_1_g8096";
+NODE_53_length_113307_cov_124.024110	AUGUSTUS	CDS	102956	103118	1	-	0	transcript_id "file_1_file_1_g8096.t1"; gene_id "file_1_file_1_g8096";
+NODE_53_length_113307_cov_124.024110	AUGUSTUS	exon	102956	103118	.	-	.	transcript_id "file_1_file_1_g8096.t1"; gene_id "file_1_file_1_g8096";
+NODE_53_length_113307_cov_124.024110	AUGUSTUS	intron	103119	103174	1	-	.	transcript_id "file_1_file_1_g8096.t1"; gene_id "file_1_file_1_g8096";
+NODE_53_length_113307_cov_124.024110	AUGUSTUS	CDS	103175	103387	1	-	0	transcript_id "file_1_file_1_g8096.t1"; gene_id "file_1_file_1_g8096";
+NODE_53_length_113307_cov_124.024110	AUGUSTUS	exon	103175	103387	.	-	.	transcript_id "file_1_file_1_g8096.t1"; gene_id "file_1_file_1_g8096";
+NODE_53_length_113307_cov_124.024110	AUGUSTUS	intron	103388	103445	1	-	.	transcript_id "file_1_file_1_g8096.t1"; gene_id "file_1_file_1_g8096";
+NODE_53_length_113307_cov_124.024110	AUGUSTUS	CDS	103446	103595	1	-	0	transcript_id "file_1_file_1_g8096.t1"; gene_id "file_1_file_1_g8096";
+NODE_53_length_113307_cov_124.024110	AUGUSTUS	exon	103446	103595	.	-	.	transcript_id "file_1_file_1_g8096.t1"; gene_id "file_1_file_1_g8096";
+NODE_53_length_113307_cov_124.024110	AUGUSTUS	intron	103596	103649	1	-	.	transcript_id "file_1_file_1_g8096.t1"; gene_id "file_1_file_1_g8096";
+NODE_53_length_113307_cov_124.024110	AUGUSTUS	CDS	103650	103796	1	-	0	transcript_id "file_1_file_1_g8096.t1"; gene_id "file_1_file_1_g8096";
+NODE_53_length_113307_cov_124.024110	AUGUSTUS	exon	103650	103796	.	-	.	transcript_id "file_1_file_1_g8096.t1"; gene_id "file_1_file_1_g8096";
+NODE_53_length_113307_cov_124.024110	AUGUSTUS	intron	103797	103855	1	-	.	transcript_id "file_1_file_1_g8096.t1"; gene_id "file_1_file_1_g8096";
+NODE_53_length_113307_cov_124.024110	AUGUSTUS	CDS	103856	103962	1	-	2	transcript_id "file_1_file_1_g8096.t1"; gene_id "file_1_file_1_g8096";
+NODE_53_length_113307_cov_124.024110	AUGUSTUS	exon	103856	103962	.	-	.	transcript_id "file_1_file_1_g8096.t1"; gene_id "file_1_file_1_g8096";
+NODE_53_length_113307_cov_124.024110	AUGUSTUS	intron	103963	104031	1	-	.	transcript_id "file_1_file_1_g8096.t1"; gene_id "file_1_file_1_g8096";
+NODE_53_length_113307_cov_124.024110	AUGUSTUS	CDS	104032	104365	1	-	0	transcript_id "file_1_file_1_g8096.t1"; gene_id "file_1_file_1_g8096";
+NODE_53_length_113307_cov_124.024110	AUGUSTUS	exon	104032	104365	.	-	.	transcript_id "file_1_file_1_g8096.t1"; gene_id "file_1_file_1_g8096";
+NODE_53_length_113307_cov_124.024110	AUGUSTUS	intron	104366	104420	1	-	.	transcript_id "file_1_file_1_g8096.t1"; gene_id "file_1_file_1_g8096";
+NODE_53_length_113307_cov_124.024110	AUGUSTUS	CDS	104421	104689	1	-	2	transcript_id "file_1_file_1_g8096.t1"; gene_id "file_1_file_1_g8096";
+NODE_53_length_113307_cov_124.024110	AUGUSTUS	exon	104421	104689	.	-	.	transcript_id "file_1_file_1_g8096.t1"; gene_id "file_1_file_1_g8096";
+NODE_53_length_113307_cov_124.024110	AUGUSTUS	intron	104690	104744	1	-	.	transcript_id "file_1_file_1_g8096.t1"; gene_id "file_1_file_1_g8096";
+NODE_53_length_113307_cov_124.024110	AUGUSTUS	CDS	104745	105120	1	-	0	transcript_id "file_1_file_1_g8096.t1"; gene_id "file_1_file_1_g8096";
+NODE_53_length_113307_cov_124.024110	AUGUSTUS	exon	104745	105120	.	-	.	transcript_id "file_1_file_1_g8096.t1"; gene_id "file_1_file_1_g8096";
+NODE_53_length_113307_cov_124.024110	AUGUSTUS	intron	105121	105173	1	-	.	transcript_id "file_1_file_1_g8096.t1"; gene_id "file_1_file_1_g8096";
+NODE_53_length_113307_cov_124.024110	AUGUSTUS	CDS	105174	105989	1	-	0	transcript_id "file_1_file_1_g8096.t1"; gene_id "file_1_file_1_g8096";
+NODE_53_length_113307_cov_124.024110	AUGUSTUS	gene	101907	105989	2	-	.	file_1_file_1_g8096
+NODE_53_length_113307_cov_124.024110	AUGUSTUS	transcript	101907	105989	1	-	.	file_1_file_1_g8096.t1
+NODE_53_length_113307_cov_124.024110	AUGUSTUS	transcript	101907	105989	1	-	.	file_1_file_1_g8096.t2
+NODE_53_length_113307_cov_124.024110	AUGUSTUS	exon	105174	105989	.	-	.	transcript_id "file_1_file_1_g8096.t1"; gene_id "file_1_file_1_g8096";
+NODE_53_length_113307_cov_124.024110	AUGUSTUS	start_codon	105987	105989	.	-	0	transcript_id "file_1_file_1_g8096.t1"; gene_id "file_1_file_1_g8096";
+NODE_100_length_81136_cov_122.025673	AUGUSTUS	stop_codon	38445	38447	.	-	0	transcript_id "file_1_file_1_g4014.t1"; gene_id "file_1_file_1_g4014";
+NODE_100_length_81136_cov_122.025673	AUGUSTUS	CDS	38445	38655	1	-	1	transcript_id "file_1_file_1_g4014.t1"; gene_id "file_1_file_1_g4014";
+NODE_100_length_81136_cov_122.025673	AUGUSTUS	exon	38445	38655	.	-	.	transcript_id "file_1_file_1_g4014.t1"; gene_id "file_1_file_1_g4014";
+NODE_100_length_81136_cov_122.025673	AUGUSTUS	intron	38656	38713	1	-	.	transcript_id "file_1_file_1_g4014.t1"; gene_id "file_1_file_1_g4014";
+NODE_100_length_81136_cov_122.025673	AUGUSTUS	CDS	38714	38805	1	-	0	transcript_id "file_1_file_1_g4014.t1"; gene_id "file_1_file_1_g4014";
+NODE_100_length_81136_cov_122.025673	AUGUSTUS	exon	38714	38805	.	-	.	transcript_id "file_1_file_1_g4014.t1"; gene_id "file_1_file_1_g4014";
+NODE_100_length_81136_cov_122.025673	AUGUSTUS	intron	38806	38857	1	-	.	transcript_id "file_1_file_1_g4014.t1"; gene_id "file_1_file_1_g4014";
+NODE_100_length_81136_cov_122.025673	AUGUSTUS	CDS	38858	39034	1	-	0	transcript_id "file_1_file_1_g4014.t1"; gene_id "file_1_file_1_g4014";
+NODE_100_length_81136_cov_122.025673	AUGUSTUS	exon	38858	39034	.	-	.	transcript_id "file_1_file_1_g4014.t1"; gene_id "file_1_file_1_g4014";
+NODE_100_length_81136_cov_122.025673	AUGUSTUS	intron	39035	39092	1	-	.	transcript_id "file_1_file_1_g4014.t1"; gene_id "file_1_file_1_g4014";
+NODE_100_length_81136_cov_122.025673	AUGUSTUS	CDS	39093	39236	1	-	0	transcript_id "file_1_file_1_g4014.t1"; gene_id "file_1_file_1_g4014";
+NODE_100_length_81136_cov_122.025673	AUGUSTUS	exon	39093	39236	.	-	.	transcript_id "file_1_file_1_g4014.t1"; gene_id "file_1_file_1_g4014";
+NODE_100_length_81136_cov_122.025673	AUGUSTUS	intron	39237	39333	1	-	.	transcript_id "file_1_file_1_g4014.t1"; gene_id "file_1_file_1_g4014";
+NODE_100_length_81136_cov_122.025673	AUGUSTUS	CDS	39334	39607	1	-	1	transcript_id "file_1_file_1_g4014.t1"; gene_id "file_1_file_1_g4014";
+NODE_100_length_81136_cov_122.025673	AUGUSTUS	exon	39334	39607	.	-	.	transcript_id "file_1_file_1_g4014.t1"; gene_id "file_1_file_1_g4014";
+NODE_100_length_81136_cov_122.025673	AUGUSTUS	intron	39608	39661	1	-	.	transcript_id "file_1_file_1_g4014.t1"; gene_id "file_1_file_1_g4014";
+NODE_100_length_81136_cov_122.025673	AUGUSTUS	CDS	39662	39990	1	-	0	transcript_id "file_1_file_1_g4014.t1"; gene_id "file_1_file_1_g4014";
+NODE_100_length_81136_cov_122.025673	AUGUSTUS	exon	39662	39990	.	-	.	transcript_id "file_1_file_1_g4014.t1"; gene_id "file_1_file_1_g4014";
+NODE_100_length_81136_cov_122.025673	AUGUSTUS	intron	39991	40043	1	-	.	transcript_id "file_1_file_1_g4014.t1"; gene_id "file_1_file_1_g4014";
+NODE_100_length_81136_cov_122.025673	AUGUSTUS	CDS	40044	40210	1	-	2	transcript_id "file_1_file_1_g4014.t1"; gene_id "file_1_file_1_g4014";
+NODE_100_length_81136_cov_122.025673	AUGUSTUS	exon	40044	40210	.	-	.	transcript_id "file_1_file_1_g4014.t1"; gene_id "file_1_file_1_g4014";
+NODE_100_length_81136_cov_122.025673	AUGUSTUS	intron	40211	40264	1	-	.	transcript_id "file_1_file_1_g4014.t1"; gene_id "file_1_file_1_g4014";
+NODE_100_length_81136_cov_122.025673	AUGUSTUS	CDS	40265	40508	1	-	0	transcript_id "file_1_file_1_g4014.t1"; gene_id "file_1_file_1_g4014";
+NODE_100_length_81136_cov_122.025673	AUGUSTUS	gene	38445	40508	1	-	.	file_1_file_1_g4014
+NODE_100_length_81136_cov_122.025673	AUGUSTUS	transcript	38445	40508	1	-	.	file_1_file_1_g4014.t1
+NODE_100_length_81136_cov_122.025673	AUGUSTUS	exon	40265	40508	.	-	.	transcript_id "file_1_file_1_g4014.t1"; gene_id "file_1_file_1_g4014";
+NODE_100_length_81136_cov_122.025673	AUGUSTUS	start_codon	40506	40508	.	-	0	transcript_id "file_1_file_1_g4014.t1"; gene_id "file_1_file_1_g4014";
+NODE_69_length_98721_cov_124.320962	AUGUSTUS	stop_codon	53472	53474	.	-	0	transcript_id "file_1_file_1_g1562.t1"; gene_id "file_1_file_1_g1562";
+NODE_69_length_98721_cov_124.320962	AUGUSTUS	CDS	53472	54064	1	-	2	transcript_id "file_1_file_1_g1562.t1"; gene_id "file_1_file_1_g1562";
+NODE_69_length_98721_cov_124.320962	AUGUSTUS	exon	53472	54064	.	-	.	transcript_id "file_1_file_1_g1562.t1"; gene_id "file_1_file_1_g1562";
+NODE_69_length_98721_cov_124.320962	AUGUSTUS	intron	54065	54121	1	-	.	transcript_id "file_1_file_1_g1562.t1"; gene_id "file_1_file_1_g1562";
+NODE_69_length_98721_cov_124.320962	AUGUSTUS	CDS	54122	54472	1	-	2	transcript_id "file_1_file_1_g1562.t1"; gene_id "file_1_file_1_g1562";
+NODE_69_length_98721_cov_124.320962	AUGUSTUS	exon	54122	54472	.	-	.	transcript_id "file_1_file_1_g1562.t1"; gene_id "file_1_file_1_g1562";
+NODE_69_length_98721_cov_124.320962	AUGUSTUS	intron	54473	54525	1	-	.	transcript_id "file_1_file_1_g1562.t1"; gene_id "file_1_file_1_g1562";
+NODE_69_length_98721_cov_124.320962	AUGUSTUS	CDS	54526	54625	1	-	0	transcript_id "file_1_file_1_g1562.t1"; gene_id "file_1_file_1_g1562";
+NODE_69_length_98721_cov_124.320962	AUGUSTUS	exon	54526	54625	.	-	.	transcript_id "file_1_file_1_g1562.t1"; gene_id "file_1_file_1_g1562";
+NODE_69_length_98721_cov_124.320962	AUGUSTUS	intron	54626	54672	1	-	.	transcript_id "file_1_file_1_g1562.t1"; gene_id "file_1_file_1_g1562";
+NODE_69_length_98721_cov_124.320962	AUGUSTUS	CDS	54673	54693	1	-	0	transcript_id "file_1_file_1_g1562.t1"; gene_id "file_1_file_1_g1562";
+NODE_69_length_98721_cov_124.320962	AUGUSTUS	gene	53472	54693	1	-	.	file_1_file_1_g1562
+NODE_69_length_98721_cov_124.320962	AUGUSTUS	transcript	53472	54693	1	-	.	file_1_file_1_g1562.t1
+NODE_69_length_98721_cov_124.320962	AUGUSTUS	exon	54673	54693	.	-	.	transcript_id "file_1_file_1_g1562.t1"; gene_id "file_1_file_1_g1562";
+NODE_69_length_98721_cov_124.320962	AUGUSTUS	start_codon	54691	54693	.	-	0	transcript_id "file_1_file_1_g1562.t1"; gene_id "file_1_file_1_g1562";
+NODE_2582_length_1078_cov_25.066933	AUGUSTUS	stop_codon	34	36	.	-	0	transcript_id "file_1_file_1_g1343.t1"; gene_id "file_1_file_1_g1343";
+NODE_2582_length_1078_cov_25.066933	AUGUSTUS	CDS	34	151	1	-	1	transcript_id "file_1_file_1_g1343.t1"; gene_id "file_1_file_1_g1343";
+NODE_2582_length_1078_cov_25.066933	AUGUSTUS	exon	34	151	.	-	.	transcript_id "file_1_file_1_g1343.t1"; gene_id "file_1_file_1_g1343";
+NODE_2582_length_1078_cov_25.066933	AUGUSTUS	intron	152	201	1	-	.	transcript_id "file_1_file_1_g1343.t1"; gene_id "file_1_file_1_g1343";
+NODE_2582_length_1078_cov_25.066933	AUGUSTUS	CDS	202	368	1	-	0	transcript_id "file_1_file_1_g1343.t1"; gene_id "file_1_file_1_g1343";
+NODE_2582_length_1078_cov_25.066933	AUGUSTUS	exon	202	368	.	-	.	transcript_id "file_1_file_1_g1343.t1"; gene_id "file_1_file_1_g1343";
+NODE_2582_length_1078_cov_25.066933	AUGUSTUS	intron	369	424	1	-	.	transcript_id "file_1_file_1_g1343.t1"; gene_id "file_1_file_1_g1343";
+NODE_2582_length_1078_cov_25.066933	AUGUSTUS	CDS	425	739	1	-	0	transcript_id "file_1_file_1_g1343.t1"; gene_id "file_1_file_1_g1343";
+NODE_2582_length_1078_cov_25.066933	AUGUSTUS	exon	425	739	.	-	.	transcript_id "file_1_file_1_g1343.t1"; gene_id "file_1_file_1_g1343";
+NODE_2582_length_1078_cov_25.066933	AUGUSTUS	intron	740	796	1	-	.	transcript_id "file_1_file_1_g1343.t1"; gene_id "file_1_file_1_g1343";
+NODE_2582_length_1078_cov_25.066933	AUGUSTUS	CDS	797	976	0.64	-	0	transcript_id "file_1_file_1_g1343.t1"; gene_id "file_1_file_1_g1343";
+NODE_2582_length_1078_cov_25.066933	AUGUSTUS	exon	797	976	.	-	.	transcript_id "file_1_file_1_g1343.t1"; gene_id "file_1_file_1_g1343";
+NODE_2582_length_1078_cov_25.066933	AUGUSTUS	intron	977	1029	0.64	-	.	transcript_id "file_1_file_1_g1343.t1"; gene_id "file_1_file_1_g1343";
+NODE_2582_length_1078_cov_25.066933	AUGUSTUS	CDS	1030	1078	0.64	-	1	transcript_id "file_1_file_1_g1343.t1"; gene_id "file_1_file_1_g1343";
+NODE_2582_length_1078_cov_25.066933	AUGUSTUS	gene	34	1078	1.39	-	.	file_1_file_1_g1343
+NODE_2582_length_1078_cov_25.066933	AUGUSTUS	transcript	34	1078	0.64	-	.	file_1_file_1_g1343.t1
+NODE_2582_length_1078_cov_25.066933	AUGUSTUS	exon	1030	1078	.	-	.	transcript_id "file_1_file_1_g1343.t1"; gene_id "file_1_file_1_g1343";
+NODE_233_length_43934_cov_122.668992	AUGUSTUS	stop_codon	28740	28742	.	-	0	transcript_id "file_1_file_1_g8225.t1"; gene_id "file_1_file_1_g8225";
+NODE_233_length_43934_cov_122.668992	AUGUSTUS	CDS	28740	28830	1	-	1	transcript_id "file_1_file_1_g8225.t1"; gene_id "file_1_file_1_g8225";
+NODE_233_length_43934_cov_122.668992	AUGUSTUS	exon	28740	28830	.	-	.	transcript_id "file_1_file_1_g8225.t1"; gene_id "file_1_file_1_g8225";
+NODE_233_length_43934_cov_122.668992	AUGUSTUS	intron	28831	28894	1	-	.	transcript_id "file_1_file_1_g8225.t1"; gene_id "file_1_file_1_g8225";
+NODE_233_length_43934_cov_122.668992	AUGUSTUS	CDS	28895	29469	0.99	-	0	transcript_id "file_1_file_1_g8225.t1"; gene_id "file_1_file_1_g8225";
+NODE_233_length_43934_cov_122.668992	AUGUSTUS	exon	28895	29469	.	-	.	transcript_id "file_1_file_1_g8225.t1"; gene_id "file_1_file_1_g8225";
+NODE_233_length_43934_cov_122.668992	AUGUSTUS	intron	29470	29528	1	-	.	transcript_id "file_1_file_1_g8225.t1"; gene_id "file_1_file_1_g8225";
+NODE_233_length_43934_cov_122.668992	AUGUSTUS	CDS	29529	30416	1	-	0	transcript_id "file_1_file_1_g8225.t1"; gene_id "file_1_file_1_g8225";
+NODE_233_length_43934_cov_122.668992	AUGUSTUS	gene	28740	30416	0.99	-	.	file_1_file_1_g8225
+NODE_233_length_43934_cov_122.668992	AUGUSTUS	transcript	28740	30416	0.99	-	.	file_1_file_1_g8225.t1
+NODE_233_length_43934_cov_122.668992	AUGUSTUS	exon	29529	30416	.	-	.	transcript_id "file_1_file_1_g8225.t1"; gene_id "file_1_file_1_g8225";
+NODE_233_length_43934_cov_122.668992	AUGUSTUS	start_codon	30414	30416	.	-	0	transcript_id "file_1_file_1_g8225.t1"; gene_id "file_1_file_1_g8225";
+NODE_1337_length_3757_cov_129.940217	AUGUSTUS	start_codon	925	927	.	+	0	transcript_id "file_1_file_1_g12686.t1"; gene_id "file_1_file_1_g12686";
+NODE_1337_length_3757_cov_129.940217	AUGUSTUS	CDS	925	2055	0.66	+	0	transcript_id "file_1_file_1_g12686.t1"; gene_id "file_1_file_1_g12686";
+NODE_1337_length_3757_cov_129.940217	AUGUSTUS	exon	925	2055	.	+	.	transcript_id "file_1_file_1_g12686.t1"; gene_id "file_1_file_1_g12686";
+NODE_1337_length_3757_cov_129.940217	AUGUSTUS	stop_codon	2053	2055	.	+	0	transcript_id "file_1_file_1_g12686.t1"; gene_id "file_1_file_1_g12686";
+NODE_1337_length_3757_cov_129.940217	AUGUSTUS	gene	925	2055	0.66	+	.	file_1_file_1_g12686
+NODE_1337_length_3757_cov_129.940217	AUGUSTUS	transcript	925	2055	0.66	+	.	file_1_file_1_g12686.t1
+NODE_1023_length_6010_cov_95.846115	AUGUSTUS	stop_codon	2316	2318	.	-	0	transcript_id "file_1_file_1_g9994.t1"; gene_id "file_1_file_1_g9994";
+NODE_1023_length_6010_cov_95.846115	AUGUSTUS	CDS	2316	2927	0.94	-	0	transcript_id "file_1_file_1_g9994.t1"; gene_id "file_1_file_1_g9994";
+NODE_1023_length_6010_cov_95.846115	AUGUSTUS	exon	2316	2927	.	-	.	transcript_id "file_1_file_1_g9994.t1"; gene_id "file_1_file_1_g9994";
+NODE_1023_length_6010_cov_95.846115	AUGUSTUS	intron	2928	2997	0.97	-	.	transcript_id "file_1_file_1_g9994.t1"; gene_id "file_1_file_1_g9994";
+NODE_1023_length_6010_cov_95.846115	AUGUSTUS	CDS	2998	3285	0.93	-	0	transcript_id "file_1_file_1_g9994.t1"; gene_id "file_1_file_1_g9994";
+NODE_1023_length_6010_cov_95.846115	AUGUSTUS	exon	2998	3285	.	-	.	transcript_id "file_1_file_1_g9994.t1"; gene_id "file_1_file_1_g9994";
+NODE_1023_length_6010_cov_95.846115	AUGUSTUS	intron	3286	3367	0.92	-	.	transcript_id "file_1_file_1_g9994.t1"; gene_id "file_1_file_1_g9994";
+NODE_1023_length_6010_cov_95.846115	AUGUSTUS	CDS	3368	3832	0.25	-	0	transcript_id "file_1_file_1_g9994.t1"; gene_id "file_1_file_1_g9994";
+NODE_1023_length_6010_cov_95.846115	AUGUSTUS	exon	3368	3832	.	-	.	transcript_id "file_1_file_1_g9994.t1"; gene_id "file_1_file_1_g9994";
+NODE_1023_length_6010_cov_95.846115	AUGUSTUS	intron	3833	3917	0.29	-	.	transcript_id "file_1_file_1_g9994.t1"; gene_id "file_1_file_1_g9994";
+NODE_1023_length_6010_cov_95.846115	AUGUSTUS	CDS	3918	4436	0.41	-	0	transcript_id "file_1_file_1_g9994.t1"; gene_id "file_1_file_1_g9994";
+NODE_1023_length_6010_cov_95.846115	AUGUSTUS	gene	2316	4436	0.25	-	.	file_1_file_1_g9994
+NODE_1023_length_6010_cov_95.846115	AUGUSTUS	transcript	2316	4436	0.25	-	.	file_1_file_1_g9994.t1
+NODE_1023_length_6010_cov_95.846115	AUGUSTUS	exon	3918	4436	.	-	.	transcript_id "file_1_file_1_g9994.t1"; gene_id "file_1_file_1_g9994";
+NODE_1023_length_6010_cov_95.846115	AUGUSTUS	start_codon	4434	4436	.	-	0	transcript_id "file_1_file_1_g9994.t1"; gene_id "file_1_file_1_g9994";
+NODE_329_length_30652_cov_122.605429	AUGUSTUS	stop_codon	5740	5742	.	-	0	transcript_id "file_1_file_1_g10630.t1"; gene_id "file_1_file_1_g10630";
+NODE_329_length_30652_cov_122.605429	AUGUSTUS	CDS	5740	5768	1	-	2	transcript_id "file_1_file_1_g10630.t1"; gene_id "file_1_file_1_g10630";
+NODE_329_length_30652_cov_122.605429	AUGUSTUS	exon	5740	5768	.	-	.	transcript_id "file_1_file_1_g10630.t1"; gene_id "file_1_file_1_g10630";
+NODE_329_length_30652_cov_122.605429	AUGUSTUS	intron	5769	5913	1	-	.	transcript_id "file_1_file_1_g10630.t1"; gene_id "file_1_file_1_g10630";
+NODE_329_length_30652_cov_122.605429	AUGUSTUS	CDS	5914	6044	1	-	1	transcript_id "file_1_file_1_g10630.t1"; gene_id "file_1_file_1_g10630";
+NODE_329_length_30652_cov_122.605429	AUGUSTUS	exon	5914	6044	.	-	.	transcript_id "file_1_file_1_g10630.t1"; gene_id "file_1_file_1_g10630";
+NODE_329_length_30652_cov_122.605429	AUGUSTUS	intron	6045	6112	1	-	.	transcript_id "file_1_file_1_g10630.t1"; gene_id "file_1_file_1_g10630";
+NODE_329_length_30652_cov_122.605429	AUGUSTUS	CDS	6113	6711	1	-	0	transcript_id "file_1_file_1_g10630.t1"; gene_id "file_1_file_1_g10630";
+NODE_329_length_30652_cov_122.605429	AUGUSTUS	gene	5740	6711	1	-	.	file_1_file_1_g10630
+NODE_329_length_30652_cov_122.605429	AUGUSTUS	transcript	5740	6711	1	-	.	file_1_file_1_g10630.t1
+NODE_329_length_30652_cov_122.605429	AUGUSTUS	exon	6113	6711	.	-	.	transcript_id "file_1_file_1_g10630.t1"; gene_id "file_1_file_1_g10630";
+NODE_329_length_30652_cov_122.605429	AUGUSTUS	start_codon	6709	6711	.	-	0	transcript_id "file_1_file_1_g10630.t1"; gene_id "file_1_file_1_g10630";
+NODE_119_length_73658_cov_123.372243	AUGUSTUS	start_codon	70737	70739	.	+	0	transcript_id "file_1_file_1_g4760.t1"; gene_id "file_1_file_1_g4760";
+NODE_119_length_73658_cov_123.372243	AUGUSTUS	CDS	70737	70826	0.96	+	0	transcript_id "file_1_file_1_g4760.t1"; gene_id "file_1_file_1_g4760";
+NODE_119_length_73658_cov_123.372243	AUGUSTUS	exon	70737	70826	.	+	.	transcript_id "file_1_file_1_g4760.t1"; gene_id "file_1_file_1_g4760";
+NODE_119_length_73658_cov_123.372243	AUGUSTUS	intron	70827	70896	1	+	.	transcript_id "file_1_file_1_g4760.t1"; gene_id "file_1_file_1_g4760";
+NODE_119_length_73658_cov_123.372243	AUGUSTUS	CDS	70897	71523	0.95	+	0	transcript_id "file_1_file_1_g4760.t1"; gene_id "file_1_file_1_g4760";
+NODE_119_length_73658_cov_123.372243	AUGUSTUS	gene	70737	71523	0.91	+	.	file_1_file_1_g4760
+NODE_119_length_73658_cov_123.372243	AUGUSTUS	transcript	70737	71523	0.91	+	.	file_1_file_1_g4760.t1
+NODE_119_length_73658_cov_123.372243	AUGUSTUS	exon	70897	71523	.	+	.	transcript_id "file_1_file_1_g4760.t1"; gene_id "file_1_file_1_g4760";
+NODE_119_length_73658_cov_123.372243	AUGUSTUS	stop_codon	71521	71523	.	+	0	transcript_id "file_1_file_1_g4760.t1"; gene_id "file_1_file_1_g4760";
+NODE_1_length_537748_cov_127.728364	GeneMark.hmm3	start_codon	422929	422931	.	+	0	gene_id "file_1_file_2_4343_g"; transcript_id "file_1_file_2_4343_t"; evidence "file_1_file_2_1_1";
+NODE_1_length_537748_cov_127.728364	GeneMark.hmm3	CDS	422929	423120	.	+	0	gene_id "file_1_file_2_4343_g"; transcript_id "file_1_file_2_4343_t"; evidence "file_1_file_2_1_0"; cds_type "file_1_file_2_Initial"; count "file_1_file_2_1_3";
+NODE_1_length_537748_cov_127.728364	GeneMark.hmm3	exon	422929	423120	0	+	.	gene_id "file_1_file_2_4343_g"; transcript_id "file_1_file_2_4343_t"; evidence "file_1_file_2_1_0"; cds_type "file_1_file_2_Initial"; count "file_1_file_2_1_3";
+NODE_1_length_537748_cov_127.728364	GeneMark.hmm3	CDS	423236	423347	.	+	0	gene_id "file_1_file_2_4343_g"; transcript_id "file_1_file_2_4343_t"; evidence "file_1_file_2_0_1"; cds_type "file_1_file_2_Internal"; count "file_1_file_2_2_3";
+NODE_1_length_537748_cov_127.728364	GeneMark.hmm3	exon	423236	423347	0	+	.	gene_id "file_1_file_2_4343_g"; transcript_id "file_1_file_2_4343_t"; evidence "file_1_file_2_0_1"; cds_type "file_1_file_2_Internal"; count "file_1_file_2_2_3";
+NODE_1_length_537748_cov_127.728364	GeneMark.hmm3	CDS	423397	423944	.	+	2	gene_id "file_1_file_2_4343_g"; transcript_id "file_1_file_2_4343_t"; evidence "file_1_file_2_1_0"; cds_type "file_1_file_2_Terminal"; count "file_1_file_2_3_3";
+NODE_1_length_537748_cov_127.728364	GeneMark.hmm3	exon	423397	423944	0	+	.	gene_id "file_1_file_2_4343_g"; transcript_id "file_1_file_2_4343_t"; evidence "file_1_file_2_1_0"; cds_type "file_1_file_2_Terminal"; count "file_1_file_2_3_3";
+NODE_1_length_537748_cov_127.728364	GeneMark.hmm3	stop_codon	423942	423944	.	+	0	gene_id "file_1_file_2_4343_g"; transcript_id "file_1_file_2_4343_t";
+NODE_228_length_44825_cov_124.605971	AUGUSTUS	stop_codon	25913	25915	.	-	0	transcript_id "file_1_file_1_g13589.t1"; gene_id "file_1_file_1_g13589";
+NODE_228_length_44825_cov_124.605971	AUGUSTUS	CDS	25913	26012	1	-	1	transcript_id "file_1_file_1_g13589.t1"; gene_id "file_1_file_1_g13589";
+NODE_228_length_44825_cov_124.605971	AUGUSTUS	exon	25913	26012	.	-	.	transcript_id "file_1_file_1_g13589.t1"; gene_id "file_1_file_1_g13589";
+NODE_228_length_44825_cov_124.605971	AUGUSTUS	intron	26013	26073	1	-	.	transcript_id "file_1_file_1_g13589.t1"; gene_id "file_1_file_1_g13589";
+NODE_228_length_44825_cov_124.605971	AUGUSTUS	CDS	26074	26275	1	-	2	transcript_id "file_1_file_1_g13589.t1"; gene_id "file_1_file_1_g13589";
+NODE_228_length_44825_cov_124.605971	AUGUSTUS	exon	26074	26275	.	-	.	transcript_id "file_1_file_1_g13589.t1"; gene_id "file_1_file_1_g13589";
+NODE_228_length_44825_cov_124.605971	AUGUSTUS	intron	26276	26325	1	-	.	transcript_id "file_1_file_1_g13589.t1"; gene_id "file_1_file_1_g13589";
+NODE_228_length_44825_cov_124.605971	AUGUSTUS	CDS	26326	27169	1	-	0	transcript_id "file_1_file_1_g13589.t1"; gene_id "file_1_file_1_g13589";
+NODE_228_length_44825_cov_124.605971	AUGUSTUS	exon	26326	27169	.	-	.	transcript_id "file_1_file_1_g13589.t1"; gene_id "file_1_file_1_g13589";
+NODE_228_length_44825_cov_124.605971	AUGUSTUS	intron	27170	27222	1	-	.	transcript_id "file_1_file_1_g13589.t1"; gene_id "file_1_file_1_g13589";
+NODE_228_length_44825_cov_124.605971	AUGUSTUS	CDS	27223	27276	1	-	0	transcript_id "file_1_file_1_g13589.t1"; gene_id "file_1_file_1_g13589";
+NODE_228_length_44825_cov_124.605971	AUGUSTUS	exon	27223	27276	.	-	.	transcript_id "file_1_file_1_g13589.t1"; gene_id "file_1_file_1_g13589";
+NODE_228_length_44825_cov_124.605971	AUGUSTUS	intron	27277	27339	1	-	.	transcript_id "file_1_file_1_g13589.t1"; gene_id "file_1_file_1_g13589";
+NODE_228_length_44825_cov_124.605971	AUGUSTUS	CDS	27340	27391	1	-	1	transcript_id "file_1_file_1_g13589.t1"; gene_id "file_1_file_1_g13589";
+NODE_228_length_44825_cov_124.605971	AUGUSTUS	exon	27340	27391	.	-	.	transcript_id "file_1_file_1_g13589.t1"; gene_id "file_1_file_1_g13589";
+NODE_228_length_44825_cov_124.605971	AUGUSTUS	intron	27392	27449	1	-	.	transcript_id "file_1_file_1_g13589.t1"; gene_id "file_1_file_1_g13589";
+NODE_228_length_44825_cov_124.605971	AUGUSTUS	CDS	27450	27535	1	-	0	transcript_id "file_1_file_1_g13589.t1"; gene_id "file_1_file_1_g13589";
+NODE_228_length_44825_cov_124.605971	AUGUSTUS	exon	27450	27535	.	-	.	transcript_id "file_1_file_1_g13589.t1"; gene_id "file_1_file_1_g13589";
+NODE_228_length_44825_cov_124.605971	AUGUSTUS	intron	27536	27586	1	-	.	transcript_id "file_1_file_1_g13589.t1"; gene_id "file_1_file_1_g13589";
+NODE_228_length_44825_cov_124.605971	AUGUSTUS	CDS	27587	27737	1	-	1	transcript_id "file_1_file_1_g13589.t1"; gene_id "file_1_file_1_g13589";
+NODE_228_length_44825_cov_124.605971	AUGUSTUS	exon	27587	27737	.	-	.	transcript_id "file_1_file_1_g13589.t1"; gene_id "file_1_file_1_g13589";
+NODE_228_length_44825_cov_124.605971	AUGUSTUS	intron	27738	27801	1	-	.	transcript_id "file_1_file_1_g13589.t1"; gene_id "file_1_file_1_g13589";
+NODE_228_length_44825_cov_124.605971	AUGUSTUS	CDS	27802	28052	1	-	0	transcript_id "file_1_file_1_g13589.t1"; gene_id "file_1_file_1_g13589";
+NODE_228_length_44825_cov_124.605971	AUGUSTUS	gene	25913	28052	1	-	.	file_1_file_1_g13589
+NODE_228_length_44825_cov_124.605971	AUGUSTUS	transcript	25913	28052	1	-	.	file_1_file_1_g13589.t1
+NODE_228_length_44825_cov_124.605971	AUGUSTUS	exon	27802	28052	.	-	.	transcript_id "file_1_file_1_g13589.t1"; gene_id "file_1_file_1_g13589";
+NODE_228_length_44825_cov_124.605971	AUGUSTUS	start_codon	28050	28052	.	-	0	transcript_id "file_1_file_1_g13589.t1"; gene_id "file_1_file_1_g13589";
+NODE_3586_length_497_cov_71.030952	AUGUSTUS	CDS	1	409	0.52	-	0	transcript_id "file_1_file_1_g3207.t1"; gene_id "file_1_file_1_g3207";
+NODE_3586_length_497_cov_71.030952	AUGUSTUS	exon	1	409	.	-	.	transcript_id "file_1_file_1_g3207.t1"; gene_id "file_1_file_1_g3207";
+NODE_3586_length_497_cov_71.030952	AUGUSTUS	start_codon	407	409	.	-	0	transcript_id "file_1_file_1_g3207.t1"; gene_id "file_1_file_1_g3207";
+NODE_3586_length_497_cov_71.030952	AUGUSTUS	gene	1	409	0.52	-	.	file_1_file_1_g3207
+NODE_3586_length_497_cov_71.030952	AUGUSTUS	transcript	1	409	0.52	-	.	file_1_file_1_g3207.t1
+NODE_24_length_159870_cov_126.151634	AUGUSTUS	start_codon	123483	123485	.	+	0	transcript_id "file_1_file_1_g3322.t1"; gene_id "file_1_file_1_g3322";
+NODE_24_length_159870_cov_126.151634	AUGUSTUS	CDS	123483	124658	1	+	0	transcript_id "file_1_file_1_g3322.t1"; gene_id "file_1_file_1_g3322";
+NODE_24_length_159870_cov_126.151634	AUGUSTUS	exon	123483	124658	.	+	.	transcript_id "file_1_file_1_g3322.t1"; gene_id "file_1_file_1_g3322";
+NODE_24_length_159870_cov_126.151634	AUGUSTUS	stop_codon	124656	124658	.	+	0	transcript_id "file_1_file_1_g3322.t1"; gene_id "file_1_file_1_g3322";
+NODE_24_length_159870_cov_126.151634	AUGUSTUS	gene	123483	124658	1	+	.	file_1_file_1_g3322
+NODE_24_length_159870_cov_126.151634	AUGUSTUS	transcript	123483	124658	1	+	.	file_1_file_1_g3322.t1
+NODE_39_length_131378_cov_125.858333	GeneMark.hmm3	start_codon	9764	9766	.	+	0	gene_id "file_1_file_2_8742_g"; transcript_id "file_1_file_2_8742_t";
+NODE_39_length_131378_cov_125.858333	GeneMark.hmm3	CDS	9764	10222	.	+	0	gene_id "file_1_file_2_8742_g"; transcript_id "file_1_file_2_8742_t"; evidence "file_1_file_2_0_1"; cds_type "file_1_file_2_Initial"; count "file_1_file_2_1_7";
+NODE_39_length_131378_cov_125.858333	GeneMark.hmm3	exon	9764	10222	0	+	.	gene_id "file_1_file_2_8742_g"; transcript_id "file_1_file_2_8742_t"; evidence "file_1_file_2_0_1"; cds_type "file_1_file_2_Initial"; count "file_1_file_2_1_7";
+NODE_39_length_131378_cov_125.858333	GeneMark.hmm3	CDS	10305	10430	.	+	0	gene_id "file_1_file_2_8742_g"; transcript_id "file_1_file_2_8742_t"; evidence "file_1_file_2_1_1"; cds_type "file_1_file_2_Internal"; count "file_1_file_2_2_7";
+NODE_39_length_131378_cov_125.858333	GeneMark.hmm3	exon	10305	10430	0	+	.	gene_id "file_1_file_2_8742_g"; transcript_id "file_1_file_2_8742_t"; evidence "file_1_file_2_1_1"; cds_type "file_1_file_2_Internal"; count "file_1_file_2_2_7";
+NODE_39_length_131378_cov_125.858333	GeneMark.hmm3	CDS	10494	10616	.	+	0	gene_id "file_1_file_2_8742_g"; transcript_id "file_1_file_2_8742_t"; evidence "file_1_file_2_1_1"; cds_type "file_1_file_2_Internal"; count "file_1_file_2_3_7";
+NODE_39_length_131378_cov_125.858333	GeneMark.hmm3	exon	10494	10616	0	+	.	gene_id "file_1_file_2_8742_g"; transcript_id "file_1_file_2_8742_t"; evidence "file_1_file_2_1_1"; cds_type "file_1_file_2_Internal"; count "file_1_file_2_3_7";
+NODE_39_length_131378_cov_125.858333	GeneMark.hmm3	CDS	10683	10737	.	+	0	gene_id "file_1_file_2_8742_g"; transcript_id "file_1_file_2_8742_t"; evidence "file_1_file_2_1_1"; cds_type "file_1_file_2_Internal"; count "file_1_file_2_4_7";
+NODE_39_length_131378_cov_125.858333	GeneMark.hmm3	exon	10683	10737	0	+	.	gene_id "file_1_file_2_8742_g"; transcript_id "file_1_file_2_8742_t"; evidence "file_1_file_2_1_1"; cds_type "file_1_file_2_Internal"; count "file_1_file_2_4_7";
+NODE_39_length_131378_cov_125.858333	GeneMark.hmm3	CDS	10789	10891	.	+	2	gene_id "file_1_file_2_8742_g"; transcript_id "file_1_file_2_8742_t"; evidence "file_1_file_2_1_1"; cds_type "file_1_file_2_Internal"; count "file_1_file_2_5_7";
+NODE_39_length_131378_cov_125.858333	GeneMark.hmm3	exon	10789	10891	0	+	.	gene_id "file_1_file_2_8742_g"; transcript_id "file_1_file_2_8742_t"; evidence "file_1_file_2_1_1"; cds_type "file_1_file_2_Internal"; count "file_1_file_2_5_7";
+NODE_39_length_131378_cov_125.858333	GeneMark.hmm3	CDS	10969	11092	.	+	1	gene_id "file_1_file_2_8742_g"; transcript_id "file_1_file_2_8742_t"; evidence "file_1_file_2_1_1"; cds_type "file_1_file_2_Internal"; count "file_1_file_2_6_7";
+NODE_39_length_131378_cov_125.858333	GeneMark.hmm3	exon	10969	11092	0	+	.	gene_id "file_1_file_2_8742_g"; transcript_id "file_1_file_2_8742_t"; evidence "file_1_file_2_1_1"; cds_type "file_1_file_2_Internal"; count "file_1_file_2_6_7";
+NODE_39_length_131378_cov_125.858333	GeneMark.hmm3	CDS	11153	11260	.	+	0	gene_id "file_1_file_2_8742_g"; transcript_id "file_1_file_2_8742_t"; evidence "file_1_file_2_1_0"; cds_type "file_1_file_2_Terminal"; count "file_1_file_2_7_7";
+NODE_39_length_131378_cov_125.858333	GeneMark.hmm3	exon	11153	11260	0	+	.	gene_id "file_1_file_2_8742_g"; transcript_id "file_1_file_2_8742_t"; evidence "file_1_file_2_1_0"; cds_type "file_1_file_2_Terminal"; count "file_1_file_2_7_7";
+NODE_39_length_131378_cov_125.858333	GeneMark.hmm3	stop_codon	11258	11260	.	+	0	gene_id "file_1_file_2_8742_g"; transcript_id "file_1_file_2_8742_t";
+
+NODE_1459_length_3169_cov_123.246766	AUGUSTUS	transcript	2630	3043	0.93	-	.	file_1_file_1_g8762.t1
