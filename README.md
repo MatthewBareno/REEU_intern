@@ -12,7 +12,7 @@ To beging with these analyis, the student need to get familiarized with unix/lin
 1.3. How to edit files using `nano` and `vi`, and other text edit software \
 1.4. Create a github \
 1.4.1. Create a repository \
-1.4.2. Git add, git commit, git push and git pull! \
+1.4.2. Git add, git commit, git push and git pull! 
 2. Accessing to the CQLS \
 2.1 Working in the CQLS cluster \
 2.2 Data structure \
@@ -20,12 +20,12 @@ To beging with these analyis, the student need to get familiarized with unix/lin
 
 
 **28 Jun:**
-1. Access to the CQLS \
-2. Create a directory to organize your github \
+1. Access to the CQLS 
+2. Create a directory to organize your github 
 3. Create a repository for the poplar/septoria GWAS on GitHub \
 3.1 Clone your repository to the CQLS cluster \
 3.2 Create the folder structure following the book "Guide to reproducible code" \
-3.3 Create the folders with `mkdir` and populate the directories witgh "mock" files and scripts (comment the files with your name) \
+3.3 Create the folders with `mkdir` and populate the directories witgh "mock" files and scripts (comment the files with your name) 
 4. Clone your gwas repository in your local git (on your ubuntu machine)
 
 **29 Jun**
@@ -62,9 +62,12 @@ and more!
 Tutorials: 
 Linux: https://www.guru99.com/unix-linux-tutorial.html \
 How to install linux: https://www.guru99.com/install-linux.html \
-BASH Sheetcheat: https://devhints.io/bash
+***new*** BASH Sheetcheat: https://devhints.io/bash \
 Reproducible code: https://www.britishecologicalsociety.org/wp-content/uploads/2017/12/guide-to-reproducible-code.pdf \
-GWAS: https://www.pnas.org/doi/10.1073/pnas.1804428115 \
-PopGen: https://apsjournals.apsnet.org/doi/10.1094/MPMI-05-19-0131-R
+
+|Manuscripts | Link|
+|--|--|
+|Poplar GWAS: | https://www.pnas.org/doi/10.1073/pnas.1804428115 |
+|Septoria PopGen: |https://apsjournals.apsnet.org/doi/10.1094/MPMI-05-19-0131-R |
       
       
