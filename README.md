@@ -72,8 +72,8 @@ Summary of the week -
 ** Today **
 1. Analyze results
 2. Check BWA and GATK \
-2.1 BWA parameters
-2.2 GATK parameter
+2.1 BWA commands [example](https://userweb.eng.gla.ac.uk/umer.ijaz/bioinformatics/BWA_tutorial.pdf)
+2.2 GATK commands [example](https://)
 3. Work on the read alignment against the reference Genome
 
 
