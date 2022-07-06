@@ -36,7 +36,7 @@ To beging with these analyis, the student need to get familiarized with unix/lin
 4. Put together a [`bash`](https://www.gnu.org/software/bash/) script to process ALL your samples with one script
 > Hint: You can find the adapter in one of your outputs from fastQC
 
-**Today**
+**30 Jun**
 1. Work with bash commands
       - `sed`
       - `cut`
@@ -56,6 +56,25 @@ No of contigs: \
 N50:\
 No. of genes: \ 
 and more! 
+
+**1 Jul**
+
+Summary of the week - 
+
+## Week 2
+
+** 5 Jul **
+
+1. Cluster environment and submissions
+2. Running cutadatp in the CQLS cluster
+3. Download genomes
+
+** Today **
+1. Analyze results
+2. Check BWA and GATK \
+2.1 BWA parameters
+2.2 GATK parameter
+3. Work on the read alignment against the reference Genome
 
 
 ### Readings:
