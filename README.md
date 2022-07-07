@@ -69,13 +69,18 @@ Summary of the week -
 2. Running cutadatp in the CQLS cluster
 3. Download genomes
 
-** Today **
+** 6 Jul **
 1. Analyze results
-2. Check BWA and GATK \
-2.1 BWA commands [example](https://userweb.eng.gla.ac.uk/umer.ijaz/bioinformatics/BWA_tutorial.pdf)
-2.2 GATK commands [example](https://)
+2. Check `BWA` and `GATK` \
+2.1 `BWA` commands [example](https://userweb.eng.gla.ac.uk/umer.ijaz/bioinformatics/BWA_tutorial.pdf)
 3. Work on the read alignment against the reference Genome
 
+** Today **
+1. Check `BWA` execution and results
+1.1 Create a folder for all `.bam` files generated with `BWA`
+2. Check `GATK` and `Graphtyper`
+2.2 `GATK` commands [example](https://gatk.broadinstitute.org/hc/en-us/articles/360036194592-Getting-started-with-GATK4)
+2.3 `GraphTyper` commands [paper](https://www.nature.com/articles/s41467-019-13341-9)
 
 ### Readings:
 Tutorials: 
