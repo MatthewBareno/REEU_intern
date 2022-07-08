@@ -71,16 +71,13 @@ Summary of the week -
 
 ** 6 Jul **
 1. Analyze results
-2. Check `BWA` and `GATK` \
-2.1 `BWA` commands [example](https://userweb.eng.gla.ac.uk/umer.ijaz/bioinformatics/BWA_tutorial.pdf)
-3. Work on the read alignment against the reference Genome
+2. Check BWA and GATK \
+2.1 BWA commands [example](https://userweb.eng.gla.ac.uk/umer.ijaz/bioinformatics/BWA_tutorial.pdf) \
 
 ** Today **
-1. Check `BWA` execution and results
-1.1 Create a folder for all `.bam` files generated with `BWA`
-2. Check `GATK` and `Graphtyper`
-2.2 `GATK` commands [example](https://gatk.broadinstitute.org/hc/en-us/articles/360036194592-Getting-started-with-GATK4)
-2.3 `GraphTyper` commands [paper](https://www.nature.com/articles/s41467-019-13341-9)
+1. Finalize working on mapping the read to the alignment against the reference Genome
+2. Learn the GATK commands [example](https://)
+3. Index your Reference Sequence
 
 ### Readings:
 Tutorials: 
