@@ -81,9 +81,9 @@ Summary of the week -
 ** Today **
 1. Wrap up last week \
 1.2. Edit your README.md in your [poplar-septoria-GWA](https://github.com/MatthewBareno/poplar-septoria-GWAS) with all the steps we have done so far. From fastqc, cutadapt, bwa and gatk commands.  \
-2. Install picard.jar /
-< after bwa mem >
-2.1 Search how to assign groups with `picard.jar AddOrReplaceReadGroups` /
+2. Install picard.jar \
+`after bwa mem ` \
+2.1 Search how to assign groups with `picard.jar AddOrReplaceReadGroups` \
 2.2 Search how to sort with `picard.jar SortSam`
 3. Summarize Referece Genomes for _Septoria_ and _Poplar_ 
 > Hints:
