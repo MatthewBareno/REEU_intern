@@ -50,17 +50,13 @@ To beging with these analyis, the student need to get familiarized with unix/lin
       (Find the reference genomes information on the manuscripts)
 2. Understand the formats and concepts behing a genome assembly
 3. Summarize the genome data for _P. trichocarpa_ and _S. musiva_
-> Hints:
-Genome size: \
-No of contigs: \
-N50:\
-No. of genes: \ 
-and more! 
+
 
 **1 Jul**
 
 Summary of the week - 
 
+------
 ## Week 2
 
 ** 5 Jul **
@@ -74,10 +70,24 @@ Summary of the week -
 2. Check BWA and GATK \
 2.1 BWA commands [example](https://userweb.eng.gla.ac.uk/umer.ijaz/bioinformatics/BWA_tutorial.pdf) \
 
-** Today **
+** 7 Jul **
 1. Finalize working on mapping the read to the alignment against the reference Genome
 2. Learn the GATK commands [example](https://)
 3. Index your Reference Sequence
+
+-------
+## Week 3
+
+** Today **
+1. Wrap up last week \
+1.2. Edit your README.md in your [poplar-septoria-GWA](https://github.com/MatthewBareno/poplar-septoria-GWAS) with all the steps we have done so far. From fastqc, cutadapt, bwa and gatk commands.  \
+1.3 Summarize Referece Genomes for _Septoria_ and _Poplar_ 
+> Hints:
+Genome size: \
+No of contigs: \
+N50:\
+No. of genes: \ 
+and more! 
 
 ### Readings:
 Tutorials: 
