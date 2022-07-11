@@ -101,7 +101,7 @@ Reproducible code: https://www.britishecologicalsociety.org/wp-content/uploads/2
 |Poplar GWAS: | https://www.pnas.org/doi/10.1073/pnas.1804428115 |
 | GWAS precedent | https://www.nature.com/articles/ng.3075#Sec10 |
 | GWAS methodology | https://www.nature.com/articles/ng.548 |
-| GEMMA Software |https://github.com/genetics-statistics/GEMMA/releases |
+| GEMMA Software | https://github.com/genetics-statistics/GEMMA |
 |--|--|
 |Septoria PopGen: |https://apsjournals.apsnet.org/doi/10.1094/MPMI-05-19-0131-R |
  
