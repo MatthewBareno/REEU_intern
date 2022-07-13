@@ -14,5 +14,5 @@ java -jar picard.jar AddOrReplaceReadGroups -I S1.sam -O S1.rg.sam -RGLB S1 -RGP
 java -jar picard.jar SortSam I= S1.rg.sam O= S1.rgs.bam SORT_ORDER=coordinate CREATE_INDEX=true
 java -jar picard.jar MarkDuplicates -I S1.rgs.bam -O S1.rgs.mdup.bam -ASSUME_SORT_ORDER coordinate -M S1_mdup_metrics.txt
 java -jar picard.jar SortSam -I S1.rgs.mdup.bam -O S1.mdup.sorted.bam -SORT_ORDER coordinate -CREATE_INDEX true
-gatk HaplotypeCaller -R ref.fasta -I S1.mdup.sorted.bam 
+gatk HaplotypeCaller -R ref.fasta -I S1.mdup.sorted.bam -O S1.vcf  
 ```
