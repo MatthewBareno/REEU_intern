@@ -1,6 +1,8 @@
 # COMMANDS
 
-## VCF files
+## VCF (Variant Call Format) 
+Generating SNPs from sequence data aligned to a reference genome. The alignment of million reads to a reference genome, is a complicated and memory expensive task. Burrows wheeler algorith implemented in the program `bwa` allow the rapid indexing and compression of sequence data, followed by a set of iteration to store data (in binary format), adding groups and sorting reads against the reference sequence, generating a `VCF` file. 
+
 First index the Reference Genome sequence in `.fasta` format
 ```bash
 gatk CreateSequenceDictionary -R ref.fasta
