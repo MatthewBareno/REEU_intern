@@ -59,18 +59,18 @@ Summary of the week -
 ------
 ## Week 2
 
-** 5 Jul **
+**5 Jul**
 
 1. Cluster environment and submissions
 2. Running cutadatp in the CQLS cluster
 3. Download genomes
 
-** 6 Jul **
+**6 Jul**
 1. Analyze results
 2. Check BWA and GATK \
 2.1 BWA commands [example](https://userweb.eng.gla.ac.uk/umer.ijaz/bioinformatics/BWA_tutorial.pdf) \
 
-** 7 Jul **
+**7 Jul**
 1. Finalize working on mapping the read to the alignment against the reference Genome
 2. Learn the GATK commands [example](https://)
 3. Index your Reference Sequence
@@ -78,7 +78,7 @@ Summary of the week -
 -------
 ## Week 3
 
-** 11 Jul **
+**11 Jul **
 1. Wrap up last week \
 1.2. Edit your README.md in your [poplar-septoria-GWA](https://github.com/MatthewBareno/poplar-septoria-GWAS) with all the steps we have done so far. From fastqc, cutadapt, bwa and gatk commands.  \
 2. Install picard.jar \
@@ -86,14 +86,14 @@ Summary of the week -
 2.1 Search how to assign groups with `picard.jar AddOrReplaceReadGroups` \
 2.2 Search how to sort with `picard.jar SortSam`
 
-** 12 Jul **
+**12 Jul **
 1. Debug `gatk` VCF calling.
 2. Execute the `bash` scripts for all septoria genome files 
 
-** 13 Jul ** \
-*_ OFF _*
+**13 Jul ** \
+*_OFF _*
 
-** Today **
+**Today **
 1. Summarize Referece Genomes for _Septoria_ and _Poplar_ 
 > Hints:
 Genome size: \
