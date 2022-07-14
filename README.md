@@ -90,6 +90,9 @@ Summary of the week -
 1. Debug `gatk` VCF calling.
 2. Execute the `bash` scripts for all septoria genome files 
 
+** 13 Jul **
+*** OFF ***
+
 ** Today **
 1. Summarize Referece Genomes for _Septoria_ and _Poplar_ 
 > Hints:
