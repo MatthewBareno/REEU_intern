@@ -78,7 +78,7 @@ Summary of the week -
 -------
 ## Week 3
 
-**11 Jul **
+**11 Jul**
 1. Wrap up last week \
 1.2. Edit your README.md in your [poplar-septoria-GWA](https://github.com/MatthewBareno/poplar-septoria-GWAS) with all the steps we have done so far. From fastqc, cutadapt, bwa and gatk commands.  \
 2. Install picard.jar \
@@ -93,7 +93,7 @@ Summary of the week -
 **13 Jul** \
 *_OFF_*
 
-**14  Jul**
+**14 Jul**
 1. Summarize Referece Genomes for _Septoria_ and _Poplar_ 
 > Hints:
 Genome size: \
@@ -112,7 +112,7 @@ $ /nfs1/BPP/LeBoldus_Lab/user_folders/Shared_projects/data_REEU/PopGWAS2016.vcf.
 Tutorials: 
 Linux: https://www.guru99.com/unix-linux-tutorial.html \
 How to install linux: https://www.guru99.com/install-linux.html \
-***new*** BASH Sheetcheat: https://devhints.io/bash \
+BASH Sheetcheat: https://devhints.io/bash \
 Reproducible code: https://www.britishecologicalsociety.org/wp-content/uploads/2017/12/guide-to-reproducible-code.pdf \
 
 |Manuscripts | Link|
