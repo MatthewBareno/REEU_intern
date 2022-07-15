@@ -103,7 +103,7 @@ No. of genes: \
 
 **Today**
 1. Install [GEMMA](https://github.com/genetics-statistics/GEMMA)
-2. Copy the VCF file and the [phenotype data]() 
+2. Copy the VCF file and the [phenotype data](https://github.com/ricardoi/REEU_intern/blob/main/data/Final%20GWAS%20Dataset%20for%20DOE.xlsx) 
 ```
 $ /nfs1/BPP/LeBoldus_Lab/user_folders/Shared_projects/data_REEU/PopGWAS2016.vcf.tar.gz
 ```
