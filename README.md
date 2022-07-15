@@ -86,14 +86,14 @@ Summary of the week -
 2.1 Search how to assign groups with `picard.jar AddOrReplaceReadGroups` \
 2.2 Search how to sort with `picard.jar SortSam`
 
-**12 Jul **
+**12 Jul**
 1. Debug `gatk` VCF calling.
 2. Execute the `bash` scripts for all septoria genome files 
 
-**13 Jul ** \
-*_OFF _*
+**13 Jul** \
+*_OFF_*
 
-**Today **
+**14  Jul**
 1. Summarize Referece Genomes for _Septoria_ and _Poplar_ 
 > Hints:
 Genome size: \
@@ -101,6 +101,12 @@ No of contigs: \
 N50:\
 No. of genes: \ 
 
+**Today**
+1. Install [GEMMA](https://github.com/genetics-statistics/GEMMA)
+2. Copy the VCF file and the [phenotype data]() 
+```
+$ /nfs1/BPP/LeBoldus_Lab/user_folders/Shared_projects/data_REEU/PopGWAS2016.vcf.tar.gz
+```
 
 ### Readings:
 Tutorials: 
