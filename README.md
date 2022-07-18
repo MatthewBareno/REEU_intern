@@ -114,7 +114,7 @@ $ /nfs1/BPP/LeBoldus_Lab/user_folders/Shared_projects/data_REEU/PopGWAS2016.vcf.
 1. Test the `GEMMA` software
 1.1 Use the example data and understand the file structure \
 1.2 What files are we missing? Collect them \
-2. Poplar VCF:
+2. [Poplar VCF](https://doi.ccs.ornl.gov/ui/doi/55):
 2.1 Get the sample names \
 Install `vcfR`
 ```R
@@ -136,6 +136,7 @@ Reproducible code: https://www.britishecologicalsociety.org/wp-content/uploads/2
 |Manuscripts | Link|
 |--|--|
 |Poplar GWAS: | https://www.pnas.org/doi/10.1073/pnas.1804428115 |
+|Poplar VCF info | https://doi.ccs.ornl.gov/ui/doi/55 |
 | GWAS precedent | https://www.nature.com/articles/ng.3075#Sec10 |
 | GWAS methodology | https://www.nature.com/articles/ng.548 |
 | GEMMA Software | https://github.com/genetics-statistics/GEMMA |
