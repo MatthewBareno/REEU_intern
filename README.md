@@ -101,12 +101,30 @@ No of contigs: \
 N50:\
 No. of genes: \ 
 
-**Today**
+**15 Jul**
 1. Install [GEMMA](https://github.com/genetics-statistics/GEMMA)
 2. Copy the VCF file and the [phenotype data](https://github.com/ricardoi/REEU_intern/blob/main/data/Final%20GWAS%20Dataset%20for%20DOE.xlsx) 
 ```
 $ /nfs1/BPP/LeBoldus_Lab/user_folders/Shared_projects/data_REEU/PopGWAS2016.vcf.tar.gz
 ```
+
+--------
+## Week 4
+**Today**
+1. Test the `GEMMA` software
+1.1 Use the example data and understand the file structure \
+1.2 What files are we missing? Collect them \
+2. Poplar VCF:
+2.1 Get the sample names \
+Install `vcfR`
+```R
+library(vcfR)
+poplar <- read.vcfR(poplar.vcf)
+poplar.IDs <- colnames(poplar@gt)
+write.csv(poplar.name, "poplar_names_vcf.csv")
+```
+2.2 Select or subset the GWAS metadata using `poplar_names_vcf.csv` \
+2.3 Format the metadata using the `GEMMA` structure.
 
 ### Readings:
 Tutorials: 
