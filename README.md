@@ -101,12 +101,33 @@ No of contigs: \
 N50:\
 No. of genes: \ 
 
-**Today**
+**15 Jul**
 1. Install [GEMMA](https://github.com/genetics-statistics/GEMMA)
 2. Copy the VCF file and the [phenotype data](https://github.com/ricardoi/REEU_intern/blob/main/data/Final%20GWAS%20Dataset%20for%20DOE.xlsx) 
 ```
 $ /nfs1/BPP/LeBoldus_Lab/user_folders/Shared_projects/data_REEU/PopGWAS2016.vcf.tar.gz
 ```
+
+--------
+## Week 4
+**Today**
+1. Test the `GEMMA` software
+1.1 Use the example data and understand the file structure \
+2. Generate the VCF
+```bash 
+java -jar gatk.jar -T GenotypeGVCFs -R REF.fna -o file_jointcalls.vcf -V 1.vcf -V 2.vcf -V n.vcf
+```
+3. Septoria VCF:
+3.1 Get the sample names \
+Install `vcfR`
+```R
+library(vcfR)
+poplar <- read.vcfR(poplar.vcf)
+poplar.IDs <- colnames(poplar@gt)
+write.csv(poplar.name, "poplar_names_vcf.csv")
+```
+3.2 Select or subset the GWAS metadata using `poplar_names_vcf.csv` \
+3.3 Format the metadata using the `GEMMA` structure.
 
 ### Readings:
 Tutorials: 
@@ -118,6 +139,7 @@ Reproducible code: https://www.britishecologicalsociety.org/wp-content/uploads/2
 |Manuscripts | Link|
 |--|--|
 |Poplar GWAS: | https://www.pnas.org/doi/10.1073/pnas.1804428115 |
+|Poplar VCF info | https://doi.ccs.ornl.gov/ui/doi/55 |
 | GWAS precedent | https://www.nature.com/articles/ng.3075#Sec10 |
 | GWAS methodology | https://www.nature.com/articles/ng.548 |
 | GEMMA Software | https://github.com/genetics-statistics/GEMMA |
