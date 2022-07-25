@@ -122,7 +122,7 @@ java -jar gatk.jar -T GenotypeGVCFs -R REF.fna -o file_jointcalls.vcf -V 1.vcf -
 1. Submit an array in the CQLS cluster to generate VCFs for the second part of septoria reads
 2. Parse the phenotype data by septoria isolate and poplar genotype 
 
-**Today**
+**Jul 20**
 1. Finalyze the parsing of the phenotype data \
 1.1 Generate a `.txt` with the input in GEMMA structure. 
 2. Parse the phenotypes based on the `All_septoria.vcf` \
@@ -135,7 +135,18 @@ poplar.IDs <- colnames(poplar@gt)
 write.csv(poplar.name, "poplar_names_vcf.csv")
 ```
 
+**Jul 21**
+1. Generate VCF with all individual `.vcf` files
+2. Finalize the inputs for GEMMA input
+
+**Jul 22**
+1. Producce the `.bim`, `.bed` and `.fam`
+2. Try to run GEMMA software
 ---------
+## Week 5
+
+** Today **
+1. Debugging day
 
 ### Readings:
 Tutorials: 
@@ -151,6 +162,7 @@ Reproducible code: https://www.britishecologicalsociety.org/wp-content/uploads/2
 | GWAS precedent | https://www.nature.com/articles/ng.3075#Sec10 |
 | GWAS methodology | https://www.nature.com/articles/ng.548 |
 | GEMMA Software | https://github.com/genetics-statistics/GEMMA |
+| BIMBAM | http://www.haplotype.org/software.html|
 |--|--|
 |Septoria PopGen: |https://apsjournals.apsnet.org/doi/10.1094/MPMI-05-19-0131-R |
  
