@@ -145,8 +145,8 @@ write.csv(poplar.name, "poplar_names_vcf.csv")
 ---------
 ## Week 5
 
-** Today **
-1. Debugging day
+** This week **
+1. Debugging and polishing
 
 ### Readings:
 Tutorials: 
