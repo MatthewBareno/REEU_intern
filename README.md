@@ -110,24 +110,43 @@ $ /nfs1/BPP/LeBoldus_Lab/user_folders/Shared_projects/data_REEU/PopGWAS2016.vcf.
 
 --------
 ## Week 4
-**Today**
+**Jul 18**
 1. Test the `GEMMA` software
 1.1 Use the example data and understand the file structure \
 2. Generate the VCF
 ```bash 
 java -jar gatk.jar -T GenotypeGVCFs -R REF.fna -o file_jointcalls.vcf -V 1.vcf -V 2.vcf -V n.vcf
 ```
-3. Septoria VCF:
-3.1 Get the sample names \
-Install `vcfR`
+
+**Jul 19**
+1. Submit an array in the CQLS cluster to generate VCFs for the second part of septoria reads
+2. Parse the phenotype data by septoria isolate and poplar genotype 
+
+**Jul 20**
+1. Finalyze the parsing of the phenotype data \
+1.1 Generate a `.txt` with the input in GEMMA structure. 
+2. Parse the phenotypes based on the `All_septoria.vcf` \
+2.1 Get the sample names of the septoria `.vcf` \
+2.2 Install `vcfR` \
 ```R
 library(vcfR)
 poplar <- read.vcfR(poplar.vcf)
 poplar.IDs <- colnames(poplar@gt)
 write.csv(poplar.name, "poplar_names_vcf.csv")
 ```
-3.2 Select or subset the GWAS metadata using `poplar_names_vcf.csv` \
-3.3 Format the metadata using the `GEMMA` structure.
+
+**Jul 21**
+1. Generate VCF with all individual `.vcf` files
+2. Finalize the inputs for GEMMA input
+
+**Jul 22**
+1. Producce the `.bim`, `.bed` and `.fam`
+2. Try to run GEMMA software
+---------
+## Week 5
+
+** This week **
+1. Debugging and polishing
 
 ### Readings:
 Tutorials: 
@@ -143,6 +162,7 @@ Reproducible code: https://www.britishecologicalsociety.org/wp-content/uploads/2
 | GWAS precedent | https://www.nature.com/articles/ng.3075#Sec10 |
 | GWAS methodology | https://www.nature.com/articles/ng.548 |
 | GEMMA Software | https://github.com/genetics-statistics/GEMMA |
+| BIMBAM | http://www.haplotype.org/software.html|
 |--|--|
 |Septoria PopGen: |https://apsjournals.apsnet.org/doi/10.1094/MPMI-05-19-0131-R |
  
