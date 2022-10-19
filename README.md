@@ -162,6 +162,8 @@ Reproducible code: https://www.britishecologicalsociety.org/wp-content/uploads/2
 | GWAS precedent | https://www.nature.com/articles/ng.3075#Sec10 |
 | GWAS methodology | https://www.nature.com/articles/ng.548 |
 | GEMMA Software | https://github.com/genetics-statistics/GEMMA |
+| GWAS Robustness | https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3025716/ |
+| GWAS Doc man | https://vcru.wisc.edu/simonlab/bioinformatics/programs/fcgene/fcgene-1.0.7.pdf |
 | BIMBAM | http://www.haplotype.org/software.html|
 |--|--|
 |Septoria PopGen: |https://apsjournals.apsnet.org/doi/10.1094/MPMI-05-19-0131-R |
